@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Signals — what the money podcasts are really saying</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <h1>Signals</h1>
+  <p class="tagline">What the money podcasts are really saying.</p>
+  <p class="meta" id="meta-line"></p>
+</header>
+
+<section class="filters" aria-label="Filters">
+  <div class="filter-group" id="source-filters"></div>
+  <div class="filter-group" id="verdict-filters"></div>
+</section>
+
+<section class="stats" id="stats" aria-live="polite"></section>
+
+<main id="timeline"></main>
+
+<footer>
+  <p class="legend">
+    <span class="badge v-opportunity">Opportunity</span> actionable idea ·
+    <span class="badge v-risk">Risk</span> warning flag ·
+    <span class="badge v-theme">Theme</span> structural context ·
+    <span class="badge v-none">None</span> no signal
+  </p>
+  <p class="updated" id="updated"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
