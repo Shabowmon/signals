@@ -56,7 +56,7 @@
     vWrap.innerHTML = "";
     ["All"].concat(VERDICTS).forEach(function (v) {
       var b = document.createElement("button");
-      b.className = "chip" + (state.verdict === v ? " active" : "");
+      b.className = "chip" + (v === "All" ? "" : " v-" + v.toLowerCase()) + (state.verdict === v ? " active" : "");
       b.textContent = v === "All" ? "All" : VERDICT_LABEL[v];
       b.addEventListener("click", function () { state.verdict = v; render(); });
       vWrap.appendChild(b);

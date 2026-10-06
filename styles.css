@@ -146,6 +146,11 @@ body {
 .v-theme { background: rgba(59, 130, 246, 0.15); color: var(--blue); border: 1px solid rgba(59, 130, 246, 0.4); }
 .v-none { background: rgba(107, 114, 128, 0.15); color: var(--gray); border: 1px solid rgba(107, 114, 128, 0.4); }
 
+.chip.v-opportunity.active { background: var(--green); border-color: var(--green); color: #111; }
+.chip.v-risk.active { background: var(--red); border-color: var(--red); color: #111; }
+.chip.v-theme.active { background: var(--blue); border-color: var(--blue); color: #111; }
+.chip.v-none.active { background: var(--gray); border-color: var(--gray); color: #111; }
+
 .card h2 {
   margin: 0 0 8px;
   font-size: 18px;
