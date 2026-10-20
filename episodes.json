@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-20 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-10-20 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-20",
+  "source": "Up First",
+  "title": "Pushback On Trump's Russia Policy, Competitive Midterm Races, DOJ Noncitizen Voting",
+  "verdict": "NONE",
+  "bullets": [
+   "Ukrainian President Volodymyr Zelenskyy discusses delayed U.S. weapons and intelligence directly with Congress amidst bipartisan scrutiny of Trump's Russia strategy.",
+   "Republicans heavily fund defense of conservative territory as Democrats expand the midterm election map.",
+   "The episode covers general geopolitical and domestic political news with no direct actionable personal finance angle."
+  ],
+  "url": "https://www.npr.org/2026/10/20/nx-s1-6008838/pushback-on-trumps-russia-policy-competitive-midterm-races-doj-noncitizen-voting"
+ },
+ {
+  "date": "2026-10-20",
+  "source": "Odd Lots",
+  "title": "CME's Terry Duffy on the Disconcerting State of Finance Regulation",
+  "verdict": "THEME",
+  "bullets": [
+   "CME veteran Terry Duffy reflects on five decades of financial regulation changes during a live exit interview.",
+   "The discussion covers the growing structural shifts toward 24/7 trading, perpetual futures, and prediction markets.",
+   "Investors monitoring regulatory shifts in derivatives and prediction markets face evolving compliance and market stability trends over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/cmes-terry-duffy-on-the-disconcerting-state-of-finance-regulation"
+ },
  {
   "date": "2026-10-19",
   "source": "Up First",
