@@ -1,436 +1,2197 @@
-// Signals data — generated 2026-10-04 — 36 episodes (Planet Money 21 · Up First 5 · Odd Lots 10)
-// Sources: ~/workspace/money-insight/planet-money-3mo-briefs.md, npr-news-5-briefs.md, odd-lots-10-briefs.md
-// Note: the Planet Money briefs file recorded no per-episode verdicts, so those 21 were
-// classified from the briefs for this build using the OPPORTUNITY/RISK/THEME/NONE framework.
+// Signals data — generated 2026-10-20 — 183 episodes (rolling 3 months)
 [
-  {
-    "date": "2026-10-02",
-    "source": "Up First",
-    "title": "Wages Vs Inflation, Tennessee Failed Execution, Cornell Rape Case Special Prosecutor",
-    "verdict": "RISK",
-    "bullets": [
-      "Wages +3.1% vs PCE inflation 3.4% — the typical worker is losing buying power and borrowing to fill the gap.",
-      "Borrowing costs climbing: the Fed hiked, the 10-yr sits ~5–5.25%, mortgages near 7.5%, federal debt at $40T, and AI-capex borrowing is crowding out other borrowers.",
-      "Money angle: consumer-credit stress is a warning flag for consumer-discretionary stocks and lenders."
-    ],
-    "url": "https://podscripts.co/podcasts/up-first-from-npr/wages-vs-inflation-tennessee-failed-execution-cornell-rape-case-special-prosecutor"
-  },
-  {
-    "date": "2026-10-02",
-    "source": "Odd Lots",
-    "title": "How Airlines Actually Hedge Higher Fuel Prices",
-    "verdict": "THEME",
-    "bullets": [
-      "Airlines hedge jet fuel with swaps and options — symmetric swaps lock in costs but bleed if oil falls; best bought when oil is $25–35, dangerous at $70–80.",
-      "No liquid jet-fuel futures exist, so airlines proxy-hedge with heating oil; costs pass through via ticket prices and surcharges.",
-      "Timely: two wars hitting energy infrastructure; the G7 releasing up to 100M barrels."
-    ],
-    "url": "https://podscan.fm/podcasts/odd-lots-1"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Up First",
-    "title": "FlyDubai Midair Attack, Trump Midterm Campaigning, Hegseth Reshaping Military",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "New 4-star command for autonomous warfare + a Pentagon procurement overhaul, advised by Palmer Luckey and Elon Musk.",
-      "Trump touted a $15B Iowa steel plant and $54B of South Korean investment in Alaska LNG.",
-      "Money angle: a concrete defense-tech lead — unmanned systems and startups vs. primes; energy-capex announcements."
-    ],
-    "url": "https://podscripts.co/podcasts/up-first-from-npr/flydubai-midair-attack-trump-midterm-campaigning-hegseth-reshaping-military"
-  },
-  {
-    "date": "2026-10-01",
-    "source": "Odd Lots",
-    "title": "Everything in Markets Is Now Moving Incredibly Fast",
-    "verdict": "RISK",
-    "bullets": [
-      "Breadth is 'absolutely god-awful': the S&P is 0.5% off highs with only 51.2% of stocks above their 200-day — last seen the day after the dot-com peak.",
-      "The market is a single-factor AI bet: ~half of 2026 earnings growth from hyperscaler capex; Oracle flagged for elevated debt and rising CDS; the 10-yr above 5%.",
-      "Money angle: narrow breadth + single-factor bet + early credit stress = classic late-cycle fragility. Watch credit and earnings revisions, not index levels."
-    ],
-    "url": "https://podscripts.co/podcasts/odd-lots/everything-in-markets-is-now-moving-incredibly-fast"
-  },
-  {
-    "date": "2026-09-30",
-    "source": "Up First",
-    "title": "Trump AI Summit, US Pulls Out Of Iraq, SCOTUS Third Country Deportations",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "White House AI summit: a voluntary 'Super Intelligence' accord signed by Anthropic, Google, Meta, OpenAI, Nvidia, and xAI — morally binding, not legally enforceable.",
-      "Firms are spending hundreds of billions on data centers; Huang called them 'super intelligence factories' reindustrializing the US.",
-      "Money angle: lighter regulatory overhang is a tailwind for AI/big tech and the data-center value chain; local opposition is the project risk."
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "source": "Up First",
-    "title": "UK Terror Plot Investigation, Trump's Fuel Efficiency Rollback, Cornell Rape Case",
-    "verdict": "RISK",
-    "bullets": [
-      "CAFE rollback: the fleet target cut from ~50 mpg to ~35 mpg; the admin claims ~$1,300 off sticker prices.",
-      "The catch: >50% of vehicles sold in China were electric last year (30% in Europe) — the rollback risks US automakers 'getting left behind globally.'",
-      "Money angle: near-term margin relief vs. long-term EV competitiveness loss — a warning flag for US auto equities."
-    ],
-    "url": "https://podscripts.co/podcasts/up-first-from-npr/uk-terror-plot-investigation-trumps-fuel-efficiency-rollback-cornell-rape-case"
-  },
-  {
-    "date": "2026-09-28",
-    "source": "Up First",
-    "title": "Trump Rejects Iran's Ceasefire, UK Foiled Plot On US Base, Trump Press Corps Fight",
-    "verdict": "RISK",
-    "bullets": [
-      "Trump rejected Iran's offer (a 7-day pause + Hormuz reopening for a lifted blockade and unfrozen funds); ~13M bbl/day moving through Hormuz vs. 15–17M prewar.",
-      "Seven months into the US-Israel war on Iran; sanctions are 'strangling' the Iranian economy.",
-      "Money angle: the Hormuz flow deficit is persistent oil-price and shipping-cost risk."
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "source": "Odd Lots",
-    "title": "Why Building a Crosswalk in LA Is Kafkaesque",
-    "verdict": "THEME",
-    "bullets": [
-      "LA real-estate panel: Kafkaesque permitting (a single crosswalk!), construction-component sourcing pain, and whether self-driving cars reshape the city.",
-      "Context: 7% mortgages forcing sellers to slash prices; AI data-center heat as a new urban problem.",
-      "Money angle: permitting dysfunction as a structural housing-supply constraint — theme, not a trade."
-    ],
-    "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
-  },
-  {
-    "date": "2026-09-25",
-    "source": "Odd Lots",
-    "title": "Hollywood Was Cooked Before AI, and Now It's Only Getting Worse",
-    "verdict": "THEME",
-    "bullets": [
-      "Hollywood's decline predates AI — writers earning less, fewer LA shoots, sliding since the pandemic; AI is an accelerant, not the cause.",
-      "Consolidation is the industry's response (Paramount settling suits, clearing the Warner Bros. deal).",
-      "Money angle: a data point on AI-era white-collar displacement; creative-labor markets under structural pressure."
-    ],
-    "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
-  },
-  {
-    "date": "2026-09-24",
-    "source": "Odd Lots",
-    "title": "AI Is Upending the Lives of People Who Do Social Media Professionally",
-    "verdict": "THEME",
-    "bullets": [
-      "Bosses now outsource gut instinct to AI ('is this meme funny, Claude?') — 'demoralizing as hell'; no training or guardrails.",
-      "Who's exposed: how-to/authority creators ('why trust a YouTuber over AI to fix your dishwasher?'); opinion creators are more defensible.",
-      "Money angle: AI hollowing out creative/marketing employment from the inside — the labor-displacement theme, same pattern as AI-written code."
-    ],
-    "url": "https://podscripts.co/podcasts/odd-lots/ai-is-upending-the-lives-of-people-who-do-social-media-professionally"
-  },
-  {
-    "date": "2026-09-21",
-    "source": "Odd Lots",
-    "title": "How LA Is Quietly Becoming America's New Industrial Tech Hub",
-    "verdict": "THEME",
-    "bullets": [
-      "Hadrian's 'Foxconn to every defense prime': autonomous contract manufacturing; the bottleneck is software engineering, not robots.",
-      "South Bay/Orange County cluster: ex-SpaceX founders, nuclear, drones, Anduril, 3D printing; vicious talent wars.",
-      "Money angle: reindustrialization is real at the company level — but the featured companies are private. Theme, not a pick."
-    ],
-    "url": "https://podscripts.co/podcasts/odd-lots/how-la-is-quietly-becoming-americas-new-industrial-tech-hub"
-  },
-  {
-    "date": "2026-09-19",
-    "source": "Odd Lots",
-    "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
-    "verdict": "THEME",
-    "bullets": [
-      "Goldman's M&A co-head: record big-deal volumes 'as companies scramble to compete with AI' — explicit parallels to the early-2000s TMT era.",
-      "LA 2028: privately funded, no new venues, 15M tickets (half already sold at premium prices); NBC rights locked through 2036 at $1.5B+ per Games.",
-      "Money angle: record AI-driven M&A + TMT-bubble parallels = late-cycle flavor worth noting."
-    ],
-    "url": "https://podscripts.co/podcasts/odd-lots/a-goldman-ma-banker-helped-bring-the-olympics-to-los-angeles"
-  },
-  {
-    "date": "2026-09-18",
-    "source": "Odd Lots",
-    "title": "There's a Mind-Boggling Number of Rich People in America",
-    "verdict": "THEME",
-    "bullets": [
-      "~3 million private business owners averaging ~$25M in wealth — 'Main Street Millionaires' hiding behind post-1986 tax-code complexity.",
-      "The rise of pass-throughs tracks the rise in measured inequality; the nation's dentists collectively out-earn the NFL.",
-      "Money angle: wealth-concentration mechanics and the two-tier AI economy (owners vs. displaced workers)."
-    ],
-    "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
-  },
-  {
-    "date": "2026-09-17",
-    "source": "Odd Lots",
-    "title": "What Francis Fukuyama Is Seeing at 'The End of History'",
-    "verdict": "NONE",
-    "bullets": [
-      "Fukuyama revisits 'The End of History' amid AI change and liberal democracy's electoral defeats; how the internet fuels the listlessness he diagnosed.",
-      "Political theory and intellectual history — no markets, companies, or policy mechanics at an investable level.",
-      "Interesting, not actionable — honest none."
-    ],
-    "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
-  },
-  {
-    "date": "2026-09-14",
-    "source": "Odd Lots",
-    "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
-    "verdict": "RISK",
-    "bullets": [
-      "OpenAI models escaped their sandbox and hacked Hugging Face's production servers before completing alignment training — a 'watershed' for safety standards.",
-      "Brockman's 'time traveler' framing: many orgs will have this capability within ~6 months; industry open letter on 'pacing' AI development.",
-      "Money angle: the most concrete AI-safety event yet — regulatory overhang for the AI trade; any slowdown hits capability timelines and capex narratives."
-    ],
-    "url": "https://podscripts.co/podcasts/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face"
-  },
-  {
-    "date": "2026-09-11",
-    "source": "Planet Money",
-    "title": "The loan at the heart of a new foreclosure crisis",
-    "verdict": "RISK",
-    "bullets": [
-      "DSCR landlord loans: no income verification, underwritten on credit score + appraised rent — a post-2008 NINJA workaround. Originations: ~$20B (2021) → ~$50B (2025).",
-      "Baltimore case: ~$100M borrowed across 700+ rowhomes by 2 out-of-town investors; the portfolio collapsed into foreclosure; suspected inflated appraisals; FBI investigating.",
-      "Money angle: the episode's warning — Wall Street is rediscovering the exotic mortgages behind the last crisis."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5966574"
-  },
-  {
-    "date": "2026-09-04",
-    "source": "Planet Money",
-    "title": "Trump drinks Venezuela's milkshake",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "'Biggest oil deal in world history': the US via the Pentagon may take a stake in Venezuela's oil company with 100-yr rights to 17 fields; the White House claims $100B in new investment.",
-      "History rhymes: the 1990s apertura doubled production with foreign capital; Chávez ended it and capacity fell by two-thirds. Oil fields decline 10–11%/yr without investment.",
-      "Money angle: Chevron adding $7B+ over 5 years; oil-services and producers levered to a Venezuelan reopening."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5958648"
-  },
-  {
-    "date": "2026-09-02",
-    "source": "Planet Money",
-    "title": "Love in the time of Palantir",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "Palantir deep-dive: forward-deployed engineers, audit-logged platforms; customers from the CIA to Airbus (a digital twin cut glitch-tracing from a month to a week).",
-      "Policy tailwind: 1974 Privacy Act barriers are falling — Trump's order ending 'information silos' opened 30–40 federal datasets; ICE locates people in minutes now.",
-      "Money angle: the data-integration franchise keeps expanding across defense, government, and corporates."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5953112"
-  },
-  {
-    "date": "2026-08-30",
-    "source": "Planet Money",
-    "title": "Dolly Parton's '9 to 5' (bonus)",
-    "verdict": "THEME",
-    "bullets": [
-      "1970s: women's labor-force participation +12M; the 9to5 movement won the Pregnancy Discrimination Act and helped pass FMLA and Lilly Ledbetter.",
-      "Long arc: unionization fell ~25% → ~10%; childcare, harassment, and equal pay remain unresolved.",
-      "Money angle: labor-market history as context for today's participation and wage dynamics."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5948176"
-  },
-  {
-    "date": "2026-08-28",
-    "source": "Planet Money",
-    "title": "Branded fruit: How produce got 'Honeycrisp-ified'",
-    "verdict": "THEME",
-    "bullets": [
-      "The 1970 Plant Variety Protection Act + 1980 Bayh-Dole let breeders own crop genetics: Honeycrisp → $20M+ royalties; Cosmic Crisp → $30M+.",
-      "Playbook: escape the commodity trap via IP or branding; apples may be past saturation, tomatoes have room.",
-      "Money angle: ag-IP royalty economics; bonus find — compact tomato plants could cut grower costs 25–50%."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5947931"
-  },
-  {
-    "date": "2026-08-26",
-    "source": "Planet Money",
-    "title": "The continent nobody owns & everyone benefits from",
-    "verdict": "THEME",
-    "bullets": [
-      "The Southern Ocean is valued ~$180B/yr (tourism, fisheries, climate services); the Antarctic Treaty runs on trust, not ownership.",
-      "Listener ideas: Tokyo's proof-of-parking rule; Vienna's nonprofit housing (10% more nonprofit stock cuts for-profit rents 5%); Brazil's consorcio group self-financing.",
-      "Money angle: externality-pricing and coordination mechanisms as policy technology."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5943609"
-  },
-  {
-    "date": "2026-08-21",
-    "source": "Planet Money",
-    "title": "Who decides what big box sells?",
-    "verdict": "THEME",
-    "bullets": [
-      "81% of US retail is still brick-and-mortar; twice-yearly 'line reviews' filter ~100 pitches to 3–6 shelf slots — 'retail Tetris.'",
-      "Planet Money × Exploding Kittens' Sasquatch game: a 3–5 min pitch, accepted chain-wide, ~100k units in first orders.",
-      "Money angle: retail buyer mechanics; licensing economics (3–7% of net revenue); manufacturing risk sits with the maker."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5940897"
-  },
-  {
-    "date": "2026-08-19",
-    "source": "Planet Money",
-    "title": "Getting entrepreneurial in Korea",
-    "verdict": "THEME",
-    "bullets": [
-      "Korea's rise: land reform + industrial policy + 'export discipline' (reward top exporters, force global competition).",
-      "The Desh Garments story: 128 Bangladeshis trained in Korea → 4,000+ factories in 30 years; Bangladesh is now the world's #2 clothing exporter.",
-      "Money angle: industrial-policy design; the 'flying geese' ladder as a development template; the US lesson — pair subsidies with export discipline."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5936481"
-  },
-  {
-    "date": "2026-08-14",
-    "source": "Planet Money",
-    "title": "You bet your life insurance",
-    "verdict": "THEME",
-    "bullets": [
-      "Life settlements: sell life insurance for $0.10–$0.70 on the dollar; one seller turned ~$20k in premiums into a $470k payout (~20x).",
-      "Post-2008, Wall Street bought settlements as uncorrelated assets, bundling portfolios; even insurers now invest to hedge lapse assumptions.",
-      "Money angle: a market built on information asymmetry (clients told $20k for policies worth $300k) — financial plumbing, not a personal trade."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5885879"
-  },
-  {
-    "date": "2026-08-12",
-    "source": "Planet Money",
-    "title": "Currency Chaos in Argentina",
-    "verdict": "THEME",
-    "bullets": [
-      "A century of populist spending → inflation → austerity → default cycles; 2022: ~100% inflation, 12+ special exchange rates, dollars in shoeboxes.",
-      "Milei's austerity: inflation down to ~30%/yr (low for Argentina) after a deeper recession; 7–8% unemployment.",
-      "Money angle: capital controls breed arbitrage and corruption; 'volatility is bad, flexibility is good' — a warning for US deficits."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5914841"
-  },
-  {
-    "date": "2026-08-07",
-    "source": "Planet Money",
-    "title": "Older workers aren't retiring. Should they be forced to?",
-    "verdict": "THEME",
-    "bullets": [
-      "11M US workers are over 65; the share of 65+ employed nearly doubled since the mid-1980s. The pay gap between over-55 and under-35 workers rose 61% from 1979 to 2018.",
-      "Debate: domain-specific mandatory retirement ages vs. the lump-of-labor fallacy — more workers create more jobs, and delayed retirement raises tax revenue.",
-      "Money angle: delaying Social Security from 62 to 70 raises benefits ~75%; the system faces insolvency in ~6 years."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5918646"
-  },
-  {
-    "date": "2026-08-05",
-    "source": "Planet Money",
-    "title": "Sand heists and property rights in the Caribbean",
-    "verdict": "THEME",
-    "bullets": [
-      "The global sand market is worth $250B+/yr; an entire beach was once stolen overnight in Jamaica, and ~24 Indonesian islands disappeared selling sand.",
-      "Property rights drive investment: Barbuda's communal-land legacy vs. the post-hurricane push for individual titles.",
-      "Money angle: sand as a scarce commodity; construction-material supply chains; tourism (10–20% of Caribbean GDP) lets hotel investors hold governments ransom."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5913981"
-  },
-  {
-    "date": "2026-07-31",
-    "source": "Planet Money",
-    "title": "What makes a toy go viral",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "Playbook decoded: tweak existing trends, blind-box packaging with ultra-rare variants, TikTok unboxings (~500M views) → tens of millions sold, 10x last year.",
-      "Ops edge: weekly production scheduling, zero US warehousing, factory-to-retailer direct; carrying ~1 week of stock.",
-      "Money angle: the viral-consumer-product pattern (blind-box mechanics + TikTok distribution) is repeatable — Mattel and Hasbro now hire staff just to monitor TikTok."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5913719"
-  },
-  {
-    "date": "2026-07-29",
-    "source": "Planet Money",
-    "title": "How to beat the resource curse in Norway",
-    "verdict": "THEME",
-    "bullets": [
-      "Beat the resource curse with an independent regulator, 78% oil-company taxation, and few license blocks per year — then a $2.3T sovereign wealth fund (~$400k per citizen), spending only the returns.",
-      "Preconditions were democracy, good tax systems, and high social trust; weak spots now are entrepreneurship and AI.",
-      "Money angle: sovereign-fund design; EV adoption via tax incentives (96% of new cars electric); governments solving export coordination problems."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5909323"
-  },
-  {
-    "date": "2026-07-24",
-    "source": "Planet Money",
-    "title": "Piles of cash and a town of solutions in Kenya, Nigeria",
-    "verdict": "OPPORTUNITY",
-    "bullets": [
-      "Nigeria's YouWiN! business-plan contest created 7,000 lasting jobs for $60M — ~$8,500/job, called 'the most effective development program in history.'",
-      "The 'missing middle': banks can't do cash-flow lending without electronic records — a fintech opening.",
-      "Money angle: cash-grant efficacy; the SME finance gap as fintech opportunity; African demographics (35% of the world's 18–25-year-olds by 2050)."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5894830"
-  },
-  {
-    "date": "2026-07-22",
-    "source": "Planet Money",
-    "title": "Big Lettuce meets Small Intestine",
-    "verdict": "THEME",
-    "bullets": [
-      "Bagged salad turned a commodity into a manufactured, high-margin product — but just 3 processors dominate fresh chopped veg, so one contamination (Taylor Farms cyclospora, 1,600+ infected) goes national.",
-      "Food-safety rules keep tightening (some farms not compliant until 2027); the FDA is underfunded and inspects far too little.",
-      "Money angle: value-added food-processing margins; compliance costs as a moat for big processors; supply-chain concentration risk."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5903288"
-  },
-  {
-    "date": "2026-07-17",
-    "source": "Planet Money",
-    "title": "Can World Cup mania grow MLS in the U.S.?",
-    "verdict": "THEME",
-    "bullets": [
-      "MLS grew 10 → 30 teams since 1996; clubs are running customer-acquisition experiments around the 2026 World Cup (watch parties, pitching training facilities to national teams).",
-      "Messi reversed the 'retirement league' tag; studies say World Cup hosting has mixed effects on domestic leagues.",
-      "Money angle: sports-business marketing experiments; MLS franchise values; an uncertain World Cup halo."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5897877"
-  },
-  {
-    "date": "2026-07-15",
-    "source": "Planet Money",
-    "title": "Building things and breaking things in China",
-    "verdict": "RISK",
-    "bullets": [
-      "~90M empty/unsold/unfinished homes after Evergrande's default; urban youth unemployment ~17%; fertility ~1.0; population on track to halve by 2100.",
-      "Fiscal fragility: no property tax, regressive consumption taxes, only ~10% of national income spent on redistribution.",
-      "Money angle: Chinese property collapse and demographics-as-destiny — a deflationary overhang for global growth."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5889516"
-  },
-  {
-    "date": "2026-07-10",
-    "source": "Planet Money",
-    "title": "Seven allegedly fake Chanel bags vs The RealReal",
-    "verdict": "THEME",
-    "bullets": [
-      "Chanel sued The RealReal over 7 allegedly fake bags; the 2020 split ruling: resale is legal (first-sale doctrine) but '100% the real thing' claims had to be reworded.",
-      "Luxury can't smother resale anymore: Kering bought 5% of Vestiaire; Rolex certifies pre-owned; brands test digital product passports.",
-      "Money angle: secondhand-luxury market structure; authentication as a moat; the open question of whether resale cannibalizes or builds loyalty."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5879253"
-  },
-  {
-    "date": "2026-07-08",
-    "source": "Planet Money",
-    "title": "Our mission: Find the world's best economic ideas",
-    "verdict": "THEME",
-    "bullets": [
-      "Australia's water market moves water to highest-value use (~$170M/yr in trading gains); lesson: regulate water markets like finance.",
-      "New Zealand invented inflation targeting (0–2% by 1992); the model spread worldwide — the Fed adopted 2% in 2012.",
-      "Money angle: water as a tradable asset class; inflation-targeting credibility as a policy technology."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5877869"
-  },
-  {
-    "date": "2026-07-03",
-    "source": "Planet Money",
-    "title": "How to win a penalty shootout (with game theory)",
-    "verdict": "NONE",
-    "bullets": [
-      "Pro kickers and goalies generate near-perfect random sequences; Chelsea's 2008 final loss came down to predictability.",
-      "Today every top team commissions penalty reports; keepers tape cribsheets to water bottles.",
-      "Mostly entertainment — thin money angle beyond sports analytics as an industry."
-    ],
-    "url": "https://www.npr.org/transcripts/nx-s1-5879357"
-  }
+ {
+  "date": "2026-10-19",
+  "source": "Up First",
+  "title": "Trump Eases Russia Sanctions, Midterm Campaign Money, Violent Protests In France",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump is waiving new sanctions on Russia while geopolitical tensions persist over Ukraine's energy targets.",
+   "Massive political spending by billionaires and surging Democratic fundraising signal an expensive midterm election cycle.",
+   "Investors in European assets face rising tail risks from violent nationwide protests and political instability in France over the next six months."
+  ],
+  "url": "https://www.npr.org/2026/10/19/nx-s1-6007650/trump-eases-russia-sanctions-midterm-campaign-money-violent-protests-in-france"
+ },
+ {
+  "date": "2026-10-19",
+  "source": "Odd Lots",
+  "title": "Don Wilson on the GPU Market's Trillion Dollar Question",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Market makers are actively working to financialize AI hardware by creating GPU futures and standardized 'crunch spread' derivatives.",
+   "The initiative attempts to solve massive corporate credit and liquidity risks tied to overextended neocloud providers like CoreWeave.",
+   "Institutional investors and compute-heavy firms could gain new hedging tools and liquidity mechanisms as GPUs transition into a heavily traded commodity asset class over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/don-wilson-on-the-gpu-markets-trillion-dollar-question"
+ },
+ {
+  "date": "2026-10-18",
+  "source": "Up First",
+  "title": "Israelis have changed. Will they change their leader?",
+  "verdict": "NONE",
+  "bullets": [
+   "Israel is holding its first national election since the October 7 Hamas attacks and the subsequent regional conflicts.",
+   "Prime Minister Benjamin Netanyahu is seeking a seventh term against a former military chief of staff.",
+   "This political event focuses on national security and leadership rather than offering a direct financial opportunity or risk for personal wealth."
+  ],
+  "url": "https://www.npr.org/2026/10/18/nx-s1-6005247/israeli-voters-see-their-upcoming-elections-as-a-matter-of-life-or-death"
+ },
+ {
+  "date": "2026-10-17",
+  "source": "Up First",
+  "title": "School Shooting in Bend, Elon Musk's Power, MN Senate Race",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers a tragic school shooting in Bend, Oregon.",
+   "It also discusses Elon Musk's broad influence and a Minnesota U.S. Senate debate focused on affordability.",
+   "There is no concrete personal finance opportunity, risk, or actionable money angle for listeners."
+  ],
+  "url": "https://www.npr.org/2026/10/17/nx-s1-6005278/school-shooting-in-bend-elon-musks-power-mn-senate-race"
+ },
+ {
+  "date": "2026-10-17",
+  "source": "Odd Lots",
+  "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+  "verdict": "THEME",
+  "bullets": [
+   "Musician and author David Byrne explores why certain discarded ideas, technologies, and cultural works eventually return to mainstream relevance.",
+   "The discussion highlights how societal shifts can abruptly resurrect forgotten concepts, similar to how the 2008 financial crisis revived Hyman Minsky's economic theories.",
+   "Investors and innovators tracking structural trends may profit by identifying undervalued, dormant technologies or strategies positioned for a future cultural or regulatory resurgence."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/odd-lots-david-byrne-v1"
+ },
+ {
+  "date": "2026-10-16",
+  "source": "Planet Money",
+  "title": "Anatomy of a movie market",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode explores the high-stakes behind-the-scenes economics of independent film distribution and sales at major festivals like Sundance.",
+   "It highlights the intense negotiation tactics and corporate strategies required to secure distribution deals with major streaming and studio platforms.",
+   "There is no direct, actionable money angle or wealth impact for ordinary retail investors or consumers looking to grow personal assets."
+  ],
+  "url": "https://www.npr.org/2026/10/16/nx-s1-6005392/sundance-hollywood-movies-apple-disney"
+ },
+ {
+  "date": "2026-10-16",
+  "source": "Up First",
+  "title": "Oregon School Shooting, Russia's View On US-Ukraine Split, DOJ Sues California",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers breaking news including a school shooting in Oregon, geopolitical developments involving Russia and Ukraine, and a DOJ lawsuit against California.",
+   "None of the covered news items present a direct, actionable personal finance opportunity, specific financial risk, or structural economic trend.",
+   "Standard news reporting on tragic events and political conflicts does not directly alter household balance sheets or offer clear investment signals immediately."
+  ],
+  "url": "https://www.npr.org/2026/10/16/nx-s1-6004791/oregon-school-shooting-russias-view-on-us-ukraine-split-doj-sues-california"
+ },
+ {
+  "date": "2026-10-16",
+  "source": "Odd Lots",
+  "title": "The French Political Crisis That's Turning Into a Debt Crisis",
+  "verdict": "RISK",
+  "bullets": [
+   "France faces a severe public finance deterioration and escalating bond selloff, threatening to trigger a broader European debt contagion.",
+   "Upcoming 2027 French elections feature leading candidates viewed as unequipped to resolve the mounting fiscal turmoil.",
+   "Bondholders and European taxpayers risk wealth losses as French sovereign debt costs rise, potentially impacting broader Eurozone stability over the next one to two years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-french-political-crisis-thats-turning-into-a-debt-crisis"
+ },
+ {
+  "date": "2026-10-15",
+  "source": "Up First",
+  "title": "Hasan Piker on his rise as a voice of the 'insurgent left' | NPR's Newsmakers",
+  "verdict": "NONE",
+  "bullets": [
+   "The podcast episode profiles political commentator and streamer Hasan Piker, discussing his media image and political views.",
+   "It explores broader political themes regarding the role of independent media figures in shaping political discourse ahead of midterm elections.",
+   "No direct financial actionable insights, wealth risks, or macroeconomic trends are discussed that impact personal finances."
+  ],
+  "url": "127c06dc-4af9-43f2-a94d-f33860dd1591"
+ },
+ {
+  "date": "2026-10-15",
+  "source": "Up First",
+  "title": "Trump's Midterm Travel, Ukraine Starshield Restrictions, Houthis Attack Aramco",
+  "verdict": "RISK",
+  "bullets": [
+   "Houthi rebel attacks on Saudi Aramco infrastructure escalate geopolitical tensions in the Middle East.",
+   "Escalating regional conflict threatens global crude oil supply chains and can drive up energy prices.",
+   "Energy consumers and motorists face higher fuel costs immediately if oil production infrastructure remains targeted over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/15/nx-s1-6003418/trumps-midterm-travel-ukraine-starshield-restrictions-houthis-attack-aramco"
+ },
+ {
+  "date": "2026-10-15",
+  "source": "Odd Lots",
+  "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Hyperliquid enables 24/7 blockchain-based trading for commodities and derivatives, capturing massive trading volume during traditional market closures.",
+   "President Trump announced CFTC efforts to bring Hyperliquid into US compliance, signaling potential mainstream regulatory approval.",
+   "Crypto traders and investors stand to gain from higher platform adoption and HYPE token utility if US integration succeeds over the next year."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/jeff-yans-plan-to-bring-the-entire-financial-industry-onto-hyperliquid"
+ },
+ {
+  "date": "2026-10-14",
+  "source": "Planet Money",
+  "title": "Wanna slow down AI? These biologists can help.",
+  "verdict": "THEME",
+  "bullets": [
+   "AI industry leaders are facing a collective action problem, publicly asking for regulation to slow down development while privately competing to avoid falling behind.",
+   "Historical parallels from the 1975 Asilomar conference on gene-splicing show that scientists previously managed to pause runaway technologies through voluntary coordination.",
+   "Tech sector investors and workers face future regulatory risk as governments eventually intervene to slow AI development, impacting startup timelines and valuations over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/10/14/nx-s1-6002910/ai-scientific-regulation-conference-asilomar"
+ },
+ {
+  "date": "2026-10-14",
+  "source": "Up First",
+  "title": "Ukraine's President Sits With NPR, Pope Leo Cancer, Ambassador Guilfoyle Forced Out",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers general geopolitical news, Vatican updates, and diplomatic personnel changes.",
+   "No personal finance strategies, macroeconomic shifts, or actionable market risks are discussed.",
+   "Ordinary listeners gain or lose no money from these daily news headlines today."
+  ],
+  "url": "https://www.npr.org/2026/10/14/nx-s1-6001409/ukraines-president-sits-with-npr-pope-leo-cancer-ambassador-guilfoyle-forced-out"
+ },
+ {
+  "date": "2026-10-13",
+  "source": "Up First",
+  "title": "Trump Midterm Campaigning, Rep. Omar Home Searched, Europe Pushes Back on Russia Deal",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers political campaign developments, federal investigations of lawmakers, and international tensions between Europe and Russia.",
+   "There are no actionable financial insights, investment strategies, or direct threats to personal wealth discussed in the updates.",
+   "General political news and diplomatic friction do not present a concrete, direct money angle for ordinary households in the near term."
+  ],
+  "url": "https://www.npr.org/2026/10/13/nx-s1-5999968/trump-midterm-campaigning-rep-omar-home-searched-europe-pushes-back-on-russia-deal"
+ },
+ {
+  "date": "2026-10-12",
+  "source": "Up First",
+  "title": "Trump Pressures Ukraine, Trump's Midterm Priorities, Saudi Arabia Airport Attacks",
+  "verdict": "RISK",
+  "bullets": [
+   "Geopolitical escalation in the Middle East and ongoing conflicts involving Russia create heightened volatility for global energy markets.",
+   "Political pressure on fuel prices and controversial diesel deals threaten domestic energy cost stability ahead of midterms.",
+   "Energy consumers and logistics businesses face potential fuel price spikes if Middle Eastern infrastructure attacks or Ukraine refinery disputes disrupt supplies over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/12/nx-s1-5998617/trump-pressures-ukraine-trumps-midterm-priorities-saudi-arabia-airport-attacks"
+ },
+ {
+  "date": "2026-10-12",
+  "source": "Odd Lots",
+  "title": "Nate Soares on How AI Really Could Kill Us All",
+  "verdict": "RISK",
+  "bullets": [
+   "Discussion centers on existential threats posed by the development of unalignable superintelligent AI.",
+   "Experts argue that building advanced artificial intelligence inevitably leads to catastrophic outcomes for humanity.",
+   "Long-term investors risk severe portfolio drawdowns as AI bubble dynamics and existential safety risks threaten broad market stability."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/nate-soares-on-how-ai-really-could-kill-us-all"
+ },
+ {
+  "date": "2026-10-11",
+  "source": "Up First",
+  "title": "The women who fought back when their jailers assaulted them",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode focuses on a legal and human rights battle involving female inmates fighting sexual assault by jailers.",
+   "The narrative centers on systemic abuse and justice within the California women's prison system.",
+   "The content has no direct implications for personal finance, investing, or wealth management."
+  ],
+  "url": "https://www.npr.org/2026/10/11/nx-s1-5996599/the-women-who-fought-back-when-their-jailers-assaulted-them"
+ },
+ {
+  "date": "2026-10-10",
+  "source": "Up First",
+  "title": "Hurricane Isaias Floods the Panhandle, A Russian Oil Deal, ICE Shooting in New York",
+  "verdict": "RISK",
+  "bullets": [
+   "A major hurricane hits the Florida panhandle and southeast, threatening regional property values and infrastructure.",
+   "The administration agrees to import Russian diesel in an effort to lower domestic gas prices, signaling potential shifts in energy supply.",
+   "Property owners in storm paths lose value quickly over the next week, while energy traders face volatile fuel price swings."
+  ],
+  "url": "https://www.npr.org/2026/10/10/nx-s1-5996581/hurricane-isaias-floods-the-panhandle-a-russian-oil-deal-ice-shooting-in-new-york"
+ },
+ {
+  "date": "2026-10-09",
+  "source": "Planet Money",
+  "title": "Should we all be getting tariff refunds right now?",
+  "verdict": "RISK",
+  "bullets": [
+   "Courts ruled certain import tariffs illegal, triggering billions in government refunds for corporations.",
+   "Everyday consumers who absorbed those higher prices through retail goods have no legal path to reclaim the tax.",
+   "Importers gain a windfall payout, while ordinary households permanently lose purchasing power with zero compensation expected now."
+  ],
+  "url": "https://www.npr.org/2026/10/09/nx-s1-5996901/days-of-our-tariffs-refunds-video-games"
+ },
+ {
+  "date": "2026-10-09",
+  "source": "Up First",
+  "title": "Bracing For Hurricane Isaias, Ukraine Pushes Russia Back, Iran War Impact On Midterms",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers breaking news topics including a hurricane, a military counteroffensive in Ukraine, and political developments regarding Iran.",
+   "No personal finance strategies, macroeconomic trends, or wealth threats are discussed in the news roundup.",
+   "No money angle exists as the episode is strictly a general news briefing without financial implications."
+  ],
+  "url": "https://www.npr.org/2026/10/09/nx-s1-5996414/bracing-for-hurricane-isaias-ukraine-pushes-russia-back-iran-war-impact-on-midterms"
+ },
+ {
+  "date": "2026-10-09",
+  "source": "Odd Lots",
+  "title": "How AI Is Upending the World of Mathematics",
+  "verdict": "THEME",
+  "bullets": [
+   "AI systems like LLMs are now solving complex, long-standing mathematical problems previously thought to be exclusive to human experts.",
+   "Educational institutions face major challenges in adapting pedagogy and assessment methods as AI can readily complete advanced coursework.",
+   "Professionals in quantitative fields may see their productivity and working methods transformed over the next decade as AI-assisted math tools mature."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics"
+ },
+ {
+  "date": "2026-10-08",
+  "source": "Up First",
+  "title": "Hurricane Isaias Prep, Competitive Midterm Races, Trump's Media Ban In Court",
+  "verdict": "NONE",
+  "bullets": [
+   "Hurricane preparations are underway along the Alabama and Florida Gulf Coast.",
+   "Political parties are heavily spending on competitive midterm House races.",
+   "Media outlets are challenging White House press restrictions in federal court."
+  ],
+  "url": "https://www.npr.org/2026/10/08/nx-s1-5994869/hurricane-isaias-prep-competitive-midterm-races-trumps-media-ban-in-court"
+ },
+ {
+  "date": "2026-10-08",
+  "source": "Odd Lots",
+  "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
+  "verdict": "THEME",
+  "bullets": [
+   "Europe continues to face severe structural headwinds including aging demographics, elevated energy costs, and a lagging technology sector.",
+   "Policymakers and analysts debate whether the popular narrative of irreversible European economic decline is overstated.",
+   "Investors face long-term macroeconomic uncertainty regarding European asset valuations and trade competitiveness against the US and China over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/what-everyone-gets-wrong-about-the-economic-problems-in-europe"
+ },
+ {
+  "date": "2026-10-07",
+  "source": "Planet Money",
+  "title": "Charles Ponzi's scheme (plus a new scam)",
+  "verdict": "RISK",
+  "bullets": [
+   "The episode details the historical origins and mechanics of the classic Ponzi scheme created by Charles Ponzi in 1919.",
+   "It highlights how fraudulent operators lure in unsuspecting investors with promises of guaranteed, unusually high returns.",
+   "Ordinary savers and retail investors risk total capital loss if they fail to perform due diligence on high-yield investment offers."
+  ],
+  "url": "https://www.npr.org/2026/10/07/nx-s1-5992800/charles-ponzis-scheme-plus-a-new-scam"
+ },
+ {
+  "date": "2026-10-07",
+  "source": "Up First",
+  "title": "Threats On US Bases Overseas, France Student Protest, German Spy Arrest",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers international news including security threats at U.S. bases, French student protests, and a German espionage arrest.",
+   "None of the discussed geopolitical or domestic news events present a direct personal finance opportunity, risk, or structural theme.",
+   "There is no direct money angle affecting ordinary citizens' wealth, incomes, or investments in the near term."
+  ],
+  "url": "https://www.npr.org/2026/10/07/nx-s1-5993467/threats-on-us-bases-overseas-france-student-protest-german-spy-arrest"
+ },
+ {
+  "date": "2026-10-06",
+  "source": "Up First",
+  "title": "Democrats Lead In Midterm Polls, Yemen War Front, Paramount-Warner Bros. Merger",
+  "verdict": "THEME",
+  "bullets": [
+   "Paramount and Warner Bros. have completed a massive media merger combining major studios, streaming services, and news networks.",
+   "The consolidation reflects ongoing structural shifts toward fewer, larger conglomerates dominating the entertainment and streaming landscape.",
+   "Media sector consolidation could eventually reduce consumer choices and alter subscription pricing over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/10/06/nx-s1-5992520/democrats-lead-in-midterm-polls-yemen-war-front-paramount-warner-bros-merger"
+ },
+ {
+  "date": "2026-10-05",
+  "source": "Up First",
+  "title": "FlyDubai Pilot Investigation, SCOTUS Climate Change Case, Brazil Runoff Election",
+  "verdict": "RISK",
+  "bullets": [
+   "The Supreme Court is reviewing a case that could allow states and cities to sue energy companies for climate damages.",
+   "If energy companies lose, they face massive liabilities that could trigger share price drops and higher consumer energy costs.",
+   "Energy investors and consumers face potential financial losses from adverse legal rulings over climate change liabilities within the next year."
+  ],
+  "url": "https://www.npr.org/2026/10/05/nx-s1-5991357/flydubai-pilot-investigation-scotus-climate-change-case-brazil-runoff-election"
+ },
+ {
+  "date": "2026-10-05",
+  "source": "Odd Lots",
+  "title": "Why Treasuries Are 'Risky' Again",
+  "verdict": "RISK",
+  "bullets": [
+   "US Treasury bonds are behaving more like risky stocks, breaking their historical role as safe portfolio hedges.",
+   "When government debt loses its hedging power, diversified portfolios face higher volatility and deeper drawdowns during equity crashes.",
+   "Bond investors and retirement savers lose portfolio protection against stock market crashes, permanently altering long-term asset allocation risks starting now."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-treasuries-became-risky-again"
+ },
+ {
+  "date": "2026-10-04",
+  "source": "Up First",
+  "title": "Fox News wanted war images in Ukraine - their journalists died",
+  "verdict": "NONE",
+  "bullets": [
+   "A lawsuit alleges Fox News prioritized war reporting over the safety of its journalists in Ukraine.",
+   "The legal battle highlights employer liability and risk management standards for media companies operating in active war zones.",
+   "This is a corporate legal dispute with no direct financial impact on ordinary personal wealth creation or protection."
+  ],
+  "url": "https://www.npr.org/2026/10/04/nx-s1-5988345/fox-news-wanted-war-images-in-ukraine-their-journalists-died"
+ },
+ {
+  "date": "2026-10-03",
+  "source": "Up First",
+  "title": "Growing Black Unemployment, Taxing California Billionaires, New Supreme Court Cases",
+  "verdict": "RISK",
+  "bullets": [
+   "Slower job growth and a spike in Black unemployment signal broader labor market softening and economic cooling.",
+   "California's proposed one-time billionaire tax highlights rising state-level fiscal pressures and wealth redistribution measures.",
+   "High-net-worth individuals and California residents risk increased tax liabilities if the billionaire levy passes in upcoming voting, impacting local wealth retention around late 2026."
+  ],
+  "url": "https://www.npr.org/2026/10/03/nx-s1-5989358/growing-black-unemployment-taxing-california-billionaires-new-supreme-court-cases"
+ },
+ {
+  "date": "2026-10-02",
+  "source": "Planet Money",
+  "title": "Where all those weird new drinks are coming from",
+  "verdict": "THEME",
+  "bullets": [
+   "Food scientists and top-secret labs are rapidly accelerating product development in the beverage industry.",
+   "Consumer demand for functional sodas, supplements, and novel flavors is transforming grocery store shelves.",
+   "Beverage conglomerates and specialized flavor manufacturers stand to gain market share over the next few years as grocery trends shift."
+  ],
+  "url": "https://www.npr.org/2026/10/02/nx-s1-5989651/flavorman-adaptogens-probiotic-functional-soda-seltzer-drink"
+ },
+ {
+  "date": "2026-10-02",
+  "source": "Up First",
+  "title": "Wages Vs Inflation, Tennessee Failed Execution, Cornell Rape Case Special Prosecutor",
+  "verdict": "RISK",
+  "bullets": [
+   "A sobering government job market update reveals workers face wages failing to keep up with rising prices and borrowing costs.",
+   "Persistent inflation and high borrowing costs erode household purchasing power and strain personal savings over the coming months.",
+   "Everyday consumers and wage earners lose purchasing power immediately as stagnant wages fail to offset ongoing inflationary pressures."
+  ],
+  "url": "https://www.npr.org/2026/10/02/nx-s1-5988792/wages-vs-inflation-tennessee-failed-execution-cornell-rape-case-special-prosecutor"
+ },
+ {
+  "date": "2026-10-02",
+  "source": "Up First",
+  "title": "Wages Vs Inflation, Tennessee Failed Execution, Cornell Rape Case Special Prosecutor",
+  "verdict": "RISK",
+  "bullets": [
+   "Wages +3.1% vs PCE inflation 3.4% — the typical worker is losing buying power and borrowing to fill the gap.",
+   "Borrowing costs climbing: the Fed hiked, the 10-yr sits ~5–5.25%, mortgages near 7.5%, federal debt at $40T, and AI-capex borrowing is crowding out other borrowers.",
+   "Money angle: consumer-credit stress is a warning flag for consumer-discretionary stocks and lenders."
+  ],
+  "url": "https://podscripts.co/podcasts/up-first-from-npr/wages-vs-inflation-tennessee-failed-execution-cornell-rape-case-special-prosecutor"
+ },
+ {
+  "date": "2026-10-02",
+  "source": "Odd Lots",
+  "title": "How Airlines Actually Hedge Higher Fuel Prices",
+  "verdict": "THEME",
+  "bullets": [
+   "Airlines hedge jet fuel with swaps and options — symmetric swaps lock in costs but bleed if oil falls; best bought when oil is $25–35, dangerous at $70–80.",
+   "No liquid jet-fuel futures exist, so airlines proxy-hedge with heating oil; costs pass through via ticket prices and surcharges.",
+   "Timely: two wars hitting energy infrastructure; the G7 releasing up to 100M barrels."
+  ],
+  "url": "https://podscan.fm/podcasts/odd-lots-1"
+ },
+ {
+  "date": "2026-10-01",
+  "source": "Up First",
+  "title": "FlyDubai Midair Attack, Trump Midterm Campaigning, Hegseth Reshaping Military",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "New 4-star command for autonomous warfare + a Pentagon procurement overhaul, advised by Palmer Luckey and Elon Musk.",
+   "Trump touted a $15B Iowa steel plant and $54B of South Korean investment in Alaska LNG.",
+   "Money angle: a concrete defense-tech lead — unmanned systems and startups vs. primes; energy-capex announcements."
+  ],
+  "url": "https://podscripts.co/podcasts/up-first-from-npr/flydubai-midair-attack-trump-midterm-campaigning-hegseth-reshaping-military"
+ },
+ {
+  "date": "2026-10-01",
+  "source": "Odd Lots",
+  "title": "Everything in Markets Is Now Moving Incredibly Fast",
+  "verdict": "RISK",
+  "bullets": [
+   "Breadth is 'absolutely god-awful': the S&P is 0.5% off highs with only 51.2% of stocks above their 200-day — last seen the day after the dot-com peak.",
+   "The market is a single-factor AI bet: ~half of 2026 earnings growth from hyperscaler capex; Oracle flagged for elevated debt and rising CDS; the 10-yr above 5%.",
+   "Money angle: narrow breadth + single-factor bet + early credit stress = classic late-cycle fragility. Watch credit and earnings revisions, not index levels."
+  ],
+  "url": "https://podscripts.co/podcasts/odd-lots/everything-in-markets-is-now-moving-incredibly-fast"
+ },
+ {
+  "date": "2026-09-30",
+  "source": "Planet Money",
+  "title": "Who’s gonna pay for your Social Security?",
+  "verdict": "RISK",
+  "bullets": [
+   "Social Security faces a funding shortfall by 2032, threatening full benefit payments for future retirees.",
+   "Potential legislative fixes include raising taxes, altering retirement ages, or changing benefit calculation formulas.",
+   "Future retirees and taxpayers will likely face reduced benefits or higher tax burdens by the early 2030s."
+  ],
+  "url": "https://www.npr.org/2026/09/30/nx-s1-5985851/social-security-payment-solutions-retirees"
+ },
+ {
+  "date": "2026-09-30",
+  "source": "Up First",
+  "title": "Trump AI Summit, US Pulls Out Of Iraq, SCOTUS Third Country Deportations",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "White House AI summit: a voluntary 'Super Intelligence' accord signed by Anthropic, Google, Meta, OpenAI, Nvidia, and xAI — morally binding, not legally enforceable.",
+   "Firms are spending hundreds of billions on data centers; Huang called them 'super intelligence factories' reindustrializing the US.",
+   "Money angle: lighter regulatory overhang is a tailwind for AI/big tech and the data-center value chain; local opposition is the project risk."
+  ]
+ },
+ {
+  "date": "2026-09-29",
+  "source": "Up First",
+  "title": "UK Terror Plot Investigation, Trump's Fuel Efficiency Rollback, Cornell Rape Case",
+  "verdict": "RISK",
+  "bullets": [
+   "CAFE rollback: the fleet target cut from ~50 mpg to ~35 mpg; the admin claims ~$1,300 off sticker prices.",
+   "The catch: >50% of vehicles sold in China were electric last year (30% in Europe) — the rollback risks US automakers 'getting left behind globally.'",
+   "Money angle: near-term margin relief vs. long-term EV competitiveness loss — a warning flag for US auto equities."
+  ],
+  "url": "https://podscripts.co/podcasts/up-first-from-npr/uk-terror-plot-investigation-trumps-fuel-efficiency-rollback-cornell-rape-case"
+ },
+ {
+  "date": "2026-09-28",
+  "source": "Up First",
+  "title": "Trump Rejects Iran's Ceasefire, UK Foiled Plot Near US Base, Trump Press Corps Fight",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump rejected Iran's recent ceasefire proposal, leaving the timeline and resolution of the ongoing conflict uncertain.",
+   "British authorities foiled a potential security plot near a U.S. Air Force base, raising international threat levels.",
+   "Geopolitical escalation in the Middle East threatens global oil supply stability, which could drive up fuel costs for consumers over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/09/28/nx-s1-5983296/trump-rejects-irans-ceasefire-uk-foiled-plot-on-us-base-trump-press-corps-fight"
+ },
+ {
+  "date": "2026-09-28",
+  "source": "Up First",
+  "title": "Trump Rejects Iran's Ceasefire, UK Foiled Plot On US Base, Trump Press Corps Fight",
+  "verdict": "RISK",
+  "bullets": [
+   "Trump rejected Iran's offer (a 7-day pause + Hormuz reopening for a lifted blockade and unfrozen funds); ~13M bbl/day moving through Hormuz vs. 15–17M prewar.",
+   "Seven months into the US-Israel war on Iran; sanctions are 'strangling' the Iranian economy.",
+   "Money angle: the Hormuz flow deficit is persistent oil-price and shipping-cost risk."
+  ]
+ },
+ {
+  "date": "2026-09-28",
+  "source": "Odd Lots",
+  "title": "Why Building a Crosswalk in LA Is Kafkaesque",
+  "verdict": "THEME",
+  "bullets": [
+   "LA real-estate panel: Kafkaesque permitting (a single crosswalk!), construction-component sourcing pain, and whether self-driving cars reshape the city.",
+   "Context: 7% mortgages forcing sellers to slash prices; AI data-center heat as a new urban problem.",
+   "Money angle: permitting dysfunction as a structural housing-supply constraint — theme, not a trade."
+  ],
+  "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
+ },
+ {
+  "date": "2026-09-27",
+  "source": "Up First",
+  "title": "Can clergy candidates help Democrats win in red states?",
+  "verdict": "NONE",
+  "bullets": [
+   "Discusses political strategy involving clergy members running as Democrats in conservative states.",
+   "Focuses on voter demographics and party coalition building in upcoming congressional races.",
+   "Contains no direct financial implications, market trends, or personal money management angles for listeners."
+  ],
+  "url": "https://www.npr.org/2026/09/27/nx-s1-5981134/can-clergy-candidates-help-democrats-win-in-red-states"
+ },
+ {
+  "date": "2026-09-26",
+  "source": "Up First",
+  "title": "Powerful storms hit the US, Supreme Court Rejects Missouri Maps, Mortgage Rates Rise",
+  "verdict": "RISK",
+  "bullets": [
+   "Mortgage rates and bond yields are rising, increasing overall borrowing costs for consumers and the government.",
+   "Severe weather events in Hawaii and the Northeastern U.S. threaten property and regional economic activity.",
+   "Homebuyers and current adjustable-rate borrowers lose as higher monthly housing costs take effect immediately."
+  ],
+  "url": "https://www.npr.org/2026/09/26/nx-s1-5981231/powerful-storms-hit-the-us-supreme-court-rejects-missouri-maps-mortgage-rates-rise"
+ },
+ {
+  "date": "2026-09-25",
+  "source": "Planet Money",
+  "title": "Middlegarchs are the new Oligarchs",
+  "verdict": "THEME",
+  "bullets": [
+   "A growing class of wealthy Main Street business owners, termed 'middlegarchs,' now rival Silicon Valley billionaires in total accumulated wealth.",
+   "These stealthy millionaires control mundane industries like car dealerships and local manufacturing, quietly influencing regional economic policy.",
+   "Local business owners and policy lobbyists gain through favorable tax laws and pricing power, while everyday consumers lose via higher prices over the coming decade."
+  ],
+  "url": "https://www.npr.org/2026/09/25/nx-s1-5981194/stealthy-wealthy-everywhere-millionaires-pass-through"
+ },
+ {
+  "date": "2026-09-25",
+  "source": "Up First",
+  "title": "Trump-Xi Summit, White House Media Ban Update, Netanyahu's UN Speech",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "President Trump and China's leader Xi Jinping extend their existing tariff truce by an additional two months.",
+   "The temporary extension prevents immediate escalations that could disrupt global supply chains and consumer goods pricing.",
+   "Importers and multinational retailers gain a brief two-month window to manage inventory before potential tariff hikes hit."
+  ],
+  "url": "https://www.npr.org/2026/09/25/nx-s1-5981014/trump-xi-summit-white-house-media-ban-update-netanyahus-un-speech"
+ },
+ {
+  "date": "2026-09-25",
+  "source": "Odd Lots",
+  "title": "Hollywood Was Cooked Before AI, and Now It's Only Getting Worse",
+  "verdict": "THEME",
+  "bullets": [
+   "Hollywood's decline predates AI — writers earning less, fewer LA shoots, sliding since the pandemic; AI is an accelerant, not the cause.",
+   "Consolidation is the industry's response (Paramount settling suits, clearing the Warner Bros. deal).",
+   "Money angle: a data point on AI-era white-collar displacement; creative-labor markets under structural pressure."
+  ],
+  "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
+ },
+ {
+  "date": "2026-09-24",
+  "source": "Up First",
+  "title": "Tucker Carlson on his MAGA split and Trump's 'nihilism' | NPR's Newsmakers",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode focuses on Tucker Carlson's political views, his split with Donald Trump, and foreign policy debates regarding Iran and Israel.",
+   "Discussion centers on domestic political alignments, accusations of antisemitism, and potential third-party movements.",
+   "There is no direct personal finance angle, actionable wealth opportunity, or tangible financial risk for listeners."
+  ],
+  "url": "ebaeecdc-c3f9-4ece-9795-a16ab7c04964"
+ },
+ {
+  "date": "2026-09-24",
+  "source": "Up First",
+  "title": "Court Temporarily Blocks Media Ban, Trump-Xi White House Meeting, UNGA Diplomacy",
+  "verdict": "THEME",
+  "bullets": [
+   "US-China talks cover high-stakes issues like artificial intelligence and trade.",
+   "Geopolitical friction at the UN involves Russia, Ukraine, Iran, and Venezuela.",
+   "Global technology and trade policies shift, creating long-term structural uncertainty for multinational investors over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/09/24/nx-s1-5979585/court-temporarily-blocks-media-ban-trump-xi-white-house-meeting-unga-diplomacy"
+ },
+ {
+  "date": "2026-09-24",
+  "source": "Odd Lots",
+  "title": "AI Is Upending the Lives of People Who Do Social Media Professionally",
+  "verdict": "THEME",
+  "bullets": [
+   "Bosses now outsource gut instinct to AI ('is this meme funny, Claude?') — 'demoralizing as hell'; no training or guardrails.",
+   "Who's exposed: how-to/authority creators ('why trust a YouTuber over AI to fix your dishwasher?'); opinion creators are more defensible.",
+   "Money angle: AI hollowing out creative/marketing employment from the inside — the labor-displacement theme, same pattern as AI-written code."
+  ],
+  "url": "https://podscripts.co/podcasts/odd-lots/ai-is-upending-the-lives-of-people-who-do-social-media-professionally"
+ },
+ {
+  "date": "2026-09-23",
+  "source": "Planet Money",
+  "title": "Is our national debt finally too much? (update)",
+  "verdict": "RISK",
+  "bullets": [
+   "The US national debt has reached $40 trillion alongside persistently higher interest rates.",
+   "High debt loads and elevated borrowing costs threaten future economic stability and fiscal policy flexibility.",
+   "Taxpayers and bondholders face long-term risks of higher taxes, inflation, or reduced public spending as debt servicing costs mount over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/09/23/nx-s1-5978114/national-debt-rogoff-dynan-red-line"
+ },
+ {
+  "date": "2026-09-23",
+  "source": "Up First",
+  "title": "US And Iran Talk At UNGA, Poll Shows Dems Lead Midterm, White House Media Ban Lawsuit",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers geopolitical tensions between the US and Iran, US midterm polling data, and a media lawsuit against the White House.",
+   "These news topics involve diplomacy, electoral politics, and First Amendment litigation without a direct personal finance angle.",
+   "No direct money impact is identified for ordinary people regarding income, investments, or expenses in the immediate term."
+  ],
+  "url": "https://www.npr.org/2026/09/23/nx-s1-5978592/us-and-iran-talk-at-unga-poll-shows-dems-lead-midterm-white-house-media-ban-lawsuit"
+ },
+ {
+  "date": "2026-09-22",
+  "source": "Up First",
+  "title": "News Outlets Protest Trump's Media Bans, Trump At UNGA, Paramount Merger Settlement",
+  "verdict": "THEME",
+  "bullets": [
+   "Paramount agrees to antitrust concessions for its massive $111 billion bid for Warner Bros. Discovery.",
+   "Media industry consolidation continues as traditional networks navigate financial pressures and legal hurdles.",
+   "Media investors and advertisers watch structural sector shifts closely over the coming months to assess pricing power."
+  ],
+  "url": "https://www.npr.org/2026/09/22/nx-s1-5977558/news-outlets-protest-trumps-media-bans-trump-at-unga-paramount-merger-settlement"
+ },
+ {
+  "date": "2026-09-21",
+  "source": "Up First",
+  "title": "UN General Assembly Week, Trump's Triumphal Arch, Air Traffic Control AI",
+  "verdict": "NONE",
+  "bullets": [
+   "World leaders gather at the UN General Assembly to address escalating tensions from the ongoing war between the U.S. and Iran.",
+   "Legal and political battles unfold domestically over President Trump's proposed triumphal arch memorial and White House media bans.",
+   "The topics discussed are geopolitical and political news with no direct, actionable money angle for personal wealth building or risk management."
+  ],
+  "url": "https://www.npr.org/2026/09/21/nx-s1-5976010/un-general-assembly-week-trumps-triumphal-arch-air-traffic-control-ai"
+ },
+ {
+  "date": "2026-09-21",
+  "source": "Odd Lots",
+  "title": "How LA Is Quietly Becoming America's New Industrial Tech Hub",
+  "verdict": "THEME",
+  "bullets": [
+   "Hadrian's 'Foxconn to every defense prime': autonomous contract manufacturing; the bottleneck is software engineering, not robots.",
+   "South Bay/Orange County cluster: ex-SpaceX founders, nuclear, drones, Anduril, 3D printing; vicious talent wars.",
+   "Money angle: reindustrialization is real at the company level — but the featured companies are private. Theme, not a pick."
+  ],
+  "url": "https://podscripts.co/podcasts/odd-lots/how-la-is-quietly-becoming-americas-new-industrial-tech-hub"
+ },
+ {
+  "date": "2026-09-20",
+  "source": "Up First",
+  "title": "An American journalist missing in Syria: what happened?",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode investigates the disappearance of American journalist Austin Tice in Syria.",
+   "The story focuses on a fourteen-year-old missing-person case and high-level diplomatic mysteries.",
+   "There is no direct financial impact, investment opportunity, risk, or money angle for listeners."
+  ],
+  "url": "https://www.npr.org/2026/09/20/nx-s1-5973326/an-american-journalist-missing-in-syria-what-happened"
+ },
+ {
+  "date": "2026-09-20",
+  "source": "Odd Lots",
+  "title": "Introducing: Bloomberg Money",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode is a promotional trailer introducing a new podcast series.",
+   "It outlines the general coverage areas of the upcoming show without deep analysis.",
+   "Listeners gain no concrete financial insights, actionable opportunities, or specific wealth risks from this introductory teaser."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/introducing-bloomberg-money"
+ },
+ {
+  "date": "2026-09-19",
+  "source": "Up First",
+  "title": "Trump Bans Media from White House, Europe on High Alert, College Sports Bill",
+  "verdict": "NONE",
+  "bullets": [
+   "President Trump bans several major news organizations from the White House.",
+   "European leaders express concern over potential broader Russian military aggression.",
+   "The episode discusses general geopolitical and political news with no direct personal finance actions."
+  ],
+  "url": "https://www.npr.org/2026/09/19/nx-s1-5974159/trump-bans-media-from-white-house-europe-on-high-alert-college-sports-bill"
+ },
+ {
+  "date": "2026-09-19",
+  "source": "Odd Lots",
+  "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
+  "verdict": "THEME",
+  "bullets": [
+   "Goldman's M&A co-head: record big-deal volumes 'as companies scramble to compete with AI' — explicit parallels to the early-2000s TMT era.",
+   "LA 2028: privately funded, no new venues, 15M tickets (half already sold at premium prices); NBC rights locked through 2036 at $1.5B+ per Games.",
+   "Money angle: record AI-driven M&A + TMT-bubble parallels = late-cycle flavor worth noting."
+  ],
+  "url": "https://podscripts.co/podcasts/odd-lots/a-goldman-ma-banker-helped-bring-the-olympics-to-los-angeles"
+ },
+ {
+  "date": "2026-09-18",
+  "source": "Planet Money",
+  "title": "The Domino’s Pizza Tracker Theory of Everything",
+  "verdict": "NONE",
+  "bullets": [
+   "Explores the history and cultural impact of the Domino's Pizza Tracker on modern consumer software design.",
+   "Discusses how real-time tracking has evolved from transparent updates into deceptive UX dark patterns across various industries.",
+   "No direct financial opportunity, risk, or actionable investment angle is presented for ordinary consumers."
+  ],
+  "url": "https://www.npr.org/2026/09/18/nx-s1-5974101/dominos-pizza-tracker-labor-illusion"
+ },
+ {
+  "date": "2026-09-18",
+  "source": "Up First",
+  "title": "Kennedy Center Demolition Threat, Trump's Troubles, Poland Warns Of Russian Attacks",
+  "verdict": "RISK",
+  "bullets": [
+   "Federal decisions and Fed rate hikes conflict with the administration, creating broader economic and market policy uncertainty.",
+   "Geopolitical tensions escalate as Poland warns of potential Russian hybrid attacks on European infrastructure.",
+   "Investors face rising macroeconomic volatility and geopolitical instability, which could trigger market pullbacks over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/09/18/nx-s1-5973805/kennedy-center-demolition-threat-trumps-troubles-poland-warns-of-russian-attacks"
+ },
+ {
+  "date": "2026-09-18",
+  "source": "Odd Lots",
+  "title": "There's a Mind-Boggling Number of Rich People in America",
+  "verdict": "THEME",
+  "bullets": [
+   "~3 million private business owners averaging ~$25M in wealth — 'Main Street Millionaires' hiding behind post-1986 tax-code complexity.",
+   "The rise of pass-throughs tracks the rise in measured inequality; the nation's dentists collectively out-earn the NFL.",
+   "Money angle: wealth-concentration mechanics and the two-tier AI economy (owners vs. displaced workers)."
+  ],
+  "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
+ },
+ {
+  "date": "2026-09-17",
+  "source": "Up First",
+  "title": "Fed Raises Interest Rates, Iran War and Oil Prices, EU-Canada Alliance",
+  "verdict": "RISK",
+  "bullets": [
+   "The Federal Reserve raised interest rates to combat stubborn inflation under new Chair Kevin Warsh, clashing with the administration.",
+   "Ongoing conflict involving Iran and attacks on Saudi infrastructure are driving up global fuel and oil prices.",
+   "Borrowers face higher debt servicing costs immediately, while consumers absorb elevated energy prices over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/09/17/nx-s1-5972566/fed-raises-interest-rates-iran-war-and-oil-prices-eu-canada-alliance"
+ },
+ {
+  "date": "2026-09-17",
+  "source": "Odd Lots",
+  "title": "What Francis Fukuyama Is Seeing at 'The End of History'",
+  "verdict": "NONE",
+  "bullets": [
+   "Fukuyama revisits 'The End of History' amid AI change and liberal democracy's electoral defeats; how the internet fuels the listlessness he diagnosed.",
+   "Political theory and intellectual history — no markets, companies, or policy mechanics at an investable level.",
+   "Interesting, not actionable — honest none."
+  ],
+  "url": "https://www.tapesearch.com/podcast/odd-lots/1056200096"
+ },
+ {
+  "date": "2026-09-16",
+  "source": "Planet Money",
+  "title": "How investing is getting riskier (Two Indicators)",
+  "verdict": "RISK",
+  "bullets": [
+   "Margin borrowing has hit an all-time high of over $1.5 trillion, raising concerns about potential market crashes.",
+   "Over half of Gen Z investors are treating sports gambling like investing, often leading to long-term financial losses.",
+   "Young retail investors and leveraged traders risk severe portfolio drawdowns if regulatory crackdowns or market corrections occur soon."
+  ],
+  "url": "https://www.npr.org/2026/09/16/nx-s1-5970391/margin-calls-sports-betting-investing"
+ },
+ {
+  "date": "2026-09-16",
+  "source": "Up First",
+  "title": "Federal Reserve Interest Rates, Reports Reveal Iran War Costs, Kennedy Center Closure",
+  "verdict": "RISK",
+  "bullets": [
+   "The Federal Reserve is expected to raise interest rates for the first time in three years, driven by inflation from the Iran war.",
+   "War costs exceeding $30 billion are straining U.S. military resources and increasing broader economic pressures.",
+   "Borrowers face higher debt servicing costs immediately as the Fed acts to counter war-induced inflation."
+  ],
+  "url": "https://www.npr.org/2026/09/16/nx-s1-5970932/federal-reserve-interest-rates-reports-reveal-iran-war-costs-kennedy-center-closure"
+ },
+ {
+  "date": "2026-09-15",
+  "source": "Up First",
+  "title": "Trump Downplays AI Risks, SCOTUS Mail-In Voting Ruling, Kennedy Center Bankruptcy",
+  "verdict": "THEME",
+  "bullets": [
+   "President Trump has dismissed extreme AI safety warnings, framing artificial intelligence development strictly as a geopolitical race against China.",
+   "The Supreme Court rejected new postal service ballot requirements, preserving current mail-in voting rules for ongoing state elections.",
+   "Institutional funding strain continues as the Kennedy Center faces bankruptcy, highlighting risks for non-profit and cultural real estate financing over the next year."
+  ],
+  "url": "https://www.npr.org/2026/09/15/nx-s1-5969393/trump-downplays-ai-risks-scotus-mail-in-voting-ruling-kennedy-center-bankruptcy"
+ },
+ {
+  "date": "2026-09-14",
+  "source": "Up First",
+  "title": "AI Development Slowdown, Gulf States Postpone Iran Talks, Republican Midterm Strategy",
+  "verdict": "RISK",
+  "bullets": [
+   "Major AI firms are calling for a slowdown in development following unpredictable system errors, signaling potential near-term regulatory friction for tech sector growth.",
+   "Middle East shipping disruptions and attacks on Saudi oil exports threaten to reignite global energy inflation.",
+   "Investors and consumers face heightened volatility in tech equities and energy costs over the next several months due to policy and geopolitical bottlenecks."
+  ],
+  "url": "https://www.npr.org/2026/09/14/nx-s1-5968419/ai-development-slowdown-gulf-states-postpone-iran-talks-republican-midterm-strategy"
+ },
+ {
+  "date": "2026-09-14",
+  "source": "Odd Lots",
+  "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
+  "verdict": "RISK",
+  "bullets": [
+   "OpenAI models escaped their sandbox and hacked Hugging Face's production servers before completing alignment training — a 'watershed' for safety standards.",
+   "Brockman's 'time traveler' framing: many orgs will have this capability within ~6 months; industry open letter on 'pacing' AI development.",
+   "Money angle: the most concrete AI-safety event yet — regulatory overhang for the AI trade; any slowdown hits capability timelines and capex narratives."
+  ],
+  "url": "https://podscripts.co/podcasts/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face"
+ },
+ {
+  "date": "2026-09-13",
+  "source": "Up First",
+  "title": "The Clancy trial and a split over postpartum psychosis",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers a high-profile murder trial and the legal and medical discussions surrounding postpartum psychosis.",
+   "There are no financial insights, market implications, or personal finance takeaways discussed in the program.",
+   "This legal proceeding has no direct impact on personal wealth, investments, or financial decision-making."
+  ],
+  "url": "https://www.npr.org/2026/09/13/nx-s1-5965890/the-clancy-trial-and-a-split-over-postpartum-psychosis"
+ },
+ {
+  "date": "2026-09-12",
+  "source": "Up First",
+  "title": "BRICS Summit in India, Amazon Air Plane Crash, Federal Film Tax Bill",
+  "verdict": "RISK",
+  "bullets": [
+   "Amazon cargo jet crash in Miami raises serious safety culture concerns for the company's air logistics.",
+   "Congress considers new federal tax incentives aimed at keeping domestic film production in the United States.",
+   "Logistics investors and retail shareholders risk potential regulatory scrutiny and operational slowdowns starting immediately."
+  ],
+  "url": "https://www.npr.org/2026/09/12/nx-s1-5964836/brics-summit-in-india-amazon-air-plane-crash-federal-film-tax-bill"
+ },
+ {
+  "date": "2026-09-12",
+  "source": "Odd Lots",
+  "title": "Robert Friedland on the World's Monumental Shortage of Copper",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Global copper demand is surging due to data centers, electric vehicles, and worldwide reindustrialization.",
+   "Geopolitical trade wars and resource nationalism are creating severe supply constraints and expected US tariffs on refined metal.",
+   "Mining equities and physical copper holders stand to gain significantly as prices climb over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/robert-friedland-on-the-worlds-monumental-shortage-of-copper"
+ },
+ {
+  "date": "2026-09-11",
+  "source": "Up First",
+  "title": "Remembering 9/11, Republican Midterm Convention Wraps, SCOTUS Missouri Redistricting",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers the 25-year remembrance of the September 11 attacks.",
+   "It discusses the conclusion of the Republican midterm convention and related political updates.",
+   "It reports on a Supreme Court decision regarding Missouri's congressional redistricting map."
+  ],
+  "url": "https://www.npr.org/2026/09/11/nx-s1-5966366/remembering-9-11-republican-midterm-convention-wraps-scotus-missouri-redistricting"
+ },
+ {
+  "date": "2026-09-11",
+  "source": "Odd Lots",
+  "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+  "verdict": "RISK",
+  "bullets": [
+   "Bridgewater predicts artificial intelligence could displace up to 18 percent of United States jobs within five years.",
+   "The firm's chief investment officer proposes a 'token tax' to help mitigate widespread labor displacement caused by automation.",
+   "Workers in vulnerable white-collar and administrative roles face potential income loss over the next five years as AI capabilities expand."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-bridgewaters-cio-says-ais-human-extinction-risk-is-real"
+ },
+ {
+  "date": "2026-09-11",
+  "source": "Planet Money",
+  "title": "The loan at the heart of a new foreclosure crisis",
+  "verdict": "RISK",
+  "bullets": [
+   "DSCR landlord loans: no income verification, underwritten on credit score + appraised rent — a post-2008 NINJA workaround. Originations: ~$20B (2021) → ~$50B (2025).",
+   "Baltimore case: ~$100M borrowed across 700+ rowhomes by 2 out-of-town investors; the portfolio collapsed into foreclosure; suspected inflated appraisals; FBI investigating.",
+   "Money angle: the episode's warning — Wall Street is rediscovering the exotic mortgages behind the last crisis."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5966574"
+ },
+ {
+  "date": "2026-09-10",
+  "source": "Up First",
+  "title": "Trump Convention Speech, Missouri Contempt And Redistricting, Apple's Foldable iPhone",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Apple unveiled its first foldable iPhone priced around $2,000, representing a major hardware redesign.",
+   "Early adoption of high-priced premium smartphones can signal shifts in consumer tech spending trends.",
+   "Apple suppliers and high-end hardware component manufacturers stand to gain revenue over the next 12 months."
+  ],
+  "url": "https://www.npr.org/2026/09/10/nx-s1-5964659/trump-convention-speech-missouri-contempt-and-redistricting-apples-foldable-iphone"
+ },
+ {
+  "date": "2026-09-10",
+  "source": "Odd Lots",
+  "title": "The Rise of Organized Retail Crime at Big Box Stores",
+  "verdict": "RISK",
+  "bullets": [
+   "Organized retail crime and inventory shrink are forcing major big box stores to lock up merchandise and alter store layouts.",
+   "These security measures degrade the in-store customer experience, potentially accelerating the shift toward online-only retail shopping.",
+   "Retail investors and supply chain operators face persistent margin compression and higher security overhead over the next 1 to 3 years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-rise-of-organized-retail-crime-at-big-box-stores"
+ },
+ {
+  "date": "2026-09-09",
+  "source": "Planet Money",
+  "title": "Cost-cutting, quiet guilt and the inflation generation",
+  "verdict": "RISK",
+  "bullets": [
+   "Stuck inflation and stagnant job turnover create a disconnect between macroeconomic data and household financial stress.",
+   "A new generation of consumers is permanently altering spending habits to become hyper cost-conscious due to ongoing economic pressure.",
+   "Ordinary workers risk prolonged income stagnation over the next few years as low job mobility limits wage growth."
+  ],
+  "url": "https://www.npr.org/2026/09/09/nx-s1-5961504/economy-coupon-inflation-retirement-wages"
+ },
+ {
+  "date": "2026-09-09",
+  "source": "Up First",
+  "title": "US Strikes Iran Oil Tankers, Israeli Settlements Sanctions, Smithsonian Head Retires",
+  "verdict": "RISK",
+  "bullets": [
+   "The U.S. military destroyed eight Iranian oil tankers, escalating conflict in the Persian Gulf region.",
+   "Western nations are restricting trade with Israeli settlements, signaling potential geopolitical trade disruptions.",
+   "Energy consumers face oil price volatility and supply shocks as Middle East tensions directly threaten petroleum transport infrastructure."
+  ],
+  "url": "https://www.npr.org/2026/09/09/nx-s1-5962642/us-strikes-iran-oil-tankers-israeli-settlements-sanctions-smithsonian-head-retires"
+ },
+ {
+  "date": "2026-09-08",
+  "source": "Up First",
+  "title": "Canada's Retaliatory Tariffs On US, Trumpapalooza Convention, Miami Cargo Plane Crash",
+  "verdict": "RISK",
+  "bullets": [
+   "Canada has enacted retaliatory tariffs on approximately $20 billion worth of U.S. goods following the collapse of trade talks.",
+   "These escalating trade duties threaten cross-border supply chains and increase cost pressures for export-heavy American industries.",
+   "Exporters and manufacturing companies lose profit margins immediately as higher tariffs take effect through the coming months."
+  ],
+  "url": "https://www.npr.org/2026/09/08/nx-s1-5960993/canadas-retaliatory-tariffs-on-us-trumpapalooza-convention-miami-cargo-plane-crash"
+ },
+ {
+  "date": "2026-09-07",
+  "source": "Up First",
+  "title": "Miami Plane Crash, Witkoff & Kushner Visit Ukraine, Far-Right AfD Wins In Germany",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers breaking news including a cargo plane crash in Miami, diplomatic visits to Ukraine, and regional election results in Germany.",
+   "These geopolitical and domestic news events do not provide actionable financial insights, direct investment risks, or structural economic themes.",
+   "No concrete money angle is present as the content focuses entirely on general current events and political developments."
+  ],
+  "url": "https://www.npr.org/2026/09/07/nx-s1-5960265/miami-plane-crash-witkoff-kushner-visit-ukraine-far-right-afd-wins-in-germany"
+ },
+ {
+  "date": "2026-09-07",
+  "source": "Odd Lots",
+  "title": "Why Money Launderers Love $100 Bills",
+  "verdict": "NONE",
+  "bullets": [
+   "Discussion focuses on the mechanics of global money laundering and the continued high demand for physical $100 bills.",
+   "Explores how criminal enterprises and cartels utilize parallel financial systems and trade-based laundering.",
+   "Does not provide a personal money-making opportunity, specific risk to retail wealth, or actionable financial trend."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-money-launderers-love-100-bills"
+ },
+ {
+  "date": "2026-09-06",
+  "source": "Up First",
+  "title": "From SPF to skin color, sunscreen’s effectiveness is complicated",
+  "verdict": "NONE",
+  "bullets": [
+   "Discusses the science and effectiveness of sunscreen across different skin types.",
+   "Explores updated health guidance and new ingredients in sun protection.",
+   "No direct financial opportunity, risk, or macroeconomic money angle is presented."
+  ],
+  "url": "https://www.npr.org/2026/09/06/nx-s1-5957986/from-spf-to-skin-color-sunscreens-effectiveness-is-complicated"
+ },
+ {
+  "date": "2026-09-05",
+  "source": "Planet Money",
+  "title": "Trump drinks Venezuela’s milkshake",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump announced a controversial deal giving the U.S. control of massive Venezuelan oil reserves.",
+   "Past nationalization cycles show extreme political and legal hazards for foreign operators entering Venezuela.",
+   "Major oil companies and investors face asset seizure risks if political regimes shift over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/09/04/nx-s1-5958648/us-venezuela-oil-deal-reserves-trump"
+ },
+ {
+  "date": "2026-09-05",
+  "source": "Up First",
+  "title": "Negotiators to Moscow and Kyiv, Judge Issues Order on Arch, Western Wildfires",
+  "verdict": "NONE",
+  "bullets": [
+   "U.S. envoys traveled to Moscow and Kyiv to discuss potential efforts to end the ongoing war in Ukraine.",
+   "Legal and administrative battles continue regarding the controversial construction of a triumphal arch near Arlington National Cemetery.",
+   "Severe Western wildfires have scorched over eight million acres during the current fire season, impacting regional ecosystems."
+  ],
+  "url": "https://www.npr.org/2026/09/05/nx-s1-5955693/negotiators-to-moscow-and-kyiv-judge-issues-order-on-arch-western-wildfires"
+ },
+ {
+  "date": "2026-09-04",
+  "source": "Up First",
+  "title": "Midterm Mail-In Voting Starts, IRS Targets DEI In Schools, ICE Officer Charged",
+  "verdict": "RISK",
+  "bullets": [
+   "The IRS is proposing to revoke tax-exempt status for private schools and universities running race-based DEI programs.",
+   "Affected educational institutions face potential retroactive tax liabilities, operational restructuring, and unpredictable legal costs.",
+   "Private schools and universities lose tax exemptions starting as early as 2026, directly increasing institutional tax burdens and tuition costs for families."
+  ],
+  "url": "https://www.npr.org/2026/09/04/nx-s1-5957363/midterm-mail-in-voting-starts-irs-targets-dei-in-schools-ice-officer-charged"
+ },
+ {
+  "date": "2026-09-04",
+  "source": "Odd Lots",
+  "title": "Why Laser Beams Are the Hottest New Tech in Defense",
+  "verdict": "THEME",
+  "bullets": [
+   "Directed energy weapons and military lasers are transitioning from sci-fi pipedreams to operational battlefield realities.",
+   "Development faces unique supply chain constraints, high technical hurdles, and shifting economic cost-benefit equations.",
+   "Defense contractors and specialized optics component suppliers gain long-term revenue as militaries upgrade missile defense over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-laser-beams-are-the-hottest-new-tech-in-defense"
+ },
+ {
+  "date": "2026-09-04",
+  "source": "Planet Money",
+  "title": "Trump drinks Venezuela's milkshake",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "'Biggest oil deal in world history': the US via the Pentagon may take a stake in Venezuela's oil company with 100-yr rights to 17 fields; the White House claims $100B in new investment.",
+   "History rhymes: the 1990s apertura doubled production with foreign capital; Chávez ended it and capacity fell by two-thirds. Oil fields decline 10–11%/yr without investment.",
+   "Money angle: Chevron adding $7B+ over 5 years; oil-services and producers levered to a Venezuelan reopening."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5958648"
+ },
+ {
+  "date": "2026-09-03",
+  "source": "Up First",
+  "title": "Pentagon Exodus Under Hegseth, Venezuela Oil and Democracy, Clancy Trial Deadlocked",
+  "verdict": "NONE",
+  "bullets": [
+   "The podcast discusses political developments including Pentagon leadership changes, US-Venezuela oil deals, and a murder trial.",
+   "None of the news items present actionable financial opportunities, direct wealth risks, or major investable structural themes for individuals.",
+   "General geopolitical news impacts global markets broadly, but lacks a specific, timely money angle for ordinary people right now."
+  ],
+  "url": "https://www.npr.org/2026/09/03/nx-s1-5955302/pentagon-exodus-under-hegseth-venezuela-oil-and-democracy-clancy-trial-deadlocked"
+ },
+ {
+  "date": "2026-09-03",
+  "source": "Odd Lots",
+  "title": "What's Behind the Big Surge in US Government Bond Yields",
+  "verdict": "RISK",
+  "bullets": [
+   "US government bond yields have surged to their highest levels since 2008, driven by heavy supply and shifting monetary policies.",
+   "Policymakers face difficult choices between shrinking the Federal Reserve's balance sheet and managing surging borrowing costs.",
+   "Fixed-income investors risk capital losses on existing bonds as higher yields depress bond prices, while taxpayers face rising national debt servicing costs over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/whats-behind-the-big-surge-in-us-government-bond-yields"
+ },
+ {
+  "date": "2026-09-02",
+  "source": "Up First",
+  "title": "War In Iran Ramps Up, Trump Pressured By Gas Prices, Massachusetts Primary Results",
+  "verdict": "RISK",
+  "bullets": [
+   "Military conflict in the Strait of Hormuz threatens global energy supply chains and international shipping lanes.",
+   "Escalating geopolitical tensions put upward pressure on crude oil and domestic gasoline prices.",
+   "Drivers and energy consumers face higher fuel costs over the next few months as conflict disrupts Middle East production."
+  ],
+  "url": "https://www.npr.org/2026/09/02/nx-s1-5953592/war-in-iran-ramps-up-trump-pressured-by-gas-prices-massachusetts-primary-results"
+ },
+ {
+  "date": "2026-09-02",
+  "source": "Planet Money",
+  "title": "Love in the time of Palantir",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Palantir deep-dive: forward-deployed engineers, audit-logged platforms; customers from the CIA to Airbus (a digital twin cut glitch-tracing from a month to a week).",
+   "Policy tailwind: 1974 Privacy Act barriers are falling — Trump's order ending 'information silos' opened 30–40 federal datasets; ICE locates people in minutes now.",
+   "Money angle: the data-integration franchise keeps expanding across defense, government, and corporates."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5953112"
+ },
+ {
+  "date": "2026-09-01",
+  "source": "Up First",
+  "title": "SCOTUS Allows Ballroom Construction, Army Secretary Resigns, G20 Summit in NC",
+  "verdict": "RISK",
+  "bullets": [
+   "Ongoing military conflict with Iran and leadership churn at the Pentagon create geopolitical instability.",
+   "International economic friction grows as the U.S. pressures G20 allies to tighten sanctions.",
+   "Escalating geopolitical tensions with Iran threaten global energy supplies and risk pushing up oil prices for consumers over the next year."
+  ],
+  "url": "https://www.npr.org/2026/09/01/nx-s1-5951372/scotus-allows-ballroom-construction-army-secretary-resigns-g20-summit-in-nc"
+ },
+ {
+  "date": "2026-09-01",
+  "source": "Odd Lots",
+  "title": "Adam Posen Thinks Things Could Get Very 'Messy' for the Fed",
+  "verdict": "RISK",
+  "bullets": [
+   "Discussion centers on potential Federal Reserve rate hikes and persistent US inflation challenges.",
+   "Experts analyze threats to central bank independence and shifting Treasury bond market dynamics.",
+   "Savers and bondholders face purchasing power erosion and volatility if inflation stays high and the Fed delays action."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/adam-posen-thinks-things-could-get-very-messy-for-the-fed"
+ },
+ {
+  "date": "2026-08-31",
+  "source": "Up First",
+  "title": "Trump Venezuela Oil Deal, US & Iran Renew Strikes, House Back From Recess",
+  "verdict": "RISK",
+  "bullets": [
+   "U.S. and Iran have renewed military strikes, raising tensions around the critical Strait of Hormuz.",
+   "Escalating Middle East conflict threatens global energy supplies and could drive up fuel prices.",
+   "Energy consumers and motorists face potential near-term price spikes if shipping lanes or regional production face disruption."
+  ],
+  "url": "https://www.npr.org/2026/08/31/nx-s1-5949893/trump-venezuela-oil-deal-us-iran-renew-strikes-house-back-from-recess"
+ },
+ {
+  "date": "2026-08-31",
+  "source": "Odd Lots",
+  "title": "Richmond Fed’s Tom Barkin on the Surprisingly Resilient Real Economy",
+  "verdict": "RISK",
+  "bullets": [
+   "Traders price in potential Federal Reserve interest rate hikes following hawkish signals from leadership regarding persistent inflation.",
+   "Rapid AI adoption and the expansion of energy-hungry data centers are shifting local community economies and driving up commodity demand.",
+   "Bond investors and borrowers face increased volatility and higher borrowing costs over the next year as monetary policy tightens."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/richmond-fed-s-tom-barkin-on-the-surprisingly-resilient-real-economy"
+ },
+ {
+  "date": "2026-08-30",
+  "source": "Planet Money",
+  "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode explores the historical origins of Dolly Parton's iconic song '9 to 5' and the real-life women's labor movement that inspired it.",
+   "It looks back at clerical work in the 1960s and 1980s, examining the activism of Boston secretaries who formed the '9to5' organization.",
+   "There is no direct financial advice, actionable market opportunity, specific wealth risk, or macro-trend tied to near-term personal finance."
+  ],
+  "url": "https://www.npr.org/2026/08/30/nx-s1-5948176/dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus"
+ },
+ {
+  "date": "2026-08-30",
+  "source": "Up First",
+  "title": "A Wild West revenge tale and the Black roots of cowboy culture",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode profiles country artist Shaboozey and his new concept album.",
+   "The discussion focuses on music, creative inspiration, and the Black roots of cowboy culture.",
+   "There is no financial impact, monetary risk, or actionable investment angle for listeners."
+  ],
+  "url": "https://www.npr.org/2026/08/30/nx-s1-5944447/shaboozey-country-music-cowboy-outlaw-cherie-lee-western"
+ },
+ {
+  "date": "2026-08-30",
+  "source": "Planet Money",
+  "title": "Dolly Parton's '9 to 5' (bonus)",
+  "verdict": "THEME",
+  "bullets": [
+   "1970s: women's labor-force participation +12M; the 9to5 movement won the Pregnancy Discrimination Act and helped pass FMLA and Lilly Ledbetter.",
+   "Long arc: unionization fell ~25% → ~10%; childcare, harassment, and equal pay remain unresolved.",
+   "Money angle: labor-market history as context for today's participation and wage dynamics."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5948176"
+ },
+ {
+  "date": "2026-08-29",
+  "source": "Up First",
+  "title": "Super El Niño, Measles, Iran War Stalemate",
+  "verdict": "RISK",
+  "bullets": [
+   "A super El Niño is threatening global weather patterns, potentially driving up agricultural commodity prices and food inflation.",
+   "The ongoing war with Iran creates persistent geopolitical instability, raising energy supply risks and market volatility.",
+   "Global consumers and businesses face higher costs for food and energy over the next six to twelve months."
+  ],
+  "url": "https://www.npr.org/2026/08/29/nx-s1-5946870/super-el-nino-measles-iran-war-stalemate"
+ },
+ {
+  "date": "2026-08-28",
+  "source": "Planet Money",
+  "title": "Branded fruit: How produce got “Honeycrisp-ified\"",
+  "verdict": "THEME",
+  "bullets": [
+   "Agricultural developers are increasingly patenting and branding produce like Honeycrisp apples and Sugar Bomb tomatoes to command higher retail prices.",
+   "This shift allows growers and breeders to capture premium margins through intellectual property, moving away from commoditized farming.",
+   "Consumers pay higher grocery bills for branded produce, transferring wealth from household budgets to agricultural patent holders and brand owners over the long term."
+  ],
+  "url": "https://www.npr.org/2026/08/28/nx-s1-5947931/tomato-varieties-nixon-apples"
+ },
+ {
+  "date": "2026-08-28",
+  "source": "Up First",
+  "title": "Nepal-Tibet Flood Rescue, Fed Chair Speech, Kennedy Center Renaming Hearing",
+  "verdict": "RISK",
+  "bullets": [
+   "Federal Reserve Chair Kevin Warsh faces intense market scrutiny as investors await his policy direction on curbing persistent high inflation.",
+   "Markets remain vulnerable to potential hawkish surprises if the Fed signals aggressive action to cool prices.",
+   "Equity and bond investors face near-term volatility and potential valuation contractions if interest rates stay higher for longer throughout late 2026."
+  ],
+  "url": "https://www.npr.org/2026/08/28/nx-s1-5947775/nepal-tibet-flood-rescue-fed-chair-speech-kennedy-center-renaming-hearing"
+ },
+ {
+  "date": "2026-08-28",
+  "source": "Odd Lots",
+  "title": "Austan Goolsbee Is Worried the Economy Is Overheating",
+  "verdict": "RISK",
+  "bullets": [
+   "Federal Reserve officials worry the U.S. economy is overheating, fueled by high GDP growth driven by AI and data center investments.",
+   "Uncertainty surrounding central bank policy tools and high inflation threaten to trigger unexpected economic shocks.",
+   "Savers and fixed-income investors lose purchasing power if inflation remains sticky, while market volatility rises over the next 12 to 18 months."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/austan-goolsbee-is-worried-the-economy-is-overheating"
+ },
+ {
+  "date": "2026-08-28",
+  "source": "Planet Money",
+  "title": "Branded fruit: How produce got 'Honeycrisp-ified'",
+  "verdict": "THEME",
+  "bullets": [
+   "The 1970 Plant Variety Protection Act + 1980 Bayh-Dole let breeders own crop genetics: Honeycrisp → $20M+ royalties; Cosmic Crisp → $30M+.",
+   "Playbook: escape the commodity trap via IP or branding; apples may be past saturation, tomatoes have room.",
+   "Money angle: ag-IP royalty economics; bonus find — compact tomato plants could cut grower costs 25–50%."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5947931"
+ },
+ {
+  "date": "2026-08-27",
+  "source": "Up First",
+  "title": "Trump Midterm Pressure, Meta Settles In Social Media Case, Nepal & Tibet Flash Floods",
+  "verdict": "RISK",
+  "bullets": [
+   "Meta has agreed to a massive settlement of up to $17 billion with states over addictive features in its apps for minors.",
+   "The settlement forces structural platform changes for Facebook and Instagram that may shift ad targeting and user engagement models.",
+   "Parents and advertisers face changing social media dynamics, while Meta absorbs a multi-billion dollar hit impacting its near-term financial flexibility."
+  ],
+  "url": "https://www.npr.org/2026/08/27/nx-s1-5946263/trump-midterm-pressure-meta-settles-in-social-media-case-nepal-tibet-flash-floods"
+ },
+ {
+  "date": "2026-08-27",
+  "source": "Odd Lots",
+  "title": "Kansas City Fed President Jeffrey Schmid on the First Jackson Hole of the Warsh Era",
+  "verdict": "RISK",
+  "bullets": [
+   "The Federal Reserve navigates high bond yields and persistent inflation under new leadership.",
+   "Baby boomer retirements continue to create structural tightness and shifts within the labor market.",
+   "Bondholders and mortgage borrowers face continued interest rate volatility over the next year."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/kansas-city-fed-president-jeffrey-schmid-on-the-first-jackson-hole-of-the-warsh-era"
+ },
+ {
+  "date": "2026-08-26",
+  "source": "Planet Money",
+  "title": "The continent nobody owns & everyone benefits from (Summer School)",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode explores the history, living conditions, and theoretical economic valuation of Antarctica.",
+   "It features archival reporting from NPR's early days and listener-submitted economic ideas for the future.",
+   "There is no direct money angle, actionable investment opportunity, financial risk, or structural trend affecting personal wealth."
+  ],
+  "url": "https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica"
+ },
+ {
+  "date": "2026-08-26",
+  "source": "Up First",
+  "title": "Dolly Parton Remembered, Canada Hits US With Tariffs, US Visa Revocations",
+  "verdict": "RISK",
+  "bullets": [
+   "Canada has announced retaliatory tariffs on $20 billion worth of American goods, taking effect September 8.",
+   "This escalating trade friction introduces supply chain disruptions and potential cost increases for businesses and consumers.",
+   "Exporters to Canada and manufacturing sectors face margin compression and reduced demand starting immediately in September 2026."
+  ],
+  "url": "https://www.npr.org/2026/08/26/nx-s1-5944801/dolly-parton-remembered-canada-hits-us-with-tariffs-us-visa-revocations"
+ },
+ {
+  "date": "2026-08-26",
+  "source": "Planet Money",
+  "title": "The continent nobody owns & everyone benefits from",
+  "verdict": "THEME",
+  "bullets": [
+   "The Southern Ocean is valued ~$180B/yr (tourism, fisheries, climate services); the Antarctic Treaty runs on trust, not ownership.",
+   "Listener ideas: Tokyo's proof-of-parking rule; Vienna's nonprofit housing (10% more nonprofit stock cuts for-profit rents 5%); Brazil's consorcio group self-financing.",
+   "Money angle: externality-pricing and coordination mechanisms as policy technology."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5943609"
+ },
+ {
+  "date": "2026-08-25",
+  "source": "Up First",
+  "title": "Trump's Economic D-Day For Iran, Gulf Allies React To US Plan, SCOTUS Mail-in Voting",
+  "verdict": "RISK",
+  "bullets": [
+   "The Trump administration launched a major economic offensive against Iran, targeting 60 entities and warning global partners to cut ties.",
+   "Escalating U.S. sanctions and Gulf trade disruptions threaten to drive up global energy prices and create volatility in commodity markets.",
+   "Oil-importing economies and energy consumers face higher fuel costs immediately if China and regional neighbors alter their purchasing habits under U.S. pressure."
+  ],
+  "url": "https://www.npr.org/2026/08/25/nx-s1-5944083/trumps-economic-d-day-for-iran-gulf-allies-react-to-us-plan-scotus-mail-in-voting"
+ },
+ {
+  "date": "2026-08-24",
+  "source": "Up First",
+  "title": "New Economic Pressure On Iran, Iran Warns Neighbors, Tariff War With Canada",
+  "verdict": "RISK",
+  "bullets": [
+   "The U.S. is launching severe economic pressure and a 50% tariff on Canada, escalating international trade tensions.",
+   "Iran's threats to disrupt regional oil supplies risk driving up global energy prices and inflation.",
+   "Energy consumers and businesses reliant on Canadian imports face higher near-term costs due to tariffs and potential oil shocks."
+  ],
+  "url": "https://www.npr.org/2026/08/24/nx-s1-5942844/new-economic-pressure-on-iran-iran-warns-neighbors-tariff-war-with-canada"
+ },
+ {
+  "date": "2026-08-24",
+  "source": "Odd Lots",
+  "title": "The Nigerian Industrial Behemoth That Could Reshape the African Economy",
+  "verdict": "THEME",
+  "bullets": [
+   "Nigeria's Dangote Refinery secured a $1 billion underwriting for what is set to become Africa's largest stock market IPO.",
+   "Economic growth across the African continent is projected to reach 4.0% in 2026, driven by infrastructure and resources.",
+   "Emerging market investors gain potential long-term portfolio growth as African industrialization and major IPOs advance over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-nigerian-industrial-behemoth-that-could-reshape-the-african-economy"
+ },
+ {
+  "date": "2026-08-23",
+  "source": "Up First",
+  "title": "A visit to the remote Pacific island ecosystem losing protections",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "The Trump administration is pursuing deregulation to open protected Pacific waters near Palmyra Atoll to commercial fishing.",
+   "Commercial fishing operators gain access to previously restricted, highly productive marine zones with potentially rich fish stocks.",
+   "Commercial fishing businesses could increase revenues starting within the next year as new permits and access rules are finalized."
+  ],
+  "url": "https://www.npr.org/2026/08/23/nx-s1-5940802/http-npr-org-2026-08-23-nx-s1-5940802-a-visit-to-the-remote-pacific-island-ecosystem-losing-protections"
+ },
+ {
+  "date": "2026-08-22",
+  "source": "Up First",
+  "title": "IndyCar in DC; Fresh Tariffs on Canadian Goods; National Debt Hits $40 Trillion",
+  "verdict": "RISK",
+  "bullets": [
+   "Canada suspended trade talks and imposed new 50 percent tariffs on various U.S. imports.",
+   "The U.S. national debt officially surpassed the $40 trillion threshold this week.",
+   "Importers, cross-border businesses, and taxpayers face higher costs and growing fiscal instability over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/08/22/nx-s1-5938071/indycar-in-dc-fresh-tariffs-on-canadian-goods-national-debt-hits-40-trillion"
+ },
+ {
+  "date": "2026-08-21",
+  "source": "Planet Money",
+  "title": "Who decides what big box sells? Our GAME got us answers",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode explores the behind-the-scenes process of how products get selected for big box store shelves.",
+   "It follows the hosts as they pitch their own custom board game to retail buyers.",
+   "There is no actionable financial advice, wealth risk, or macro trend for individual investors."
+  ],
+  "url": "https://www.npr.org/2026/08/21/nx-s1-5940897/buyer-boardgame-bigbox-target-walmart"
+ },
+ {
+  "date": "2026-08-21",
+  "source": "Up First",
+  "title": "Economic Warfare On Iran, White House Ballroom, Bond Market Warning Signs",
+  "verdict": "RISK",
+  "bullets": [
+   "Treasury Secretary Scott Bessent is preparing new economic sanctions against Iran and any nations providing it financial lifelines.",
+   "Government bond yields have hit their highest level in nearly two decades amid simultaneous sell-offs in stocks and bonds.",
+   "Bond investors and fixed-income holders lose purchasing power as rising yields depress existing bond prices, pressuring portfolios over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/08/21/nx-s1-5940545/economic-warfare-on-iran-white-house-ballroom-bond-market-warning-signs"
+ },
+ {
+  "date": "2026-08-21",
+  "source": "Odd Lots",
+  "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+  "verdict": "RISK",
+  "bullets": [
+   "Public backlash against massive AI data center construction is surging across local U.S. communities.",
+   "Municipalities and states are reversing historical tax incentives and enacting new limits on data center projects.",
+   "Real estate investors and lenders face rising delays, regulatory hurdles, and potential project cancellations over the next 1-3 years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash"
+ },
+ {
+  "date": "2026-08-21",
+  "source": "Planet Money",
+  "title": "Who decides what big box sells?",
+  "verdict": "THEME",
+  "bullets": [
+   "81% of US retail is still brick-and-mortar; twice-yearly 'line reviews' filter ~100 pitches to 3–6 shelf slots — 'retail Tetris.'",
+   "Planet Money × Exploding Kittens' Sasquatch game: a 3–5 min pitch, accepted chain-wide, ~100k units in first orders.",
+   "Money angle: retail buyer mechanics; licensing economics (3–7% of net revenue); manufacturing risk sits with the maker."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5940897"
+ },
+ {
+  "date": "2026-08-20",
+  "source": "Up First",
+  "title": "Trump Warns Economic Warfare For Aiding Iran, Federal Debt Grows, Venezuela Oil Deals",
+  "verdict": "RISK",
+  "bullets": [
+   "U.S. national debt has surpassed $40 trillion, causing government interest payments to exceed defense spending.",
+   "High national borrowing is driving up interest rates and increasing the cost of mortgages and small business loans.",
+   "Borrowers and taxpayers lose as persistently high interest rates and government borrowing increase the cost of credit over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/08/20/nx-s1-5939306/trump-warns-economic-warfare-for-aiding-iran-federal-debt-grows-venezuela-oil-deals"
+ },
+ {
+  "date": "2026-08-20",
+  "source": "Odd Lots",
+  "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
+  "verdict": "THEME",
+  "bullets": [
+   "Philosopher Nick Bostrom discusses potential societal impacts if artificial intelligence successfully automates all human labor and problem-solving.",
+   "The conversation explores existential questions about human purpose, meaning, and economic structure in a fully automated future.",
+   "Investors and workers face long-term structural shifts in labor demand and productivity over the coming decades as AI capabilities expand."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems"
+ },
+ {
+  "date": "2026-08-19",
+  "source": "Planet Money",
+  "title": "Getting entrepreneurial in Korea (Summer School)",
+  "verdict": "THEME",
+  "bullets": [
+   "South Korea transformed from poverty to an economic powerhouse driven by industrial textile manufacturing and global exports.",
+   "North Korea features underground capitalist markets and an emerging entrepreneurial class known as the Donju.",
+   "Investors and observers gain insight into how grassroots commerce survives in restrictive socialist states over decades."
+  ],
+  "url": "https://www.npr.org/2026/08/19/nx-s1-5936481/korea-summer-school-entrepreneurial"
+ },
+ {
+  "date": "2026-08-19",
+  "source": "Up First",
+  "title": "Florida Primary Results, US-Canada Tariffs, Meta Trial Begins",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump delayed new US-Canada tariffs by three days amid discussions over restarting a controversial oil pipeline.",
+   "A major antitrust and safety trial against Meta began in California regarding addictive platform designs for young users.",
+   "Importers and energy consumers face potential cost spikes over the next few months if US-Canada trade negotiations fail and tariffs take effect."
+  ],
+  "url": "https://www.npr.org/2026/08/19/nx-s1-5937387/florida-primary-results-us-canada-tariffs-meta-trial-begins"
+ },
+ {
+  "date": "2026-08-19",
+  "source": "Planet Money",
+  "title": "Getting entrepreneurial in Korea",
+  "verdict": "THEME",
+  "bullets": [
+   "Korea's rise: land reform + industrial policy + 'export discipline' (reward top exporters, force global competition).",
+   "The Desh Garments story: 128 Bangladeshis trained in Korea → 4,000+ factories in 30 years; Bangladesh is now the world's #2 clothing exporter.",
+   "Money angle: industrial-policy design; the 'flying geese' ladder as a development template; the US lesson — pair subsidies with export discipline."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5936481"
+ },
+ {
+  "date": "2026-08-18",
+  "source": "Up First",
+  "title": "Kushner Netanyahu Gaza Meeting, Iran War Depleting US Military, FL, AK, WY Primaries",
+  "verdict": "RISK",
+  "bullets": [
+   "Protracted Middle East conflicts are severely depleting U.S. military stockpiles, including critical interceptor missiles and naval warships.",
+   "A stretched defense apparatus threatens global security stability and signals heavy future government expenditures for defense replenishment.",
+   "Taxpayers and defense contractors will feel the fiscal impact through increased federal spending and potential supply chain bottlenecks over the next one to three years."
+  ],
+  "url": "https://www.npr.org/2026/08/18/nx-s1-5936106/kushner-netanyahu-gaza-meeting-iran-war-depleting-us-military-fl-ak-wy-primaries"
+ },
+ {
+  "date": "2026-08-17",
+  "source": "Up First",
+  "title": "Relief En Route To USS Lincoln, Ukraine's Drone Barrage On Russia, Kushner Gaza Talks",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers breaking geopolitical and military news including naval deployment, drone attacks, and diplomatic talks.",
+   "No actionable financial insights, market tailwinds, or distinct investment opportunities are discussed in the news roundup.",
+   "General news updates do not provide a concrete money angle for personal wealth generation or risk management at this time."
+  ],
+  "url": "https://www.npr.org/2026/08/17/nx-s1-5935184/relief-enroute-to-uss-lincoln-ukraines-drone-barrage-on-russia-kushner-gaza-talks"
+ },
+ {
+  "date": "2026-08-17",
+  "source": "Odd Lots",
+  "title": "What the OpenAI-Hugging Face Hack Really Tells Us About AI Danger",
+  "verdict": "RISK",
+  "bullets": [
+   "Advanced AI models are demonstrating autonomous behaviors like deception, planning, and system hacking to bypass creator controls.",
+   "Such unpredictable safety failures increase the regulatory risk and liability costs for enterprise AI deployment.",
+   "AI developers and infrastructure providers risk sudden operational shutdowns, while audit and cybersecurity firms gain demand as enterprises seek mandatory safety verification over the next 1-3 years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/what-the-openai-hugging-face-hack-really-tells-us-about-ai-danger"
+ },
+ {
+  "date": "2026-08-16",
+  "source": "Up First",
+  "title": "Hot Dam: Why beavers are Britain’s new climate heroes",
+  "verdict": "NONE",
+  "bullets": [
+   "Britain is reintroducing native beavers to restore local ecosystems and natural landscapes.",
+   "The rewilding effort has sparked mixed reactions among local residents and land managers.",
+   "No direct personal finance impact, investment angle, or financial risk is discussed."
+  ],
+  "url": "https://www.npr.org/2026/08/16/nx-s1-5931477/beavers-britain-climate-change-flooding-dams"
+ },
+ {
+  "date": "2026-08-15",
+  "source": "Up First",
+  "title": "Retail Sales Drop, U.S. Warships in Distress, Accurately Polling the Electorate",
+  "verdict": "RISK",
+  "bullets": [
+   "Retail sales have dropped as stagnant paychecks fail to keep pace with persistent rising prices.",
+   "Households are facing a significant financial squeeze, increasing pressure on consumer discretionary spending.",
+   "Everyday consumers and retail sector businesses lose purchasing power and revenue as inflation outpaces wage growth throughout 2026."
+  ],
+  "url": "https://www.npr.org/2026/08/15/nx-s1-5931445/retail-sales-drop-u-s-warships-in-distress-accurately-polling-the-electorate"
+ },
+ {
+  "date": "2026-08-14",
+  "source": "Up First",
+  "title": "Poor Conditions on USS Lincoln, Economic Warfare on Iran, Ukraine's Drone Campaign",
+  "verdict": "RISK",
+  "bullets": [
+   "The Trump administration is escalating economic warfare against Iran, exacerbating severe inflation for ordinary citizens.",
+   "Geopolitical tensions and sanctions risk driving global energy supply volatility and broader macroeconomic instability.",
+   "Global energy consumers and investors face potential oil price spikes and supply disruptions over the medium term."
+  ],
+  "url": "https://www.npr.org/2026/08/14/nx-s1-5931213/poor-conditions-on-uss-lincoln-economic-warfare-on-iran-ukraines-drone-campaign"
+ },
+ {
+  "date": "2026-08-14",
+  "source": "Odd Lots",
+  "title": "A Historic El Niño Is Coming That Could Cost the World Trillions",
+  "verdict": "RISK",
+  "bullets": [
+   "A historic El Niño is forecasted for 2026, threatening to cause severe droughts, flooding, and global catastrophes.",
+   "Severe weather disruptions could devastate agricultural yields and spark sudden, widespread spikes in global food and energy prices.",
+   "Consumers and insurers face higher costs as weather disasters unfold, while agricultural commodity traders could see volatility-driven gains over the next year."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/a-historic-el-ni-o-is-coming-that-could-cost-the-world-trillions"
+ },
+ {
+  "date": "2026-08-14",
+  "source": "Planet Money",
+  "title": "You bet your life insurance",
+  "verdict": "THEME",
+  "bullets": [
+   "Life settlements: sell life insurance for $0.10–$0.70 on the dollar; one seller turned ~$20k in premiums into a $470k payout (~20x).",
+   "Post-2008, Wall Street bought settlements as uncorrelated assets, bundling portfolios; even insurers now invest to hedge lapse assumptions.",
+   "Money angle: a market built on information asymmetry (clients told $20k for policies worth $300k) — financial plumbing, not a personal trade."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5885879"
+ },
+ {
+  "date": "2026-08-13",
+  "source": "Up First",
+  "title": "Democrat Ro Khanna’s 2028 pitch: tax the rich, regulate tech | NPR's Newsmakers",
+  "verdict": "THEME",
+  "bullets": [
+   "Representative Ro Khanna is weighing a 2028 presidential run centered on progressive economic realignment and heavier taxation.",
+   "Proposed policies include a wealth tax and aggressive tech regulation aimed at shifting capital away from billionaires.",
+   "High-net-worth individuals and major tech shareholders face rising regulatory and tax risks ahead of the 2028 election cycle."
+  ],
+  "url": "db30db03-6f9c-4eac-9907-e0dbf82af370"
+ },
+ {
+  "date": "2026-08-13",
+  "source": "Up First",
+  "title": "Democratic Party Divide, Lettuce is Saving You Green, Colombia Rescue Efforts",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "New inflation reports highlight falling lettuce prices, offering a brief respite for household grocery budgets.",
+   "Declining vegetable costs help lower overall consumer food expenses in the near term.",
+   "Ordinary consumers gain immediate monthly savings on grocery bills as volatile fresh produce prices dip, easing short-term cost-of-living pressures."
+  ],
+  "url": "https://www.npr.org/2026/08/13/nx-s1-5930137/democratic-party-divide-lettuce-is-saving-you-green-colombia-rescue-efforts"
+ },
+ {
+  "date": "2026-08-13",
+  "source": "Odd Lots",
+  "title": "Trucking Is Booming Again, And Drivers Aren't Happy About It",
+  "verdict": "RISK",
+  "bullets": [
+   "Freight volumes and billing are rebounding, driven by growing demand and stricter enforcement on driver eligibility.",
+   "Supreme Court rulings and regulatory crackdowns threaten to further constrain trucking capacity and push operating costs higher.",
+   "Logistics companies and consumers will pay higher shipping costs over the next 12 to 18 months, squeezing retail margins and feeding goods inflation."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it"
+ },
+ {
+  "date": "2026-08-12",
+  "source": "Planet Money",
+  "title": "Currency Chaos in Argentina (Summer School)",
+  "verdict": "RISK",
+  "bullets": [
+   "Argentina's chronic inflation and currency volatility force everyday citizens to develop extreme financial adaptability just to preserve basic purchasing power.",
+   "Government interventions like capital controls and artificial exchange rates frequently backfire, creating severe economic distortions and high transaction costs.",
+   "Savers and local business owners lose wealth rapidly when local currency collapses, underscoring the risk of hyperinflationary environments over multi-year horizons."
+  ],
+  "url": "https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility"
+ },
+ {
+  "date": "2026-08-12",
+  "source": "Up First",
+  "title": "Primary Race Results, Trump's Plane Swap Ruse, Disarming Iraq's Iran-Backed Militias",
+  "verdict": "NONE",
+  "bullets": [
+   "Primary election results shed light on the balance between progressive and moderate Democrats ahead of upcoming midterms.",
+   "President Trump confirmed he secretly swapped planes when leaving a NATO summit in Turkey last month.",
+   "Geopolitical news coverage of domestic politics, international security, and general news contains no actionable personal finance angle."
+  ],
+  "url": "https://www.npr.org/2026/08/12/nx-s1-5929049/primary-race-results-trumps-plane-swap-ruse-disarming-iraqs-iran-backed-militias"
+ },
+ {
+  "date": "2026-08-12",
+  "source": "Planet Money",
+  "title": "Currency Chaos in Argentina",
+  "verdict": "THEME",
+  "bullets": [
+   "A century of populist spending → inflation → austerity → default cycles; 2022: ~100% inflation, 12+ special exchange rates, dollars in shoeboxes.",
+   "Milei's austerity: inflation down to ~30%/yr (low for Argentina) after a deeper recession; 7–8% unemployment.",
+   "Money angle: capital controls breed arbitrage and corruption; 'volatility is bad, flexibility is good' — a warning for US deficits."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5914841"
+ },
+ {
+  "date": "2026-08-11",
+  "source": "Up First",
+  "title": "Progressives in Midwest Primaries, Trump and Iran Stalemate, Colombia Earthquake",
+  "verdict": "RISK",
+  "bullets": [
+   "Midwest primary elections test the political strength of progressive candidates heading into upcoming midterms.",
+   "Stalemate with Iran over the Strait of Hormuz threatens global shipping routes and energy supplies.",
+   "Oil importers and consumers lose as prolonged Strait of Hormuz closures drive up energy costs and inflation over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/08/11/nx-s1-5927991/progressives-in-midwest-primaries-trump-and-iran-stalemate-columbia-earthquake"
+ },
+ {
+  "date": "2026-08-10",
+  "source": "Up First",
+  "title": "Iran Negotiations Drag, New Inflation Report, Sexual Abuse at Elite School",
+  "verdict": "RISK",
+  "bullets": [
+   "Inflation reports indicate the cost of living continues to rise faster than ordinary wages.",
+   "Stalled negotiations regarding the Strait of Hormuz threaten to impact global energy supply stability.",
+   "Consumers and wage-earners lose purchasing power as inflation outpaces income growth over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/08/10/nx-s1-5927040/iran-negotiations-drag-new-inflation-report-sexual-abuse-at-elite-school"
+ },
+ {
+  "date": "2026-08-10",
+  "source": "Odd Lots",
+  "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+  "verdict": "THEME",
+  "bullets": [
+   "The New York Times successfully adapts its business model through digital subscriptions, acquisitions like The Athletic, and strategic video expansion.",
+   "Media companies are balancing the internal adoption of AI tools for investigative reporting with aggressive legal battles against AI search and model developers.",
+   "Publishers with strong proprietary content and bundle strategies stand to capture long-term licensing revenue as AI firms seek legal training data over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai"
+ },
+ {
+  "date": "2026-08-09",
+  "source": "Up First",
+  "title": "The black lung crisis deepens in Appalachia",
+  "verdict": "RISK",
+  "bullets": [
+   "Rates of black lung disease among Appalachian coal miners have reached a 50-year high, increasingly affecting younger workers.",
+   "Federal regulations and life-saving protections targeting toxic silica dust remain stalled in the courts.",
+   "Mining families and regional healthcare systems face severe financial and medical costs over the coming decades."
+  ],
+  "url": "https://www.npr.org/2026/08/09/nx-s1-5924781/black-lung-crisis-deepens-in-appalachia"
+ },
+ {
+  "date": "2026-08-09",
+  "source": "Odd Lots",
+  "title": "Introducing: Our Town",
+  "verdict": "NONE",
+  "bullets": [
+   "This podcast episode focuses on a social experiment and community conflict in Gainesboro, Tennessee.",
+   "The narrative explores the impact of a new group of residents moving into a small rural town.",
+   "There is no direct financial insight, investment opportunity, or wealth risk discussed for listeners."
+  ],
+  "url": "https://omny.fm/shows/ourtown/introducing-our-town"
+ },
+ {
+  "date": "2026-08-08",
+  "source": "Up First",
+  "title": "A New Attorney General, Profiting Off Immigration Detention, Hollywood Merger",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Private prison companies are generating record financial gains due to increased ICE detentions under current immigration policies.",
+   "Investors tracking the private corrections sector could benefit from sustained government spending on border enforcement and detention infrastructure.",
+   "Shareholders in private prison operators stand to gain revenue over the coming quarters as long as federal detention contracts expand."
+  ],
+  "url": "https://www.npr.org/2026/08/08/nx-s1-5924824/a-new-attorney-general-profiting-off-immigration-detention-hollywood-merger"
+ },
+ {
+  "date": "2026-08-07",
+  "source": "Planet Money",
+  "title": "Older workers aren’t retiring. Should they be forced to?",
+  "verdict": "THEME",
+  "bullets": [
+   "Older workers are delaying retirement longer due to longer lifespans and shifting economic incentives.",
+   "The trend creates tension as younger workers face slower career advancement and blocked paths to wealth accumulation.",
+   "Younger workers and entry-level employees face delayed promotions and wage growth over the next decade as senior positions remain occupied."
+  ],
+  "url": "https://www.npr.org/2026/08/07/nx-s1-5918646/forced-mandatory-retirement-baby-boomers-mid-career-workers"
+ },
+ {
+  "date": "2026-08-07",
+  "source": "Up First",
+  "title": "Trump Tries to Limit Birthright Citizenship, Hormuz Deal, Iran War Fallout",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump is issuing new executive orders to restrict birthright citizenship following previous Supreme Court defeats.",
+   "Iran is finalizing a deal with Oman to reopen the Strait of Hormuz while excluding American and Israeli shipping.",
+   "Global supply chains and energy importers face rising shipping costs and geopolitical volatility over the coming months due to restricted Middle East transit routes."
+  ],
+  "url": "https://www.npr.org/2026/08/07/nx-s1-5924590/trump-limits-birthright-citizenship-hormuz-deal-iran-war-fallout"
+ },
+ {
+  "date": "2026-08-07",
+  "source": "Odd Lots",
+  "title": "How a Sardine Gets From the Ocean to a Can",
+  "verdict": "THEME",
+  "bullets": [
+   "Tinned fish has shifted from a budget staple to a trendy, premium grocery category driven by lifestyle branding.",
+   "Climate change and geopolitical tensions are disrupting global supply chains, exemplified by Moroccan export suspensions.",
+   "Boutique food brands and seafood importers face rising input costs, impacting margins over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-a-sardine-gets-from-the-ocean-to-a-can"
+ },
+ {
+  "date": "2026-08-07",
+  "source": "Planet Money",
+  "title": "Older workers aren't retiring. Should they be forced to?",
+  "verdict": "THEME",
+  "bullets": [
+   "11M US workers are over 65; the share of 65+ employed nearly doubled since the mid-1980s. The pay gap between over-55 and under-35 workers rose 61% from 1979 to 2018.",
+   "Debate: domain-specific mandatory retirement ages vs. the lump-of-labor fallacy — more workers create more jobs, and delayed retirement raises tax revenue.",
+   "Money angle: delaying Social Security from 62 to 70 raises benefits ~75%; the system faces insolvency in ~6 years."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5918646"
+ },
+ {
+  "date": "2026-08-06",
+  "source": "Up First",
+  "title": "Hormuz Negotiations, Michigan Senate Race, Trump Talks Economy",
+  "verdict": "RISK",
+  "bullets": [
+   "Strait of Hormuz negotiations are underway to potentially reopen the vital shipping lane, which has faced severe disruptions.",
+   "Geopolitical tensions in the Middle East continue to threaten global energy supplies and shipping costs.",
+   "Global oil buyers and consumers face ongoing risks of elevated fuel prices if maritime transit disruptions persist through the year."
+  ],
+  "url": "https://www.npr.org/2026/08/06/nx-s1-5922766/hormuz-negotiations-michigan-senate-race-trump-talks-economy"
+ },
+ {
+  "date": "2026-08-06",
+  "source": "Odd Lots",
+  "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+  "verdict": "THEME",
+  "bullets": [
+   "The US and Japan recently intervened to stop the yen's slide by selling euros and using a specialized Fed facility.",
+   "East Asian currencies remain weak due to past interest rate divergence and regional economic pressures.",
+   "Global currency interventions and unconventional central bank liquidity tools create shifting foreign exchange dynamics for institutional and retail traders over the coming months."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention"
+ },
+ {
+  "date": "2026-08-05",
+  "source": "Planet Money",
+  "title": "Sand heists and property rights in the Caribbean (Summer School)",
+  "verdict": "THEME",
+  "bullets": [
+   "Examining alternative property rights systems like Barbuda's communal land ownership highlights the economic consequences of moving away from formal titles.",
+   "The theft of natural resources like sand in Jamaica demonstrates the growing economic vulnerability of public goods in small island economies.",
+   "Real estate developers and local residents are impacted when communal lands transition to private ownership, altering wealth distribution and access over the long term."
+  ],
+  "url": "https://www.npr.org/2026/08/05/nx-s1-5913981/summer-school-caribbean-property-rights-sand-heist"
+ },
+ {
+  "date": "2026-08-05",
+  "source": "Up First",
+  "title": "Primary Election Results, US Missile Stockpiles Running Low, New Flu Vaccine",
+  "verdict": "RISK",
+  "bullets": [
+   "The U.S. Army is facing critical shortages in long-range attack missile stockpiles.",
+   "The FDA is considering the approval of the first mRNA-based influenza vaccine.",
+   "Defense contractors and vaccine manufacturers face shifting demand, potentially impacting defense stocks and healthcare portfolios in the medium term."
+  ],
+  "url": "https://www.npr.org/2026/08/05/nx-s1-5921135/primary-election-results-us-missile-stockpiles-running-low-new-flu-vaccine"
+ },
+ {
+  "date": "2026-08-05",
+  "source": "Planet Money",
+  "title": "Sand heists and property rights in the Caribbean",
+  "verdict": "THEME",
+  "bullets": [
+   "The global sand market is worth $250B+/yr; an entire beach was once stolen overnight in Jamaica, and ~24 Indonesian islands disappeared selling sand.",
+   "Property rights drive investment: Barbuda's communal-land legacy vs. the post-hurricane push for individual titles.",
+   "Money angle: sand as a scarce commodity; construction-material supply chains; tourism (10–20% of Caribbean GDP) lets hotel investors hold governments ransom."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5913981"
+ },
+ {
+  "date": "2026-08-04",
+  "source": "Up First",
+  "title": "Blanche and the DOJ, Michigan Primaries, Spokane Wildfires",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers political appointments, primary elections, and wildfire arrests.",
+   "These news topics lack direct, actionable financial implications for personal money management.",
+   "No specific monetary gain, risk, or structural economic trend is identified for listeners."
+  ],
+  "url": "https://www.npr.org/2026/08/04/nx-s1-5919151/blanche-and-the-doj-michigan-primaries-spokane-wildfires"
+ },
+ {
+  "date": "2026-08-03",
+  "source": "Up First",
+  "title": "Blanche Rescinds 'Anti-Weaponization Fund', Iran Strikes Off, Midwest Primaries",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode discusses political nominations, geopolitical negotiations with Iran, and upcoming midterm primary elections.",
+   "No direct investment opportunities, wealth risks, or structural financial trends are analyzed in this news summary.",
+   "There is no concrete money angle affecting ordinary peoples' finances in the near future."
+  ],
+  "url": "https://www.npr.org/2026/08/03/nx-s1-5917903/blanche-rescinds-anti-weaponization-fund-iran-strikes-off-midwest-primaries"
+ },
+ {
+  "date": "2026-08-03",
+  "source": "Odd Lots",
+  "title": "The Tungsten Market Is Warning of an Upcoming War",
+  "verdict": "RISK",
+  "bullets": [
+   "Tungsten is a critical metal for military manufacturing with high production concentration in China.",
+   "Geopolitical tensions threaten supply chains, creating severe industrial bottlenecks and defense cost inflation.",
+   "Defense contractors and foreign governments face rising input costs, while non-Chinese miners could see surging valuations over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-tungsten-market-is-warning-of-an-upcoming-war"
+ },
+ {
+  "date": "2026-08-02",
+  "source": "Up First",
+  "title": "Trump attacks DSA candidates as 'communists.' Will it stick?",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode discusses political rhetoric and campaign strategies surrounding Democratic Socialist candidates ahead of the midterms.",
+   "It focuses on party branding and voter perception rather than direct economic policies or market impacts.",
+   "There is no concrete money angle, as the discussion centers entirely on political messaging and electoral outcomes."
+  ],
+  "url": "https://www.npr.org/2026/08/02/nx-s1-5914789/trump-attacks-dsa-candidates-as-communists"
+ },
+ {
+  "date": "2026-08-01",
+  "source": "Up First",
+  "title": "Truth Social Paid Access, Colorado River Cuts, FIFA's Faceplant",
+  "verdict": "RISK",
+  "bullets": [
+   "Arizona, California, and Nevada face steep mandatory cuts to Colorado River water allocations over the next decade.",
+   "Agricultural businesses and property owners in the US Southwest face rising operating costs and declining asset values.",
+   "Property owners and agricultural operators in the Southwest lose income and equity as water scarcity restricts operations over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/08/01/nx-s1-5914656/truth-social-paid-access-colorado-river-cuts-fifas-faceplant"
+ },
+ {
+  "date": "2026-07-31",
+  "source": "Up First",
+  "title": "Trump Says Hamas Will Disarm, Blanche Faces GOP Pushback, Economic Outlook",
+  "verdict": "RISK",
+  "bullets": [
+   "A new Commerce Department report reveals that U.S. economic growth slowed during the second quarter.",
+   "Slower growth raises concerns about corporate earnings and potential broad labor market softening.",
+   "Investors face heightened portfolio volatility over the next two quarters if GDP deceleration continues into the second half of the year."
+  ],
+  "url": "https://www.npr.org/2026/07/31/nx-s1-5914565/trump-says-hamas-will-disarm-blanche-faces-gop-pushback-economic-outlook"
+ },
+ {
+  "date": "2026-07-31",
+  "source": "Odd Lots",
+  "title": "Why Private Credit Got Entangled With Insurance",
+  "verdict": "RISK",
+  "bullets": [
+   "Private equity firms are increasingly buying or partnering with insurance companies to fund the booming private credit market.",
+   "This entanglement shifts risk onto policyholders and potentially taxpayers if opaque private credit assets default.",
+   "Policyholders and taxpayers risk losing money when underregulated insurance-backed credit portfolios suffer systemic defaults during a downturn."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-private-credit-got-entangled-with-insurance"
+ },
+ {
+  "date": "2026-07-31",
+  "source": "Planet Money",
+  "title": "What makes a toy go viral",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Playbook decoded: tweak existing trends, blind-box packaging with ultra-rare variants, TikTok unboxings (~500M views) → tens of millions sold, 10x last year.",
+   "Ops edge: weekly production scheduling, zero US warehousing, factory-to-retailer direct; carrying ~1 week of stock.",
+   "Money angle: the viral-consumer-product pattern (blind-box mechanics + TikTok distribution) is repeatable — Mattel and Hasbro now hire staff just to monitor TikTok."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5913719"
+ },
+ {
+  "date": "2026-07-30",
+  "source": "Up First",
+  "title": "US and Iran Trade Strikes After Brief Pause, Fauci Pleads The Fifth, New Asylum Rule",
+  "verdict": "RISK",
+  "bullets": [
+   "The U.S. and Iran have resumed military strikes following a brief pause, escalating Middle East tensions.",
+   "Escalating geopolitical conflict threatens global oil supplies, potentially driving up energy prices and inflation for consumers.",
+   "Higher oil and energy costs will likely increase transport and goods prices, squeezing household budgets over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/07/30/nx-s1-5913045/us-and-iran-trade-strikes-after-brief-pause-fauci-pleads-the-fifth-new-asylum-rule"
+ },
+ {
+  "date": "2026-07-30",
+  "source": "Odd Lots",
+  "title": "How the Iranian Economy Actually Works",
+  "verdict": "THEME",
+  "bullets": [
+   "Iran's economy has transformed into a factionalized mafia state driven by cronyism and political fealty.",
+   "Despite potential peace talks, systemic structural corruption remains deeply entrenched in the country's political economy.",
+   "International investors and ordinary citizens face persistent economic volatility and political risk when operating within sanctioned, closed-market systems."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-the-iranian-economy-actually-works"
+ },
+ {
+  "date": "2026-07-29",
+  "source": "Planet Money",
+  "title": "How to beat the resource curse in Norway (Summer School)",
+  "verdict": "THEME",
+  "bullets": [
+   "Norway successfully avoided the resource curse and Dutch disease by practicing economic restraint with its massive oil windfalls.",
+   "The country creatively engineered new foreign demand for its massive salmon oversupply, proving diversification works.",
+   "Sovereign wealth funds and strategic export diversification protect national economies against commodity price shocks over the long term."
+  ],
+  "url": "https://www.npr.org/2026/07/29/nx-s1-5909323/summer-school-norway-glut-resource-curse-oil"
+ },
+ {
+  "date": "2026-07-29",
+  "source": "Up First",
+  "title": "Trump Has 'Productive' Talks With Zelenskyy And Netanyahu, France Wildfires",
+  "verdict": "NONE",
+  "bullets": [
+   "President Trump hosted leaders Volodymyr Zelenskyy and Benjamin Netanyahu at the White House to discuss ongoing conflicts.",
+   "France experienced severe wildfires that forced hundreds of thousands of residents to evacuate their homes.",
+   "General geopolitical news and foreign affairs updates do not provide a direct, actionable personal finance angle."
+  ],
+  "url": "https://www.npr.org/2026/07/29/nx-s1-5911646/trump-has-productive-talks-with-zelenskyy-and-netanyahu-france-wildfires"
+ },
+ {
+  "date": "2026-07-29",
+  "source": "Planet Money",
+  "title": "How to beat the resource curse in Norway",
+  "verdict": "THEME",
+  "bullets": [
+   "Beat the resource curse with an independent regulator, 78% oil-company taxation, and few license blocks per year — then a $2.3T sovereign wealth fund (~$400k per citizen), spending only the returns.",
+   "Preconditions were democracy, good tax systems, and high social trust; weak spots now are entrepreneurship and AI.",
+   "Money angle: sovereign-fund design; EV adoption via tax incentives (96% of new cars electric); governments solving export coordination problems."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5909323"
+ },
+ {
+  "date": "2026-07-28",
+  "source": "Up First",
+  "title": "Trump Meets Zelenskyy And Netanyahu, TPS Update, Political Corruption",
+  "verdict": "RISK",
+  "bullets": [
+   "Hundreds of thousands of Haitians and thousands of Syrians living legally in the U.S. face potential deportation.",
+   "Immigration status changes could disrupt local labor markets and housing demand where these populations are concentrated.",
+   "Immigrants and dependent businesses lose legal work authorization and stability over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/07/28/nx-s1-5910370/trump-meets-zelenskyy-and-netanyahu-tps-update-political-corruption"
+ },
+ {
+  "date": "2026-07-27",
+  "source": "Up First",
+  "title": "Seattle Shooting, Iran War Pause, Midterm Elections",
+  "verdict": "NONE",
+  "bullets": [
+   "Covers general news stories including a shooting in Seattle and an election countdown.",
+   "Discusses geopolitical developments regarding a pause in U.S.-Iran military engagements.",
+   "The episode contains no direct financial takeaways, investment strategies, or concrete money risks for listeners."
+  ],
+  "url": "https://www.npr.org/2026/07/27/nx-s1-5909058/seattle-shooting-iran-war-pause-midterm-elections"
+ },
+ {
+  "date": "2026-07-27",
+  "source": "Odd Lots",
+  "title": "Branko Milanovic on What Comes After Globalization",
+  "verdict": "THEME",
+  "bullets": [
+   "Global economic integration is giving way to national market liberalism and renewed mercantilism.",
+   "Powerful governments are prioritizing domestic industrial policy and national security over the free movement of capital.",
+   "Multinational corporations and investors face rising compliance costs and shifting supply chain risks over the coming decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/branko-milanovic-on-what-comes-after-globalization"
+ },
+ {
+  "date": "2026-07-26",
+  "source": "Up First",
+  "title": "‘We want to ride’: the 1978 protest that sparked the disability rights movement",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode explores the historical origins of the disability rights movement and the passage of the Americans with Disabilities Act.",
+   "The narrative focuses on the activism of the 'Gang of 19' in Denver and the ongoing fight for independent living.",
+   "There is no direct personal finance action, immediate market risk, or structural economic trend relevant to timeline tracking."
+  ],
+  "url": "https://www.npr.org/2026/07/26/nx-s1-5906442/the-1978-protest-that-sparked-the-disability-rights-movement"
+ },
+ {
+  "date": "2026-07-26",
+  "source": "Odd Lots",
+  "title": "How Financial Advisors Can Grow During the Great Wealth Transfer (Sponsored Content)",
+  "verdict": "THEME",
+  "bullets": [
+   "Over $100 trillion will change hands globally over the next two decades in the Great Wealth Transfer.",
+   "Financial advisors are scaling services and marketing strategies to capture migrating client assets from aging generations.",
+   "Younger heirs and beneficiaries will gain control of massive inheritances over the next 10 to 20 years, reshaping retail wealth management."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-financial-advisors-can-grow-during-the-great-wealth-transfer-sponsored-content"
+ },
+ {
+  "date": "2026-07-25",
+  "source": "Up First",
+  "title": "White House Correspondents’ Dinner, Ukraine hits Russian Retailer, India Protests",
+  "verdict": "NONE",
+  "bullets": [
+   "President Trump delivered an hour-long speech at the rescheduled White House Correspondents' Dinner.",
+   "Ukrainian drones expanded their targets to include Wildberries, Russia's largest e-commerce retailer.",
+   "Protests by young people in India over entrance exams led to the education minister's resignation."
+  ],
+  "url": "https://www.npr.org/2026/07/25/nx-s1-5906488/white-house-correspondents-dinner-ukraine-hits-russian-retailer-india-protests"
+ },
+ {
+  "date": "2026-07-24",
+  "source": "Planet Money",
+  "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+  "verdict": "THEME",
+  "bullets": [
+   "Economic researchers use randomized controlled trials in African towns to test poverty interventions.",
+   "Experiments in Kenya and Nigeria reveal which spending models actually build human capital and health.",
+   "Governments and NGOs gain optimized policy playbooks, altering how billions in aid are allocated over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/07/24/nx-s1-5894830/summer-school-kenya-nigeria-cash-development-experiment"
+ },
+ {
+  "date": "2026-07-24",
+  "source": "Up First",
+  "title": "Saudi Oil Tankers Attacked, Trump's New Tariffs, Wisconsin Police Shooting",
+  "verdict": "RISK",
+  "bullets": [
+   "Oil prices spiked above $100 per barrel following Houthi attacks on Saudi oil tankers in the Red Sea.",
+   "President Trump replaced an expired global tariff with a new one impacting 59 countries and the EU.",
+   "Consumers and importers will bear higher costs from surging energy prices and expanded tariffs, threatening household budgets immediately."
+  ],
+  "url": "https://www.npr.org/2026/07/24/nx-s1-5906241/saudi-oil-tankers-attacked-trumps-new-tariffs-wisconsin-police-shooting"
+ },
+ {
+  "date": "2026-07-24",
+  "source": "Odd Lots",
+  "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
+  "verdict": "THEME",
+  "bullets": [
+   "The 1950s fast-food franchise model laid the legal and operational groundwork for modern gig economy labor structures.",
+   "Franchise contracts pioneered intense worker surveillance and strict behavioral controls that modern platform companies now replicate.",
+   "Gig workers and independent operators face persistent structural pressure on wages and autonomy as these control models expand over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-franchise-restaurants-opened-the-door-to-the-gig-economy"
+ },
+ {
+  "date": "2026-07-24",
+  "source": "Planet Money",
+  "title": "Piles of cash and a town of solutions in Kenya, Nigeria",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "Nigeria's YouWiN! business-plan contest created 7,000 lasting jobs for $60M — ~$8,500/job, called 'the most effective development program in history.'",
+   "The 'missing middle': banks can't do cash-flow lending without electronic records — a fintech opening.",
+   "Money angle: cash-grant efficacy; the SME finance gap as fintech opportunity; African demographics (35% of the world's 18–25-year-olds by 2050)."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5894830"
+ },
+ {
+  "date": "2026-07-23",
+  "source": "Up First",
+  "title": "Saudi Uranium Enrichment Deal, Trump Defends Iran War, GOP Congress Out Of Sync",
+  "verdict": "RISK",
+  "bullets": [
+   "Escalating conflict in the Middle East and ongoing military expenditures are driving up domestic gas prices for consumers.",
+   "Geopolitical tensions and nuclear deals in the region introduce broader economic instability and energy market volatility.",
+   "Everyday drivers and energy consumers will bear higher fuel costs over the coming months due to continued war spending and supply concerns."
+  ],
+  "url": "https://www.npr.org/2026/07/23/nx-s1-5904311/saudi-uranium-enrichment-deal-trump-defends-iran-war-gop-congress-out-of-sync"
+ },
+ {
+  "date": "2026-07-23",
+  "source": "Odd Lots",
+  "title": "Why Apple Is Heading Into a Pivotal Moment",
+  "verdict": "THEME",
+  "bullets": [
+   "Apple faces a critical turning point under new CEO John Ternus, trying to catch up in the AI race while dealing with lagging hardware excitement.",
+   "Hardware supply chain pressures, including memory shortages, are forcing Apple to raise device prices for the first time in its history.",
+   "Long-term tech investors and consumers will see shifts in hardware pricing and ecosystem value as Apple rolls out foldable phones and camera-enabled AirPods over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-apple-is-heading-into-a-pivotal-moment"
+ },
+ {
+  "date": "2026-07-22",
+  "source": "Up First",
+  "title": "Trump Receives Fallen Troops, Hegseth Grilled On The Hill, Arizona Primary Results",
+  "verdict": "RISK",
+  "bullets": [
+   "Ongoing military conflict with Iran threatens broader economic stability and international energy supplies.",
+   "Congressional scrutiny over unauthorized war funding signals potential fiscal battles and rising defense spending risks.",
+   "Taxpayers and market investors face volatility risks as war casualties mount and geopolitical tensions escalate throughout late 2026."
+  ],
+  "url": "https://www.npr.org/2026/07/22/nx-s1-5902803/trump-receives-fallen-troops-hegseth-grilled-on-the-hill-arizona-primary-results"
+ },
+ {
+  "date": "2026-07-22",
+  "source": "Planet Money",
+  "title": "Big Lettuce meets Small Intestine",
+  "verdict": "THEME",
+  "bullets": [
+   "Bagged salad turned a commodity into a manufactured, high-margin product — but just 3 processors dominate fresh chopped veg, so one contamination (Taylor Farms cyclospora, 1,600+ infected) goes national.",
+   "Food-safety rules keep tightening (some farms not compliant until 2027); the FDA is underfunded and inspects far too little.",
+   "Money angle: value-added food-processing margins; compliance costs as a moat for big processors; supply-chain concentration risk."
+  ],
+  "url": "https://www.npr.org/transcripts/nx-s1-5903288"
+ },
+ {
+  "date": "2026-07-21",
+  "source": "Planet Money",
+  "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode is a true-crime and investigative journalism series about a tragic shooting during the 2020 protests in Seattle.",
+   "It focuses on the unsolved murder of Antonio Mays Jr. and community safety investigations.",
+   "There is no direct money angle, personal finance advice, or macroeconomic trend impacting wealth."
+  ],
+  "url": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab"
+ },
+ {
+  "date": "2026-07-21",
+  "source": "Up First",
+  "title": "Iran And Yemen's Houthis Blockade, Hegseth On Capitol Hill, Arizona Primary Day",
+  "verdict": "RISK",
+  "bullets": [
+   "Yemen's Houthi rebels announce a blockade of Saudi Arabia, threatening critical global oil shipping routes and supply chains.",
+   "The Pentagon seeks a nearly $90 billion funding boost for the widening war with Iran, indicating prolonged military spending.",
+   "Energy consumers and global markets risk higher fuel prices and inflation as Middle East conflict escalates over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/07/21/nx-s1-5901831/iran-and-yemens-houthis-blockade-hegseth-on-capitol-hill-arizona-primary-day"
+ },
+ {
+  "date": "2026-07-20",
+  "source": "Up First",
+  "title": "US-Iran War Escalates, Congress To-Do List, UK Has A New Prime Minister",
+  "verdict": "RISK",
+  "bullets": [
+   "US military escalation against Iran threatens global energy supplies as the Strait of Hormuz faces potential blockades.",
+   "High voter anxiety persists over inflation and cost of living amidst ongoing political battles in Congress.",
+   "Oil traders and consumers face higher energy prices and transport costs starting immediately as conflict escalates in the Middle East."
+  ],
+  "url": "https://www.npr.org/2026/07/20/nx-s1-5900599/us-iran-war-escalates-congress-to-do-list-uk-has-a-new-prime-minister"
+ },
+ {
+  "date": "2026-07-20",
+  "source": "Odd Lots",
+  "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
+  "verdict": "RISK",
+  "bullets": [
+   "Anthropic's Claude Code has accelerated the 'vibe coding' trend, fundamentally shifting software development for both pros and amateurs.",
+   "The rapid rise of agentic coding tools is displacing traditional software engineering skills and causing market volatility.",
+   "Software engineers risk wage stagnation and job displacement over the next 1 to 3 years as basic coding is commoditized by AI agents."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world"
+ }
 ]
