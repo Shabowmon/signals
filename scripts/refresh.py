@@ -34,6 +34,7 @@ FEEDS = [
 ]
 DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "episodes.json")
 WINDOW_DAYS = 92          # rolling ~3-month timeline, matches the v1 seed
+MAX_PER_RUN = 200         # hard cap on classifications per run (runaway guard)
 MAX_DESC_CHARS = 1500
 
 VERDICT_SYSTEM = """You classify podcast episodes for a personal money-insight timeline.
@@ -164,29 +165,50 @@ def main():
     existing = json.loads(body)
     seen = {e.get("url") or e.get("title") for e in existing}
 
-    new_eps = []
+    # Collect candidates first. Two guards against runaway runs:
+    #  - the date pre-filter drops the feeds' deep archives (some carry
+    #    1,000+ episodes) before anything is classified — the timeline
+    #    only keeps WINDOW_DAYS anyway;
+    #  - MAX_PER_RUN caps classifications no matter what the feeds do.
+    seen_titles = {e.get("title") for e in existing}
+    cutoff_date = date.today() - timedelta(days=WINDOW_DAYS)
+    candidates = []
     for source, url in FEEDS:
         print(f"Fetching {source} ...")
         for it in feed_items(source, url):
-            if (it["url"] or it["guid"]) in seen or it["title"] in {e.get("title") for e in existing}:
+            if it["date"] < cutoff_date:
                 continue
-            print(f"  new: {it['title']}")
-            try:
-                verdict, bullets = classify(it, api_key, model)
-            except Exception as e:
-                # One bad episode must never kill the run. Skipped episodes
-                # are not in episodes.json, so the next run retries them.
-                print(f"  SKIP (classify failed: {e})")
+            key = it["url"] or it["guid"]
+            if key in seen or it["title"] in seen_titles:
                 continue
-            new_eps.append({
-                "date": it["date"].isoformat(),
-                "source": it["source"],
-                "title": it["title"],
-                "verdict": verdict,
-                "bullets": bullets,
-                "url": it["url"],
-            })
-            seen.add(it["url"] or it["guid"])
+            seen.add(key)
+            seen_titles.add(it["title"])
+            candidates.append(it)
+    candidates.sort(key=lambda it: it["date"], reverse=True)
+    if len(candidates) > MAX_PER_RUN:
+        print(f"{len(candidates)} new in-window episodes — capping at the "
+              f"{MAX_PER_RUN} newest this run; the rest follow tomorrow.")
+        candidates = candidates[:MAX_PER_RUN]
+    print(f"{len(candidates)} episodes to classify.")
+
+    new_eps = []
+    for it in candidates:
+        print(f"  new: {it['title']}")
+        try:
+            verdict, bullets = classify(it, api_key, model)
+        except Exception as e:
+            # One bad episode must never kill the run. Skipped episodes
+            # are not in episodes.json, so the next run retries them.
+            print(f"  SKIP (classify failed: {e})")
+            continue
+        new_eps.append({
+            "date": it["date"].isoformat(),
+            "source": it["source"],
+            "title": it["title"],
+            "verdict": verdict,
+            "bullets": bullets,
+            "url": it["url"],
+        })
 
     if not new_eps:
         print("No new episodes.")
