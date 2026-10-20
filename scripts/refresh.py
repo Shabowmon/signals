@@ -8,9 +8,10 @@ window), and rewrites episodes.json. Called by .github/workflows/daily-refresh.y
 
 Only network calls: the three RSS feeds + generativelanguage.googleapis.com.
 Secrets: GEMINI_API_KEY env var (free key from Google AI Studio — no billing).
-Model: GEMINI_MODEL env var, defaults to gemini-3.8-flash (free tier,
-flagship Flash — follows the JSON format most reliably). Override in the
-repo variables (e.g. gemini-3.5-flash-lite) if it is ever unavailable.
+Model: GEMINI_MODEL env var, defaults to gemini-3.5-flash-lite (free tier,
+fast; the parser retries/tolerates its occasional malformed JSON). The
+flagship gemini-3.8-flash formats better but answers slowly on the free
+tier — a bad trade for a 150-episode backfill. Override via repo variable.
 Note: the 2.5-series models are restricted to pre-existing users — a new
 free key gets a 404 on them, so don't set GEMINI_MODEL to a 2.5 model.
 """
@@ -157,7 +158,7 @@ def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         sys.exit("GEMINI_API_KEY is not set")
-    model = os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash"
+    model = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite"
 
     with open(DATA_PATH) as f:
         raw_lines = f.readlines()
