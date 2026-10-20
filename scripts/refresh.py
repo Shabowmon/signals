@@ -130,7 +130,12 @@ def classify(item, api_key, model):
     text = text.strip()
     if text.startswith("```"):
         text = re.sub(r"^```[a-zA-Z]*\n?|\n?```$", "", text).strip()
-    out = json.loads(text)
+    try:
+        # The model sometimes appends prose after the JSON object; decode
+        # just the first complete object instead of demanding purity.
+        out, _ = json.JSONDecoder().raw_decode(text[text.index("{"):])
+    except ValueError as e:
+        raise ValueError(f"Unparseable model response: {text[:300]!r}") from e
     verdict = str(out.get("verdict", "NONE")).upper()
     if verdict not in ("OPPORTUNITY", "RISK", "THEME", "NONE"):
         verdict = "NONE"
