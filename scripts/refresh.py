@@ -8,9 +8,9 @@ window), and rewrites episodes.json. Called by .github/workflows/daily-refresh.y
 
 Only network calls: the three RSS feeds + generativelanguage.googleapis.com.
 Secrets: GEMINI_API_KEY env var (free key from Google AI Studio — no billing).
-Model: GEMINI_MODEL env var, defaults to gemini-3.5-flash-lite (free tier,
-stable, good enough for classifying from titles + show notes). Override with
-gemini-3.8-flash in the repo variables if you want the flagship Flash.
+Model: GEMINI_MODEL env var, defaults to gemini-3.8-flash (free tier,
+flagship Flash — follows the JSON format most reliably). Override in the
+repo variables (e.g. gemini-3.5-flash-lite) if it is ever unavailable.
 Note: the 2.5-series models are restricted to pre-existing users — a new
 free key gets a 404 on them, so don't set GEMINI_MODEL to a 2.5 model.
 """
@@ -102,7 +102,8 @@ def classify(item, api_key, model):
         },
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-    resp = None
+    out = None
+    last_text = ""
     for attempt in range(3):
         try:
             req = urllib.request.Request(
@@ -115,27 +116,33 @@ def classify(item, api_key, model):
             )
             with urllib.request.urlopen(req, timeout=60) as r:
                 resp = json.loads(r.read())
-            break
         except urllib.error.HTTPError as e:
             # Free tier can throw transient 429/503s; back off and retry.
             if e.code in (429, 500, 503) and attempt < 2:
                 time.sleep(20 * (attempt + 1))
                 continue
             raise
-    text = "".join(
-        p.get("text", "")
-        for c in resp.get("candidates", [])
-        for p in c.get("content", {}).get("parts", [])
-    )
-    text = text.strip()
-    if text.startswith("```"):
-        text = re.sub(r"^```[a-zA-Z]*\n?|\n?```$", "", text).strip()
-    try:
-        # The model sometimes appends prose after the JSON object; decode
-        # just the first complete object instead of demanding purity.
-        out, _ = json.JSONDecoder().raw_decode(text[text.index("{"):])
-    except ValueError as e:
-        raise ValueError(f"Unparseable model response: {text[:300]!r}") from e
+        text = "".join(
+            p.get("text", "")
+            for c in resp.get("candidates", [])
+            for p in c.get("content", {}).get("parts", [])
+        )
+        text = text.strip()
+        if text.startswith("```"):
+            text = re.sub(r"^```[a-zA-Z]*\n?|\n?```$", "", text).strip()
+        last_text = text
+        try:
+            # The model sometimes appends prose after the JSON object; decode
+            # just the first complete object instead of demanding purity.
+            out, _ = json.JSONDecoder().raw_decode(text[text.index("{"):])
+            break
+        except ValueError:
+            # Occasionally the model emits malformed JSON (unescaped quote or
+            # control char). A fresh generation usually comes back clean.
+            if attempt < 2:
+                time.sleep(5)
+                continue
+            raise ValueError(f"Unparseable model response: {last_text[:300]!r}")
     verdict = str(out.get("verdict", "NONE")).upper()
     if verdict not in ("OPPORTUNITY", "RISK", "THEME", "NONE"):
         verdict = "NONE"
@@ -149,7 +156,7 @@ def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         sys.exit("GEMINI_API_KEY is not set")
-    model = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite"
+    model = os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash"
 
     with open(DATA_PATH) as f:
         raw_lines = f.readlines()
@@ -164,7 +171,13 @@ def main():
             if (it["url"] or it["guid"]) in seen or it["title"] in {e.get("title") for e in existing}:
                 continue
             print(f"  new: {it['title']}")
-            verdict, bullets = classify(it, api_key, model)
+            try:
+                verdict, bullets = classify(it, api_key, model)
+            except Exception as e:
+                # One bad episode must never kill the run. Skipped episodes
+                # are not in episodes.json, so the next run retries them.
+                print(f"  SKIP (classify failed: {e})")
+                continue
             new_eps.append({
                 "date": it["date"].isoformat(),
                 "source": it["source"],
