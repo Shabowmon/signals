@@ -1,0 +1,50 @@
+# Drop this file at: <repo-root>/.github/workflows/daily-refresh.yml
+#
+# Setup (one time, ~10 min, on your own machine):
+#   1. Create a FREE Gemini API key at aistudio.google.com/apikey
+#      (sign in with Google, "Create API key" — no credit card, no billing).
+#   2. GitHub repo → Settings → Secrets and variables → Actions →
+#      New repository secret: name GEMINI_API_KEY, value = the key.
+#      (Paste it in GitHub's UI — Scout never sees it.)
+#   3. Copy this file and scripts/refresh.py into the signals repo, push.
+#   4. Actions tab → "Daily Signals refresh" → Run workflow → watch it go.
+#
+# After that it runs itself every morning (~7am PT) and pushes new verdicts.
+# Cost: $0 — the free tier allows ~1,500 requests/day; this uses a handful.
+name: Daily Signals refresh
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 14:00 UTC ≈ 7:00am PDT
+  workflow_dispatch:        # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh episodes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}   # optional override (e.g. gemini-3.8-flash)
+        run: python3 scripts/refresh.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "signals-bot"
+          git config user.email "signals-bot@robertnaanos.com"
+          if [ -n "$(git status --porcelain episodes.json)" ]; then
+            git add episodes.json
+            git commit -m "Daily refresh: $(date -u +%F)"
+            git push
+          else
+            echo "No new episodes."
+          fi
