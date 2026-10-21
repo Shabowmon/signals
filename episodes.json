@@ -1,5 +1,41 @@
-// Signals data — generated 2026-10-20 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-10-21 — 186 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-21",
+  "source": "Planet Money",
+  "title": "We try to fix election polling (update)",
+  "verdict": "NONE",
+  "bullets": [
+   "Election polling faces a crisis as response rates plummet and public trust declines.",
+   "Researchers test economic methods and incentives to improve survey accuracy.",
+   "There is no direct personal finance angle or actionable money insight for listeners."
+  ],
+  "url": "https://www.npr.org/2026/10/21/nx-s1-6009849/midterms-polling-election-marist"
+ },
+ {
+  "date": "2026-10-21",
+  "source": "Up First",
+  "title": "Zelenskyy Mending Ties, Trump In North Carolina, Saudi Arabia Gets British Support",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode discusses international diplomacy regarding Ukraine, domestic U.S. midterm campaign stops, and British military support for Saudi Arabia.",
+   "These geopolitical and political developments lack specific, actionable financial guidance for ordinary individuals.",
+   "No concrete money angle is present since the updates affect macro policy without immediate personal wealth impacts."
+  ],
+  "url": "https://www.npr.org/2026/10/21/nx-s1-6010363/zelenskyy-mending-ties-trump-in-north-carolina-saudi-arabia-gets-british-support"
+ },
+ {
+  "date": "2026-10-21",
+  "source": "Odd Lots",
+  "title": "James Robinson on What It Looks Like When a State is Failing",
+  "verdict": "THEME",
+  "bullets": [
+   "Nobel laureate James Robinson discusses the institutional factors that cause states to fail or thrive.",
+   "The conversation explores systemic indicators of decline and the resilience of U.S. democratic and economic systems.",
+   "Long-term structural decay poses indirect macro risks to domestic asset stability and national creditworthiness over decades."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/james-robinson-on-what-it-looks-like-when-a-state-is-failing"
+ },
  {
   "date": "2026-10-20",
   "source": "Up First",
@@ -2193,29 +2229,5 @@
    "Energy consumers and global markets risk higher fuel prices and inflation as Middle East conflict escalates over the coming months."
   ],
   "url": "https://www.npr.org/2026/07/21/nx-s1-5901831/iran-and-yemens-houthis-blockade-hegseth-on-capitol-hill-arizona-primary-day"
- },
- {
-  "date": "2026-07-20",
-  "source": "Up First",
-  "title": "US-Iran War Escalates, Congress To-Do List, UK Has A New Prime Minister",
-  "verdict": "RISK",
-  "bullets": [
-   "US military escalation against Iran threatens global energy supplies as the Strait of Hormuz faces potential blockades.",
-   "High voter anxiety persists over inflation and cost of living amidst ongoing political battles in Congress.",
-   "Oil traders and consumers face higher energy prices and transport costs starting immediately as conflict escalates in the Middle East."
-  ],
-  "url": "https://www.npr.org/2026/07/20/nx-s1-5900599/us-iran-war-escalates-congress-to-do-list-uk-has-a-new-prime-minister"
- },
- {
-  "date": "2026-07-20",
-  "source": "Odd Lots",
-  "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
-  "verdict": "RISK",
-  "bullets": [
-   "Anthropic's Claude Code has accelerated the 'vibe coding' trend, fundamentally shifting software development for both pros and amateurs.",
-   "The rapid rise of agentic coding tools is displacing traditional software engineering skills and causing market volatility.",
-   "Software engineers risk wage stagnation and job displacement over the next 1 to 3 years as basic coding is commoditized by AI agents."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world"
  }
 ]
