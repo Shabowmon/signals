@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-21 — 186 episodes (rolling 3 months)
+// Signals data — generated 2026-10-22 — 186 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-22",
+  "source": "Up First",
+  "title": "Democratic Surrogates Campaign, US & Israel Plan Iran Strikes, Tesla SpaceX Merger",
+  "verdict": "RISK",
+  "bullets": [
+   "Tesla and SpaceX are reportedly exploring a massive corporate merger to consolidate Elon Musk's business empire.",
+   "Geopolitical tensions rise as the U.S. and Israel prepare for potential military strikes on Iran.",
+   "Investors in Tesla or SpaceX face heightened volatility and complex governance risks if the mega-merger proceeds in the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/22/nx-s1-6012014/democratic-surrogates-campaign-us-israel-plan-iran-strikes-tesla-spacex-merger"
+ },
+ {
+  "date": "2026-10-22",
+  "source": "Odd Lots",
+  "title": "Bhaskar Sunkara Thinks the Market Has a Place Under Socialism",
+  "verdict": "THEME",
+  "bullets": [
+   "Growing political support for leftist policies and market socialism influences modern economic discourse.",
+   "Proposals include redefining small businesses, entrepreneurship, and monetary policy under socialist frameworks.",
+   "Investors face long-term structural uncertainty as political shifts threaten to alter market rules and corporate governance over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/bhaskar-sunkara-thinks-the-market-has-a-place-under-socialism"
+ },
  {
   "date": "2026-10-21",
   "source": "Planet Money",
@@ -2205,29 +2229,5 @@
    "Money angle: value-added food-processing margins; compliance costs as a moat for big processors; supply-chain concentration risk."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5903288"
- },
- {
-  "date": "2026-07-21",
-  "source": "Planet Money",
-  "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
-  "verdict": "NONE",
-  "bullets": [
-   "This episode is a true-crime and investigative journalism series about a tragic shooting during the 2020 protests in Seattle.",
-   "It focuses on the unsolved murder of Antonio Mays Jr. and community safety investigations.",
-   "There is no direct money angle, personal finance advice, or macroeconomic trend impacting wealth."
-  ],
-  "url": "5c9cd9bd-343a-4b84-a924-4ef562a0bcab"
- },
- {
-  "date": "2026-07-21",
-  "source": "Up First",
-  "title": "Iran And Yemen's Houthis Blockade, Hegseth On Capitol Hill, Arizona Primary Day",
-  "verdict": "RISK",
-  "bullets": [
-   "Yemen's Houthi rebels announce a blockade of Saudi Arabia, threatening critical global oil shipping routes and supply chains.",
-   "The Pentagon seeks a nearly $90 billion funding boost for the widening war with Iran, indicating prolonged military spending.",
-   "Energy consumers and global markets risk higher fuel prices and inflation as Middle East conflict escalates over the coming months."
-  ],
-  "url": "https://www.npr.org/2026/07/21/nx-s1-5901831/iran-and-yemens-houthis-blockade-hegseth-on-capitol-hill-arizona-primary-day"
  }
 ]
