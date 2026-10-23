@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-22 — 186 episodes (rolling 3 months)
+// Signals data — generated 2026-10-23 — 186 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-23",
+  "source": "Up First",
+  "title": "US Prepares For Possible Strikes, Midterm Early Voting, Trump BBC Deposition",
+  "verdict": "RISK",
+  "bullets": [
+   "Escalating military presence in the Middle East is driving up global oil prices amid fears of a broader conflict.",
+   "Rising crude prices threaten to reignite inflation, increasing costs for everyday energy and transport consumers over the coming months.",
+   "Drivers, travelers, and energy-dependent households face higher expenses as fuel prices surge due to geopolitical tensions."
+  ],
+  "url": "https://www.npr.org/2026/10/23/nx-s1-6013298/us-prepares-for-possible-strikes-midterm-early-voting-trump-bbc-deposition"
+ },
+ {
+  "date": "2026-10-23",
+  "source": "Odd Lots",
+  "title": "The Forgotten Godmother of Economic Literature",
+  "verdict": "NONE",
+  "bullets": [
+   "This episode explores the literary history of 18th-century economic concepts through novelist Maria Edgeworth.",
+   "It discusses historical debates involving Adam Smith, Thomas Malthus, and David Ricardo without current financial application.",
+   "There is no direct money angle, as the discussion focuses entirely on historical biography and literary analysis."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/odd-lots-the-forgotten-godmother-of-economic-literature-podcast"
+ },
  {
   "date": "2026-10-22",
   "source": "Up First",
@@ -2205,29 +2229,5 @@
    "Long-term tech investors and consumers will see shifts in hardware pricing and ecosystem value as Apple rolls out foldable phones and camera-enabled AirPods over the next few years."
   ],
   "url": "https://omny.fm/shows/odd-lots/why-apple-is-heading-into-a-pivotal-moment"
- },
- {
-  "date": "2026-07-22",
-  "source": "Up First",
-  "title": "Trump Receives Fallen Troops, Hegseth Grilled On The Hill, Arizona Primary Results",
-  "verdict": "RISK",
-  "bullets": [
-   "Ongoing military conflict with Iran threatens broader economic stability and international energy supplies.",
-   "Congressional scrutiny over unauthorized war funding signals potential fiscal battles and rising defense spending risks.",
-   "Taxpayers and market investors face volatility risks as war casualties mount and geopolitical tensions escalate throughout late 2026."
-  ],
-  "url": "https://www.npr.org/2026/07/22/nx-s1-5902803/trump-receives-fallen-troops-hegseth-grilled-on-the-hill-arizona-primary-results"
- },
- {
-  "date": "2026-07-22",
-  "source": "Planet Money",
-  "title": "Big Lettuce meets Small Intestine",
-  "verdict": "THEME",
-  "bullets": [
-   "Bagged salad turned a commodity into a manufactured, high-margin product — but just 3 processors dominate fresh chopped veg, so one contamination (Taylor Farms cyclospora, 1,600+ infected) goes national.",
-   "Food-safety rules keep tightening (some farms not compliant until 2027); the FDA is underfunded and inspects far too little.",
-   "Money angle: value-added food-processing margins; compliance costs as a moat for big processors; supply-chain concentration risk."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5903288"
  }
 ]
