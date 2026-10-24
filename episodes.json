@@ -1,5 +1,41 @@
-// Signals data — generated 2026-10-23 — 186 episodes (rolling 3 months)
+// Signals data — generated 2026-10-24 — 187 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-24",
+  "source": "Up First",
+  "title": "Websites Go Offline, Protests in France, Netflix Downsizes",
+  "verdict": "RISK",
+  "bullets": [
+   "A newly discovered internet vulnerability named PHP2SHELL has been exploited by hackers following a public leak.",
+   "Websites have gone offline, raising urgent concerns about cybersecurity vulnerabilities and potential data breaches.",
+   "Website owners and digital infrastructure investors face potential downtime costs and increased security spending over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/24/nx-s1-6014537/websites-go-offline-protests-in-france-netflix-downsizes"
+ },
+ {
+  "date": "2026-10-24",
+  "source": "Odd Lots",
+  "title": "How a Chicago Restaurant Has Stayed Open For Nearly Three Decades",
+  "verdict": "NONE",
+  "bullets": [
+   "A veteran Chicago restaurateur discusses the practical economics, rising costs, and high failure rates of the hospitality industry.",
+   "The episode offers qualitative industry insights rather than actionable financial opportunities, specific risk hedges, or macroeconomic trends.",
+   "Investors and ordinary individuals gain no direct monetary edge from these historical restaurant management anecdotes over any timeline."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-a-chicago-restaurant-has-stayed-open-for-nearly-three-decades"
+ },
+ {
+  "date": "2026-10-23",
+  "source": "Planet Money",
+  "title": "How surveillance crept up on us",
+  "verdict": "NONE",
+  "bullets": [
+   "The NYPD spent billions of tax dollars on sophisticated surveillance systems without public oversight.",
+   "Decisions about purchasing and adopting these technologies were hidden in offline filing cabinets for over a decade.",
+   "This episode focuses on the history of police surveillance rather than personal finance or investment impacts."
+  ],
+  "url": "https://www.npr.org/2026/10/23/nx-s1-5991699/surveillance-new-york-city-nypd-police-security"
+ },
  {
   "date": "2026-10-23",
   "source": "Up First",
@@ -2205,29 +2241,5 @@
    "Money angle: cash-grant efficacy; the SME finance gap as fintech opportunity; African demographics (35% of the world's 18–25-year-olds by 2050)."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5894830"
- },
- {
-  "date": "2026-07-23",
-  "source": "Up First",
-  "title": "Saudi Uranium Enrichment Deal, Trump Defends Iran War, GOP Congress Out Of Sync",
-  "verdict": "RISK",
-  "bullets": [
-   "Escalating conflict in the Middle East and ongoing military expenditures are driving up domestic gas prices for consumers.",
-   "Geopolitical tensions and nuclear deals in the region introduce broader economic instability and energy market volatility.",
-   "Everyday drivers and energy consumers will bear higher fuel costs over the coming months due to continued war spending and supply concerns."
-  ],
-  "url": "https://www.npr.org/2026/07/23/nx-s1-5904311/saudi-uranium-enrichment-deal-trump-defends-iran-war-gop-congress-out-of-sync"
- },
- {
-  "date": "2026-07-23",
-  "source": "Odd Lots",
-  "title": "Why Apple Is Heading Into a Pivotal Moment",
-  "verdict": "THEME",
-  "bullets": [
-   "Apple faces a critical turning point under new CEO John Ternus, trying to catch up in the AI race while dealing with lagging hardware excitement.",
-   "Hardware supply chain pressures, including memory shortages, are forcing Apple to raise device prices for the first time in its history.",
-   "Long-term tech investors and consumers will see shifts in hardware pricing and ecosystem value as Apple rolls out foldable phones and camera-enabled AirPods over the next few years."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/why-apple-is-heading-into-a-pivotal-moment"
  }
 ]
