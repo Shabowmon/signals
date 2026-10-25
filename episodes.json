@@ -1,5 +1,17 @@
-// Signals data — generated 2026-10-24 — 187 episodes (rolling 3 months)
+// Signals data — generated 2026-10-25 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-25",
+  "source": "Up First",
+  "title": "Pinching pennies, casting ballots: a midterms dispatch from the Midwest",
+  "verdict": "RISK",
+  "bullets": [
+   "Midwestern residents face a mounting affordability crisis that makes everyday living significantly harder.",
+   "Economic struggles in a key electoral region are directly influencing voter behavior in the midterm elections.",
+   "Everyday consumers and local taxpayers lose purchasing power as household budgets tighten over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/25/nx-s1-6014758/pinching-pennies-casting-ballots-a-midterms-dispatch-from-the-midwest"
+ },
  {
   "date": "2026-10-24",
   "source": "Up First",
@@ -2193,53 +2205,5 @@
    "Protests by young people in India over entrance exams led to the education minister's resignation."
   ],
   "url": "https://www.npr.org/2026/07/25/nx-s1-5906488/white-house-correspondents-dinner-ukraine-hits-russian-retailer-india-protests"
- },
- {
-  "date": "2026-07-24",
-  "source": "Planet Money",
-  "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
-  "verdict": "THEME",
-  "bullets": [
-   "Economic researchers use randomized controlled trials in African towns to test poverty interventions.",
-   "Experiments in Kenya and Nigeria reveal which spending models actually build human capital and health.",
-   "Governments and NGOs gain optimized policy playbooks, altering how billions in aid are allocated over the next decade."
-  ],
-  "url": "https://www.npr.org/2026/07/24/nx-s1-5894830/summer-school-kenya-nigeria-cash-development-experiment"
- },
- {
-  "date": "2026-07-24",
-  "source": "Up First",
-  "title": "Saudi Oil Tankers Attacked, Trump's New Tariffs, Wisconsin Police Shooting",
-  "verdict": "RISK",
-  "bullets": [
-   "Oil prices spiked above $100 per barrel following Houthi attacks on Saudi oil tankers in the Red Sea.",
-   "President Trump replaced an expired global tariff with a new one impacting 59 countries and the EU.",
-   "Consumers and importers will bear higher costs from surging energy prices and expanded tariffs, threatening household budgets immediately."
-  ],
-  "url": "https://www.npr.org/2026/07/24/nx-s1-5906241/saudi-oil-tankers-attacked-trumps-new-tariffs-wisconsin-police-shooting"
- },
- {
-  "date": "2026-07-24",
-  "source": "Odd Lots",
-  "title": "How Franchise Restaurants Opened the Door to the Gig Economy",
-  "verdict": "THEME",
-  "bullets": [
-   "The 1950s fast-food franchise model laid the legal and operational groundwork for modern gig economy labor structures.",
-   "Franchise contracts pioneered intense worker surveillance and strict behavioral controls that modern platform companies now replicate.",
-   "Gig workers and independent operators face persistent structural pressure on wages and autonomy as these control models expand over the next decade."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/how-franchise-restaurants-opened-the-door-to-the-gig-economy"
- },
- {
-  "date": "2026-07-24",
-  "source": "Planet Money",
-  "title": "Piles of cash and a town of solutions in Kenya, Nigeria",
-  "verdict": "OPPORTUNITY",
-  "bullets": [
-   "Nigeria's YouWiN! business-plan contest created 7,000 lasting jobs for $60M — ~$8,500/job, called 'the most effective development program in history.'",
-   "The 'missing middle': banks can't do cash-flow lending without electronic records — a fintech opening.",
-   "Money angle: cash-grant efficacy; the SME finance gap as fintech opportunity; African demographics (35% of the world's 18–25-year-olds by 2050)."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5894830"
  }
 ]
