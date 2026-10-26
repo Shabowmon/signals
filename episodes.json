@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-25 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-10-26 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-26",
+  "source": "Up First",
+  "title": "GOP Redistricting Bust, Lula Wins Brazil Election, Protest Spread In Europe",
+  "verdict": "THEME",
+  "bullets": [
+   "GOP mid-decade redistricting strategies face unexpected setbacks, making previously safe House seats highly competitive.",
+   "Leftist incumbent Lula da Silva secures reelection in Brazil amid disputed results from the far-right opposition.",
+   "Political stability and local business climates in Europe face heightened uncertainty as youth-led protest movements reshape regional governance."
+  ],
+  "url": "https://www.npr.org/2026/10/26/nx-s1-6016798/gop-redistricting-bust-lula-wins-brazil-election-protest-spread-in-europe"
+ },
+ {
+  "date": "2026-10-26",
+  "source": "Odd Lots",
+  "title": "AI Agents Are Already Changing the Price of Goods",
+  "verdict": "RISK",
+  "bullets": [
+   "AI shopping agents may exploit consumer financial data to surface higher prices rather than genuine deals.",
+   "Companies use advanced surveillance and algorithmic pricing to erode fair pricing norms and pad profit margins.",
+   "Consumers risk paying higher prices for goods as corporate AI agents outsmart personal saving tools, directly eroding household purchasing power over the next year."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/ai-agents-are-already-changing-the-price-of-goods"
+ },
  {
   "date": "2026-10-25",
   "source": "Up First",
@@ -2193,17 +2217,5 @@
    "Younger heirs and beneficiaries will gain control of massive inheritances over the next 10 to 20 years, reshaping retail wealth management."
   ],
   "url": "https://omny.fm/shows/odd-lots/how-financial-advisors-can-grow-during-the-great-wealth-transfer-sponsored-content"
- },
- {
-  "date": "2026-07-25",
-  "source": "Up First",
-  "title": "White House Correspondents’ Dinner, Ukraine hits Russian Retailer, India Protests",
-  "verdict": "NONE",
-  "bullets": [
-   "President Trump delivered an hour-long speech at the rescheduled White House Correspondents' Dinner.",
-   "Ukrainian drones expanded their targets to include Wildberries, Russia's largest e-commerce retailer.",
-   "Protests by young people in India over entrance exams led to the education minister's resignation."
-  ],
-  "url": "https://www.npr.org/2026/07/25/nx-s1-5906488/white-house-correspondents-dinner-ukraine-hits-russian-retailer-india-protests"
  }
 ]
