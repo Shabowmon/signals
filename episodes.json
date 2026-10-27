@@ -1,5 +1,17 @@
-// Signals data — generated 2026-10-26 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-10-27 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-27",
+  "source": "Up First",
+  "title": "Democrats Lead In NPR Poll, Preparations For Election Challenge, Israel Voting Begins",
+  "verdict": "NONE",
+  "bullets": [
+   "A new NPR poll shows Democrats leading on the congressional ballot, though lagging enthusiasm among young voters and independents creates uncertainty.",
+   "Political parties are mobilizing legal and logistical preparations ahead of potential election challenges and disputes over voting results.",
+   "This episode covers general political news and elections with no direct personal finance angle or actionable money insight."
+  ],
+  "url": "https://www.npr.org/2026/10/27/nx-s1-6019096/democrats-lead-in-npr-poll-preparations-for-election-challenge-israel-voting-begins"
+ },
  {
   "date": "2026-10-26",
   "source": "Up First",
@@ -2193,29 +2205,5 @@
    "Multinational corporations and investors face rising compliance costs and shifting supply chain risks over the coming decade."
   ],
   "url": "https://omny.fm/shows/odd-lots/branko-milanovic-on-what-comes-after-globalization"
- },
- {
-  "date": "2026-07-26",
-  "source": "Up First",
-  "title": "‘We want to ride’: the 1978 protest that sparked the disability rights movement",
-  "verdict": "NONE",
-  "bullets": [
-   "This episode explores the historical origins of the disability rights movement and the passage of the Americans with Disabilities Act.",
-   "The narrative focuses on the activism of the 'Gang of 19' in Denver and the ongoing fight for independent living.",
-   "There is no direct personal finance action, immediate market risk, or structural economic trend relevant to timeline tracking."
-  ],
-  "url": "https://www.npr.org/2026/07/26/nx-s1-5906442/the-1978-protest-that-sparked-the-disability-rights-movement"
- },
- {
-  "date": "2026-07-26",
-  "source": "Odd Lots",
-  "title": "How Financial Advisors Can Grow During the Great Wealth Transfer (Sponsored Content)",
-  "verdict": "THEME",
-  "bullets": [
-   "Over $100 trillion will change hands globally over the next two decades in the Great Wealth Transfer.",
-   "Financial advisors are scaling services and marketing strategies to capture migrating client assets from aging generations.",
-   "Younger heirs and beneficiaries will gain control of massive inheritances over the next 10 to 20 years, reshaping retail wealth management."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/how-financial-advisors-can-grow-during-the-great-wealth-transfer-sponsored-content"
  }
 ]
