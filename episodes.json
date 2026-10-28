@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-27 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-10-28 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-28",
+  "source": "Planet Money",
+  "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+  "verdict": "THEME",
+  "bullets": [
+   "Connecticut uses a random citizens' assembly to tackle decades of broken property tax policy.",
+   "This experiment explores whether ordinary residents can bypass political gridlock to reform local taxation.",
+   "Connecticut property owners and local taxpayers may see policy reforms if the legislature adopts assembly proposals over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/10/28/nx-s1-6019535/connecticut-citizen-assembly-property-tax-lottery"
+ },
+ {
+  "date": "2026-10-28",
+  "source": "Up First",
+  "title": "Trump Rallies For Republicans, Israel Election Results, Fed Interest Rates Meeting",
+  "verdict": "RISK",
+  "bullets": [
+   "Investors widely expect the Federal Reserve to hold interest rates steady despite ongoing inflation.",
+   "Prices continuing to rise faster than wages squeeze everyday household budgets.",
+   "Ordinary consumers lose purchasing power immediately as high borrowing costs and sticky inflation persist through the current quarter."
+  ],
+  "url": "https://www.npr.org/2026/10/28/nx-s1-6020166/trump-rallies-for-republicans-israel-election-results-fed-interest-rates-meeting"
+ },
  {
   "date": "2026-10-27",
   "source": "Up First",
@@ -2181,29 +2205,5 @@
    "Immigrants and dependent businesses lose legal work authorization and stability over the coming months."
   ],
   "url": "https://www.npr.org/2026/07/28/nx-s1-5910370/trump-meets-zelenskyy-and-netanyahu-tps-update-political-corruption"
- },
- {
-  "date": "2026-07-27",
-  "source": "Up First",
-  "title": "Seattle Shooting, Iran War Pause, Midterm Elections",
-  "verdict": "NONE",
-  "bullets": [
-   "Covers general news stories including a shooting in Seattle and an election countdown.",
-   "Discusses geopolitical developments regarding a pause in U.S.-Iran military engagements.",
-   "The episode contains no direct financial takeaways, investment strategies, or concrete money risks for listeners."
-  ],
-  "url": "https://www.npr.org/2026/07/27/nx-s1-5909058/seattle-shooting-iran-war-pause-midterm-elections"
- },
- {
-  "date": "2026-07-27",
-  "source": "Odd Lots",
-  "title": "Branko Milanovic on What Comes After Globalization",
-  "verdict": "THEME",
-  "bullets": [
-   "Global economic integration is giving way to national market liberalism and renewed mercantilism.",
-   "Powerful governments are prioritizing domestic industrial policy and national security over the free movement of capital.",
-   "Multinational corporations and investors face rising compliance costs and shifting supply chain risks over the coming decade."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/branko-milanovic-on-what-comes-after-globalization"
  }
 ]
