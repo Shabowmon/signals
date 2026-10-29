@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-28 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-10-29 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-29",
+  "source": "Up First",
+  "title": "Midterm Spending Blitz, GDP & Inflations Reports, Israel Election Deadlock & Iran War",
+  "verdict": "RISK",
+  "bullets": [
+   "Persistent inflation continues to outpace wage growth, eroding household purchasing power and consumer financial stability.",
+   "Heightened geopolitical tensions surrounding Israel and Iran threaten global energy supply stability and market volatility.",
+   "Ordinary workers and savers lose purchasing power as inflation outpaces wage gains, impacting household budgets throughout 2026."
+  ],
+  "url": "https://www.npr.org/2026/10/29/nx-s1-6021969/midterm-spending-blitz-gdp-inflations-reports-israel-election-deadlock-iran-war"
+ },
+ {
+  "date": "2026-10-29",
+  "source": "Odd Lots",
+  "title": "What Wall Street Really Thinks About the AI Trade Now",
+  "verdict": "RISK",
+  "bullets": [
+   "Wall Street is grappling with massive AI infrastructure capex, market wobbles, and whether traditional economic laws still apply to the tech sector.",
+   "The S&P 500 is facing 'KOSPI-fication,' increasing concentration risks and vulnerability if AI growth or hyperscaler earnings falter.",
+   "Long-term investors risk severe portfolio drawdown over the next 1-3 years if AI earnings fail to justify unprecedented capital expenditures."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/102926-odd-lots-alex-altmann-mixdown"
+ },
  {
   "date": "2026-10-28",
   "source": "Planet Money",
@@ -2193,17 +2217,5 @@
    "Money angle: sovereign-fund design; EV adoption via tax incentives (96% of new cars electric); governments solving export coordination problems."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5909323"
- },
- {
-  "date": "2026-07-28",
-  "source": "Up First",
-  "title": "Trump Meets Zelenskyy And Netanyahu, TPS Update, Political Corruption",
-  "verdict": "RISK",
-  "bullets": [
-   "Hundreds of thousands of Haitians and thousands of Syrians living legally in the U.S. face potential deportation.",
-   "Immigration status changes could disrupt local labor markets and housing demand where these populations are concentrated.",
-   "Immigrants and dependent businesses lose legal work authorization and stability over the coming months."
-  ],
-  "url": "https://www.npr.org/2026/07/28/nx-s1-5910370/trump-meets-zelenskyy-and-netanyahu-tps-update-political-corruption"
  }
 ]
