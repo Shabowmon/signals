@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-29 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-10-30 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-30",
+  "source": "Up First",
+  "title": "Final Days Of Midterm Campaigning, Alaska Senate Race Controversy, Iran War Plans",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump and Republicans are adjusting their final campaign strategies to close an early-voting gap in competitive races.",
+   "Potential U.S. military strikes on Iran threaten a major regional escalation amid ongoing American force buildups.",
+   "Middle East conflict escalation risks driving up global oil prices and increasing market volatility, negatively impacting consumer budgets within months."
+  ],
+  "url": "https://www.npr.org/2026/10/30/nx-s1-6023035/final-days-of-midterm-campaigning-alaska-senate-race-controversy-iran-war-plans"
+ },
+ {
+  "date": "2026-10-30",
+  "source": "Odd Lots",
+  "title": "PHP2Shell Won't Be the Last Big AI Cybersecurity Risk",
+  "verdict": "RISK",
+  "bullets": [
+   "Frontier AI models are now powerful enough to uncover massive, long-dormant software vulnerabilities like the PHP2Shell bug.",
+   "As AI accelerates both attack and defense capabilities, organizations face escalating cyber threats requiring specialized security infrastructure.",
+   "Businesses and website operators will lose money to increased downtime, ransomware, or patching costs over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/php2shell-wont-be-the-last-big-ai-cybersecurity-risk"
+ },
  {
   "date": "2026-10-29",
   "source": "Up First",
@@ -2181,41 +2205,5 @@
    "International investors and ordinary citizens face persistent economic volatility and political risk when operating within sanctioned, closed-market systems."
   ],
   "url": "https://omny.fm/shows/odd-lots/how-the-iranian-economy-actually-works"
- },
- {
-  "date": "2026-07-29",
-  "source": "Planet Money",
-  "title": "How to beat the resource curse in Norway (Summer School)",
-  "verdict": "THEME",
-  "bullets": [
-   "Norway successfully avoided the resource curse and Dutch disease by practicing economic restraint with its massive oil windfalls.",
-   "The country creatively engineered new foreign demand for its massive salmon oversupply, proving diversification works.",
-   "Sovereign wealth funds and strategic export diversification protect national economies against commodity price shocks over the long term."
-  ],
-  "url": "https://www.npr.org/2026/07/29/nx-s1-5909323/summer-school-norway-glut-resource-curse-oil"
- },
- {
-  "date": "2026-07-29",
-  "source": "Up First",
-  "title": "Trump Has 'Productive' Talks With Zelenskyy And Netanyahu, France Wildfires",
-  "verdict": "NONE",
-  "bullets": [
-   "President Trump hosted leaders Volodymyr Zelenskyy and Benjamin Netanyahu at the White House to discuss ongoing conflicts.",
-   "France experienced severe wildfires that forced hundreds of thousands of residents to evacuate their homes.",
-   "General geopolitical news and foreign affairs updates do not provide a direct, actionable personal finance angle."
-  ],
-  "url": "https://www.npr.org/2026/07/29/nx-s1-5911646/trump-has-productive-talks-with-zelenskyy-and-netanyahu-france-wildfires"
- },
- {
-  "date": "2026-07-29",
-  "source": "Planet Money",
-  "title": "How to beat the resource curse in Norway",
-  "verdict": "THEME",
-  "bullets": [
-   "Beat the resource curse with an independent regulator, 78% oil-company taxation, and few license blocks per year — then a $2.3T sovereign wealth fund (~$400k per citizen), spending only the returns.",
-   "Preconditions were democracy, good tax systems, and high social trust; weak spots now are entrepreneurship and AI.",
-   "Money angle: sovereign-fund design; EV adoption via tax incentives (96% of new cars electric); governments solving export coordination problems."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5909323"
  }
 ]
