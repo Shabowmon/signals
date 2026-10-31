@@ -1,5 +1,29 @@
-// Signals data — generated 2026-10-30 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-10-31 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-10-31",
+  "source": "Planet Money",
+  "title": "Is this how the great international borrowing spree ends?",
+  "verdict": "RISK",
+  "bullets": [
+   "Governments worldwide, including France and the US, face mounting pressure as high interest rates strain record national debt levels.",
+   "Escalating sovereign debt crises threaten to trigger broader financial market instability and forced government spending cuts.",
+   "Bondholders and taxpayers risk higher borrowing costs and potential fiscal instability as the global borrowing spree potentially unravels over the coming years."
+  ],
+  "url": "https://www.npr.org/2026/10/30/nx-s1-6023794/france-protests-students-bonds-debt"
+ },
+ {
+  "date": "2026-10-31",
+  "source": "Up First",
+  "title": "Oil Earnings, Binance Heist, A MAHA Update",
+  "verdict": "RISK",
+  "bullets": [
+   "Major oil companies report record-high quarterly profits, indicating strong sector earnings.",
+   "A massive $6.3 billion cryptocurrency heist highlights severe ongoing security vulnerabilities in digital assets.",
+   "Crypto investors and exchanges face heightened security risks and potential regulatory crackdowns on digital wallets over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/10/31/nx-s1-6022401/oil-earnings-binance-heist-a-maha-update"
+ },
  {
   "date": "2026-10-30",
   "source": "Up First",
@@ -2181,29 +2205,5 @@
    "Money angle: the viral-consumer-product pattern (blind-box mechanics + TikTok distribution) is repeatable — Mattel and Hasbro now hire staff just to monitor TikTok."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5913719"
- },
- {
-  "date": "2026-07-30",
-  "source": "Up First",
-  "title": "US and Iran Trade Strikes After Brief Pause, Fauci Pleads The Fifth, New Asylum Rule",
-  "verdict": "RISK",
-  "bullets": [
-   "The U.S. and Iran have resumed military strikes following a brief pause, escalating Middle East tensions.",
-   "Escalating geopolitical conflict threatens global oil supplies, potentially driving up energy prices and inflation for consumers.",
-   "Higher oil and energy costs will likely increase transport and goods prices, squeezing household budgets over the coming months."
-  ],
-  "url": "https://www.npr.org/2026/07/30/nx-s1-5913045/us-and-iran-trade-strikes-after-brief-pause-fauci-pleads-the-fifth-new-asylum-rule"
- },
- {
-  "date": "2026-07-30",
-  "source": "Odd Lots",
-  "title": "How the Iranian Economy Actually Works",
-  "verdict": "THEME",
-  "bullets": [
-   "Iran's economy has transformed into a factionalized mafia state driven by cronyism and political fealty.",
-   "Despite potential peace talks, systemic structural corruption remains deeply entrenched in the country's political economy.",
-   "International investors and ordinary citizens face persistent economic volatility and political risk when operating within sanctioned, closed-market systems."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/how-the-iranian-economy-actually-works"
  }
 ]
