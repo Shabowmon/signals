@@ -1,5 +1,17 @@
-// Signals data — generated 2026-10-31 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-01 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-01",
+  "source": "Up First",
+  "title": "Who decides the future of America?",
+  "verdict": "THEME",
+  "bullets": [
+   "The upcoming midterm elections feature a deeply dissatisfied electorate driven by rising costs and foreign policy concerns.",
+   "Analysts and politicians offer conflicting predictions, ranging from a potential blue wave to a conservative victory.",
+   "Voters shape the broader macroeconomic and regulatory environment as policy shifts impact markets after the election results finalize."
+  ],
+  "url": "https://www.npr.org/2026/11/01/nx-s1-6023242/2026-midterms-primer"
+ },
  {
   "date": "2026-10-31",
   "source": "Planet Money",
@@ -2169,41 +2181,5 @@
    "Property owners and agricultural operators in the Southwest lose income and equity as water scarcity restricts operations over the next decade."
   ],
   "url": "https://www.npr.org/2026/08/01/nx-s1-5914656/truth-social-paid-access-colorado-river-cuts-fifas-faceplant"
- },
- {
-  "date": "2026-07-31",
-  "source": "Up First",
-  "title": "Trump Says Hamas Will Disarm, Blanche Faces GOP Pushback, Economic Outlook",
-  "verdict": "RISK",
-  "bullets": [
-   "A new Commerce Department report reveals that U.S. economic growth slowed during the second quarter.",
-   "Slower growth raises concerns about corporate earnings and potential broad labor market softening.",
-   "Investors face heightened portfolio volatility over the next two quarters if GDP deceleration continues into the second half of the year."
-  ],
-  "url": "https://www.npr.org/2026/07/31/nx-s1-5914565/trump-says-hamas-will-disarm-blanche-faces-gop-pushback-economic-outlook"
- },
- {
-  "date": "2026-07-31",
-  "source": "Odd Lots",
-  "title": "Why Private Credit Got Entangled With Insurance",
-  "verdict": "RISK",
-  "bullets": [
-   "Private equity firms are increasingly buying or partnering with insurance companies to fund the booming private credit market.",
-   "This entanglement shifts risk onto policyholders and potentially taxpayers if opaque private credit assets default.",
-   "Policyholders and taxpayers risk losing money when underregulated insurance-backed credit portfolios suffer systemic defaults during a downturn."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/why-private-credit-got-entangled-with-insurance"
- },
- {
-  "date": "2026-07-31",
-  "source": "Planet Money",
-  "title": "What makes a toy go viral",
-  "verdict": "OPPORTUNITY",
-  "bullets": [
-   "Playbook decoded: tweak existing trends, blind-box packaging with ultra-rare variants, TikTok unboxings (~500M views) → tens of millions sold, 10x last year.",
-   "Ops edge: weekly production scheduling, zero US warehousing, factory-to-retailer direct; carrying ~1 week of stock.",
-   "Money angle: the viral-consumer-product pattern (blind-box mechanics + TikTok distribution) is repeatable — Mattel and Hasbro now hire staff just to monitor TikTok."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5913719"
  }
 ]
