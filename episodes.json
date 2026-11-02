@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-01 — 182 episodes (rolling 3 months)
+// Signals data — generated 2026-11-02 — 183 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-02",
+  "source": "Up First",
+  "title": "Michigan Democrats Feud, Midterm Map Shifts, US-Iran Diplomacy Efforts",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers standard political news including midterm primary feuds and diplomatic efforts.",
+   "No specific financial markets, policy shifts, or economic trends are analyzed for investors.",
+   "There is no direct money angle affecting personal finances or asset pricing in the near term."
+  ],
+  "url": "https://www.npr.org/2026/11/02/nx-s1-6026052/michigan-democrats-feud-midterm-map-shifts-us-iran-diplomacy-efforts"
+ },
+ {
+  "date": "2026-11-02",
+  "source": "Odd Lots",
+  "title": "The $300 Billion Structured Notes Market Is Booming",
+  "verdict": "RISK",
+  "bullets": [
+   "The US structured notes market is surging toward $300 billion in sales, driven by investors seeking exposure to AI market turbulence.",
+   "These complex financial products fuse bank IOUs with derivatives, creating hidden systemic vulnerabilities and opacity for retail buyers.",
+   "Retail investors risk losing principal if derivative bets fail, while issuing banks gain fee revenue immediately, impacting portfolios over the next one to three years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-300-billion-structured-notes-market-is-booming"
+ },
  {
   "date": "2026-11-01",
   "source": "Up First",
@@ -2169,17 +2193,5 @@
    "There is no concrete money angle, as the discussion centers entirely on political messaging and electoral outcomes."
   ],
   "url": "https://www.npr.org/2026/08/02/nx-s1-5914789/trump-attacks-dsa-candidates-as-communists"
- },
- {
-  "date": "2026-08-01",
-  "source": "Up First",
-  "title": "Truth Social Paid Access, Colorado River Cuts, FIFA's Faceplant",
-  "verdict": "RISK",
-  "bullets": [
-   "Arizona, California, and Nevada face steep mandatory cuts to Colorado River water allocations over the next decade.",
-   "Agricultural businesses and property owners in the US Southwest face rising operating costs and declining asset values.",
-   "Property owners and agricultural operators in the Southwest lose income and equity as water scarcity restricts operations over the next decade."
-  ],
-  "url": "https://www.npr.org/2026/08/01/nx-s1-5914656/truth-social-paid-access-colorado-river-cuts-fifas-faceplant"
  }
 ]
