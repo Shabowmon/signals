@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-02 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-11-03 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-03",
+  "source": "Up First",
+  "title": "Election Day, Trump's Closing Message, Iran War And The Midterms",
+  "verdict": "RISK",
+  "bullets": [
+   "Midterm elections and control of Congress create immediate political uncertainty affecting policy and market stability.",
+   "Escalating tensions with Iran threaten global oil supplies, potentially driving up gas prices.",
+   "Energy consumers and investors face geopolitical volatility risks as potential conflict in the Strait of Hormuz could spike oil prices over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/11/03/nx-s1-6027249/election-day-trumps-closing-message-iran-war-and-the-midterms"
+ },
+ {
+  "date": "2026-11-03",
+  "source": "Odd Lots",
+  "title": "An Election Day Special With Nate Silver",
+  "verdict": "THEME",
+  "bullets": [
+   "Nate Silver analyzes the 2026 midterm elections, noting a stark contrast between favorable macroeconomic conditions for Democrats and historical hurdles.",
+   "The discussion covers the reliability of modern polling, common misconceptions about prediction markets, and the limits of AI in replacing human pollsters.",
+   "Political forecasters and campaign strategists will see shifts in public sentiment and prediction market odds as election results roll in tonight."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/an-election-day-special-with-nate-silver"
+ },
  {
   "date": "2026-11-02",
   "source": "Up First",
@@ -2181,17 +2205,5 @@
    "Defense contractors and foreign governments face rising input costs, while non-Chinese miners could see surging valuations over the next decade."
   ],
   "url": "https://omny.fm/shows/odd-lots/the-tungsten-market-is-warning-of-an-upcoming-war"
- },
- {
-  "date": "2026-08-02",
-  "source": "Up First",
-  "title": "Trump attacks DSA candidates as 'communists.' Will it stick?",
-  "verdict": "NONE",
-  "bullets": [
-   "The episode discusses political rhetoric and campaign strategies surrounding Democratic Socialist candidates ahead of the midterms.",
-   "It focuses on party branding and voter perception rather than direct economic policies or market impacts.",
-   "There is no concrete money angle, as the discussion centers entirely on political messaging and electoral outcomes."
-  ],
-  "url": "https://www.npr.org/2026/08/02/nx-s1-5914789/trump-attacks-dsa-candidates-as-communists"
  }
 ]
