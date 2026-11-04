@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-03 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-04 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-04",
+  "source": "Planet Money",
+  "title": "The history of light (classic)",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode explores the historical economics of illumination, tracing how light evolved from an expensive, labor-intensive commodity into an abundant and cheap utility.",
+   "It highlights Nobel laureate Bill Nordhaus's economic framework, illustrating how massive efficiency gains in basic goods drive long-term societal progress and specialization.",
+   "This is a classic educational retrospective with no immediate actionable financial opportunity, market risk, or tradeable structural trend."
+  ],
+  "url": "https://www.npr.org/2026/11/04/nx-s1-6027986/william-nordhaus-yale-nobel-obituary-history-light"
+ },
+ {
+  "date": "2026-11-04",
+  "source": "Up First",
+  "title": "Democrats' Midterm Blowout, Trump Blames Candidates For Losses, Democratic Agenda",
+  "verdict": "THEME",
+  "bullets": [
+   "Democrats won historic midterms, taking control of both the House and Senate under a divided government.",
+   "A divided government and new Democratic leadership will likely stall major legislative agendas and increase political gridlock.",
+   "Investors and taxpayers face potential regulatory and fiscal shifts over the next two years as Congress prepares to block nominees and launch investigations."
+  ],
+  "url": "https://www.npr.org/2026/11/04/nx-s1-6028632/democrats-midterm-blowout-trump-blames-candidates-for-losses-democratic-agenda"
+ },
  {
   "date": "2026-11-03",
   "source": "Up First",
@@ -2181,29 +2205,5 @@
    "No specific monetary gain, risk, or structural economic trend is identified for listeners."
   ],
   "url": "https://www.npr.org/2026/08/04/nx-s1-5919151/blanche-and-the-doj-michigan-primaries-spokane-wildfires"
- },
- {
-  "date": "2026-08-03",
-  "source": "Up First",
-  "title": "Blanche Rescinds 'Anti-Weaponization Fund', Iran Strikes Off, Midwest Primaries",
-  "verdict": "NONE",
-  "bullets": [
-   "The episode discusses political nominations, geopolitical negotiations with Iran, and upcoming midterm primary elections.",
-   "No direct investment opportunities, wealth risks, or structural financial trends are analyzed in this news summary.",
-   "There is no concrete money angle affecting ordinary peoples' finances in the near future."
-  ],
-  "url": "https://www.npr.org/2026/08/03/nx-s1-5917903/blanche-rescinds-anti-weaponization-fund-iran-strikes-off-midwest-primaries"
- },
- {
-  "date": "2026-08-03",
-  "source": "Odd Lots",
-  "title": "The Tungsten Market Is Warning of an Upcoming War",
-  "verdict": "RISK",
-  "bullets": [
-   "Tungsten is a critical metal for military manufacturing with high production concentration in China.",
-   "Geopolitical tensions threaten supply chains, creating severe industrial bottlenecks and defense cost inflation.",
-   "Defense contractors and foreign governments face rising input costs, while non-Chinese miners could see surging valuations over the next decade."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/the-tungsten-market-is-warning-of-an-upcoming-war"
  }
 ]
