@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-04 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-05 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-05",
+  "source": "Up First",
+  "title": "Democrats' First 100 Hours, Outstanding Midterm Races, Trump Doubles Down On Policies",
+  "verdict": "THEME",
+  "bullets": [
+   "Democrats prepare an aggressive congressional agenda focusing on restoring health subsidies and reversing Medicaid cuts.",
+   "Shifting electoral maps and tariff disputes highlight ongoing policy volatility following the midterms.",
+   "Voters and investors navigate potential healthcare and trade policy shifts over the next congressional term."
+  ],
+  "url": "https://www.npr.org/2026/11/05/nx-s1-6030264/democrats-first-100-hours-outstanding-midterm-races-trump-doubles-down-on-policies"
+ },
+ {
+  "date": "2026-11-05",
+  "source": "Odd Lots",
+  "title": "James Bosworth on What Comes After Lula's Stunning Win",
+  "verdict": "RISK",
+  "bullets": [
+   "Political shifts in Latin America, including Lula's surprise victory in Brazil, threaten regional stability and alter trade alignments.",
+   "Changes in leadership create regulatory uncertainty for multinational corporations operating in South America.",
+   "Investors with exposure to Brazilian assets face potential policy volatility and currency risk over the next one to three years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/james-bosworth-on-what-comes-after-lulas-stunning-win"
+ },
  {
   "date": "2026-11-04",
   "source": "Planet Money",
@@ -2193,17 +2217,5 @@
    "Money angle: sand as a scarce commodity; construction-material supply chains; tourism (10–20% of Caribbean GDP) lets hotel investors hold governments ransom."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5913981"
- },
- {
-  "date": "2026-08-04",
-  "source": "Up First",
-  "title": "Blanche and the DOJ, Michigan Primaries, Spokane Wildfires",
-  "verdict": "NONE",
-  "bullets": [
-   "The episode covers political appointments, primary elections, and wildfire arrests.",
-   "These news topics lack direct, actionable financial implications for personal money management.",
-   "No specific monetary gain, risk, or structural economic trend is identified for listeners."
-  ],
-  "url": "https://www.npr.org/2026/08/04/nx-s1-5919151/blanche-and-the-doj-michigan-primaries-spokane-wildfires"
  }
 ]
