@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-05 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-11-06 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-06",
+  "source": "Up First",
+  "title": "Post-Election Market & Jobs, Why Gas Prices Could Stay High, Trump's Arch Blocked",
+  "verdict": "RISK",
+  "bullets": [
+   "Markets are experiencing a sharp selloff while inflation continues to outpace wage growth.",
+   "Gas prices are projected to remain elevated for months due to geopolitical tensions, regardless of legislative promises.",
+   "Ordinary consumers and wage earners lose purchasing power immediately through persistent high fuel and living costs."
+  ],
+  "url": "https://www.npr.org/2026/11/06/nx-s1-6032450/post-election-market-jobs-why-gas-prices-could-stay-high-trumps-arch-blocked"
+ },
+ {
+  "date": "2026-11-06",
+  "source": "Odd Lots",
+  "title": "The Macro Implications of the Blue Tsunami",
+  "verdict": "RISK",
+  "bullets": [
+   "A Democratic midterm sweep and newfound control over key statehouses signal major upcoming shifts in federal policy, tax rules, and regulatory oversight.",
+   "Companies and sectors heavily tied to specific political alignments, such as Tesla and SpaceX, face immediate downward pressure and increased volatility.",
+   "Equity investors and tech sector stakeholders face regulatory and tariff shifts that could compress valuations over the next one to three years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-macro-implications-of-the-blue-tsunami"
+ },
  {
   "date": "2026-11-05",
   "source": "Up First",
@@ -2181,41 +2205,5 @@
    "Global currency interventions and unconventional central bank liquidity tools create shifting foreign exchange dynamics for institutional and retail traders over the coming months."
   ],
   "url": "https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention"
- },
- {
-  "date": "2026-08-05",
-  "source": "Planet Money",
-  "title": "Sand heists and property rights in the Caribbean (Summer School)",
-  "verdict": "THEME",
-  "bullets": [
-   "Examining alternative property rights systems like Barbuda's communal land ownership highlights the economic consequences of moving away from formal titles.",
-   "The theft of natural resources like sand in Jamaica demonstrates the growing economic vulnerability of public goods in small island economies.",
-   "Real estate developers and local residents are impacted when communal lands transition to private ownership, altering wealth distribution and access over the long term."
-  ],
-  "url": "https://www.npr.org/2026/08/05/nx-s1-5913981/summer-school-caribbean-property-rights-sand-heist"
- },
- {
-  "date": "2026-08-05",
-  "source": "Up First",
-  "title": "Primary Election Results, US Missile Stockpiles Running Low, New Flu Vaccine",
-  "verdict": "RISK",
-  "bullets": [
-   "The U.S. Army is facing critical shortages in long-range attack missile stockpiles.",
-   "The FDA is considering the approval of the first mRNA-based influenza vaccine.",
-   "Defense contractors and vaccine manufacturers face shifting demand, potentially impacting defense stocks and healthcare portfolios in the medium term."
-  ],
-  "url": "https://www.npr.org/2026/08/05/nx-s1-5921135/primary-election-results-us-missile-stockpiles-running-low-new-flu-vaccine"
- },
- {
-  "date": "2026-08-05",
-  "source": "Planet Money",
-  "title": "Sand heists and property rights in the Caribbean",
-  "verdict": "THEME",
-  "bullets": [
-   "The global sand market is worth $250B+/yr; an entire beach was once stolen overnight in Jamaica, and ~24 Indonesian islands disappeared selling sand.",
-   "Property rights drive investment: Barbuda's communal-land legacy vs. the post-hurricane push for individual titles.",
-   "Money angle: sand as a scarce commodity; construction-material supply chains; tourism (10–20% of Caribbean GDP) lets hotel investors hold governments ransom."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5913981"
  }
 ]
