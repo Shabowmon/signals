@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-06 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-07 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-07",
+  "source": "Up First",
+  "title": "SCOTUS After the Midterms, Social Media Lawsuit, Life Under Economic Pressure in Cuba",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode covers midterm election fallout, a Big Tech lawsuit against California's child protection law, and rising economic hardships in Cuba.",
+   "While touchpoints involve policy and law, the discussion focuses on judicial impact and international relations rather than personal finance insights.",
+   "No direct money angle, actionable investment opportunity, or wealth risk is presented for ordinary individuals."
+  ],
+  "url": "https://www.npr.org/2026/11/07/nx-s1-6032622/scotus-after-the-midterms-social-media-lawsuit-life-under-economic-pressure-in-cuba"
+ },
+ {
+  "date": "2026-11-06",
+  "source": "Planet Money",
+  "title": "Inside the insurance industry’s destruction lab",
+  "verdict": "THEME",
+  "bullets": [
+   "Insurance companies are funding destruction labs to test building materials against extreme weather like fires, hail, and hurricanes.",
+   "This research helps insurers set building standards, reduce disaster payouts, and minimize escalating climate-related liabilities.",
+   "Homeowners in disaster-prone areas face shifting insurance costs based on these evolving resilience standards over the long term."
+  ],
+  "url": "https://www.npr.org/2026/11/06/nx-s1-6032860/fire-insurance-industry-destruction-lab"
+ },
  {
   "date": "2026-11-06",
   "source": "Up First",
@@ -2181,29 +2205,5 @@
    "Money angle: delaying Social Security from 62 to 70 raises benefits ~75%; the system faces insolvency in ~6 years."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5918646"
- },
- {
-  "date": "2026-08-06",
-  "source": "Up First",
-  "title": "Hormuz Negotiations, Michigan Senate Race, Trump Talks Economy",
-  "verdict": "RISK",
-  "bullets": [
-   "Strait of Hormuz negotiations are underway to potentially reopen the vital shipping lane, which has faced severe disruptions.",
-   "Geopolitical tensions in the Middle East continue to threaten global energy supplies and shipping costs.",
-   "Global oil buyers and consumers face ongoing risks of elevated fuel prices if maritime transit disruptions persist through the year."
-  ],
-  "url": "https://www.npr.org/2026/08/06/nx-s1-5922766/hormuz-negotiations-michigan-senate-race-trump-talks-economy"
- },
- {
-  "date": "2026-08-06",
-  "source": "Odd Lots",
-  "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
-  "verdict": "THEME",
-  "bullets": [
-   "The US and Japan recently intervened to stop the yen's slide by selling euros and using a specialized Fed facility.",
-   "East Asian currencies remain weak due to past interest rate divergence and regional economic pressures.",
-   "Global currency interventions and unconventional central bank liquidity tools create shifting foreign exchange dynamics for institutional and retail traders over the coming months."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention"
  }
 ]
