@@ -1,5 +1,17 @@
-// Signals data — generated 2026-11-07 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-08 — 181 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-08",
+  "source": "Up First",
+  "title": "Where will America go from here?",
+  "verdict": "THEME",
+  "bullets": [
+   "Democrats experienced a blue wave in the midterm elections, shifting the balance of power.",
+   "The podcast analyzes the lessons learned from the election results and future political direction.",
+   "Policy shifts resulting from the new congressional landscape will shape federal spending and regulatory priorities over the next two years."
+  ],
+  "url": "https://www.npr.org/2026/11/08/nx-s1-6032739/where-will-america-go-from-here"
+ },
  {
   "date": "2026-11-07",
   "source": "Up First",
@@ -2157,53 +2169,5 @@
    "Shareholders in private prison operators stand to gain revenue over the coming quarters as long as federal detention contracts expand."
   ],
   "url": "https://www.npr.org/2026/08/08/nx-s1-5924824/a-new-attorney-general-profiting-off-immigration-detention-hollywood-merger"
- },
- {
-  "date": "2026-08-07",
-  "source": "Planet Money",
-  "title": "Older workers aren’t retiring. Should they be forced to?",
-  "verdict": "THEME",
-  "bullets": [
-   "Older workers are delaying retirement longer due to longer lifespans and shifting economic incentives.",
-   "The trend creates tension as younger workers face slower career advancement and blocked paths to wealth accumulation.",
-   "Younger workers and entry-level employees face delayed promotions and wage growth over the next decade as senior positions remain occupied."
-  ],
-  "url": "https://www.npr.org/2026/08/07/nx-s1-5918646/forced-mandatory-retirement-baby-boomers-mid-career-workers"
- },
- {
-  "date": "2026-08-07",
-  "source": "Up First",
-  "title": "Trump Tries to Limit Birthright Citizenship, Hormuz Deal, Iran War Fallout",
-  "verdict": "RISK",
-  "bullets": [
-   "President Trump is issuing new executive orders to restrict birthright citizenship following previous Supreme Court defeats.",
-   "Iran is finalizing a deal with Oman to reopen the Strait of Hormuz while excluding American and Israeli shipping.",
-   "Global supply chains and energy importers face rising shipping costs and geopolitical volatility over the coming months due to restricted Middle East transit routes."
-  ],
-  "url": "https://www.npr.org/2026/08/07/nx-s1-5924590/trump-limits-birthright-citizenship-hormuz-deal-iran-war-fallout"
- },
- {
-  "date": "2026-08-07",
-  "source": "Odd Lots",
-  "title": "How a Sardine Gets From the Ocean to a Can",
-  "verdict": "THEME",
-  "bullets": [
-   "Tinned fish has shifted from a budget staple to a trendy, premium grocery category driven by lifestyle branding.",
-   "Climate change and geopolitical tensions are disrupting global supply chains, exemplified by Moroccan export suspensions.",
-   "Boutique food brands and seafood importers face rising input costs, impacting margins over the next few years."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/how-a-sardine-gets-from-the-ocean-to-a-can"
- },
- {
-  "date": "2026-08-07",
-  "source": "Planet Money",
-  "title": "Older workers aren't retiring. Should they be forced to?",
-  "verdict": "THEME",
-  "bullets": [
-   "11M US workers are over 65; the share of 65+ employed nearly doubled since the mid-1980s. The pay gap between over-55 and under-35 workers rose 61% from 1979 to 2018.",
-   "Debate: domain-specific mandatory retirement ages vs. the lump-of-labor fallacy — more workers create more jobs, and delayed retirement raises tax revenue.",
-   "Money angle: delaying Social Security from 62 to 70 raises benefits ~75%; the system faces insolvency in ~6 years."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5918646"
  }
 ]
