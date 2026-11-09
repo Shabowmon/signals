@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-08 — 181 episodes (rolling 3 months)
+// Signals data — generated 2026-11-09 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-09",
+  "source": "Up First",
+  "title": "Trump's Post-Midterm Changes, Lame-Duck Congress, Nvidia Huang Investigation",
+  "verdict": "RISK",
+  "bullets": [
+   "Nvidia is investigating CEO Jensen Huang over potential ties between a former partner and Chinese intelligence.",
+   "The probe threatens leadership stability at a cornerstone company in the U.S.-China technology rivalry.",
+   "Investors face potential stock volatility and regulatory fallout if the investigation uncovers material security risks in the near term."
+  ],
+  "url": "https://www.npr.org/2026/11/09/nx-s1-6034314/trumps-post-midterm-changes-lame-duck-congress-nvidia-huang-investigation"
+ },
+ {
+  "date": "2026-11-09",
+  "source": "Odd Lots",
+  "title": "This Is How New York City Takes Out Its Trash",
+  "verdict": "NONE",
+  "bullets": [
+   "New York City manages 24 million pounds of daily waste through a unique, unpriced public service model.",
+   "The city is rolling out a new containerization program and custom side-loading trucks to modernize garbage collection.",
+   "This operational deep dive into municipal sanitation offers no direct financial opportunities, risks, or actionable money angles for investors."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/this-is-how-new-york-city-takes-out-its-trash"
+ },
  {
   "date": "2026-11-08",
   "source": "Up First",
@@ -2157,17 +2181,5 @@
    "There is no direct financial insight, investment opportunity, or wealth risk discussed for listeners."
   ],
   "url": "https://omny.fm/shows/ourtown/introducing-our-town"
- },
- {
-  "date": "2026-08-08",
-  "source": "Up First",
-  "title": "A New Attorney General, Profiting Off Immigration Detention, Hollywood Merger",
-  "verdict": "OPPORTUNITY",
-  "bullets": [
-   "Private prison companies are generating record financial gains due to increased ICE detentions under current immigration policies.",
-   "Investors tracking the private corrections sector could benefit from sustained government spending on border enforcement and detention infrastructure.",
-   "Shareholders in private prison operators stand to gain revenue over the coming quarters as long as federal detention contracts expand."
-  ],
-  "url": "https://www.npr.org/2026/08/08/nx-s1-5924824/a-new-attorney-general-profiting-off-immigration-detention-hollywood-merger"
  }
 ]
