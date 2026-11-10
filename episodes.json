@@ -1,5 +1,17 @@
-// Signals data — generated 2026-11-09 — 182 episodes (rolling 3 months)
+// Signals data — generated 2026-11-10 — 181 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-10",
+  "source": "Up First",
+  "title": "Hegseth Impeachment Push, Trump Holds Off Iran Strikes, Congress Summons Nvidia's CEO",
+  "verdict": "RISK",
+  "bullets": [
+   "Congress is increasing scrutiny on Nvidia's CEO regarding export controls and ties to companies linked to restricted chip shipments to China.",
+   "Geopolitical tensions in the Middle East and domestic political battles introduce heightened volatility for defense and tech sectors.",
+   "Nvidia shareholders and tech investors face potential regulatory headwinds and compliance risks that could impact stock performance over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/11/10/nx-s1-6035504/hegseth-impeachment-push-trump-holds-off-iran-strikes-congress-summons-nvidias-ceo"
+ },
  {
   "date": "2026-11-09",
   "source": "Up First",
@@ -2157,29 +2169,5 @@
    "Publishers with strong proprietary content and bundle strategies stand to capture long-term licensing revenue as AI firms seek legal training data over the next few years."
   ],
   "url": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai"
- },
- {
-  "date": "2026-08-09",
-  "source": "Up First",
-  "title": "The black lung crisis deepens in Appalachia",
-  "verdict": "RISK",
-  "bullets": [
-   "Rates of black lung disease among Appalachian coal miners have reached a 50-year high, increasingly affecting younger workers.",
-   "Federal regulations and life-saving protections targeting toxic silica dust remain stalled in the courts.",
-   "Mining families and regional healthcare systems face severe financial and medical costs over the coming decades."
-  ],
-  "url": "https://www.npr.org/2026/08/09/nx-s1-5924781/black-lung-crisis-deepens-in-appalachia"
- },
- {
-  "date": "2026-08-09",
-  "source": "Odd Lots",
-  "title": "Introducing: Our Town",
-  "verdict": "NONE",
-  "bullets": [
-   "This podcast episode focuses on a social experiment and community conflict in Gainesboro, Tennessee.",
-   "The narrative explores the impact of a new group of residents moving into a small rural town.",
-   "There is no direct financial insight, investment opportunity, or wealth risk discussed for listeners."
-  ],
-  "url": "https://omny.fm/shows/ourtown/introducing-our-town"
  }
 ]
