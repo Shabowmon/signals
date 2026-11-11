@@ -1,5 +1,41 @@
-// Signals data — generated 2026-11-10 — 181 episodes (rolling 3 months)
+// Signals data — generated 2026-11-11 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-11",
+  "source": "Planet Money",
+  "title": "How bodegas led to the Yemeni coffeehouse explosion",
+  "verdict": "NONE",
+  "bullets": [
+   "The episode explores the history and cultural economics of immigrant-run businesses like bodegas and Yemeni coffee shops.",
+   "It discusses why certain immigrant communities concentrate in specific industries rather than spreading across diverse job sectors.",
+   "There is no direct personal finance opportunity, risk, or actionable market trend for listeners to trade on."
+  ],
+  "url": "https://www.npr.org/2026/11/11/nx-s1-6036839/yemeni-coffee-house-bodega-immigrant-entrepreneur"
+ },
+ {
+  "date": "2026-11-11",
+  "source": "Up First",
+  "title": "Hegseth Impeachment Blocked, House Leadership Change, DOJ Charges Terror Suspects",
+  "verdict": "THEME",
+  "bullets": [
+   "House leadership changes signal a more combative political landscape as parties prepare for divided government next year.",
+   "Geopolitical tensions and terror charges highlight ongoing security threats impacting international stability.",
+   "Political volatility and shifts in defense spending priorities will influence federal budget allocations and government contractor outlooks over the coming year."
+  ],
+  "url": "https://www.npr.org/2026/11/11/nx-s1-6037294/hegseth-impeachment-blocked-house-leadership-change-doj-charges-terror-suspects"
+ },
+ {
+  "date": "2026-11-11",
+  "source": "Odd Lots",
+  "title": "The Perfect Storm That Clobbered Hedge Funds",
+  "verdict": "RISK",
+  "bullets": [
+   "Recent hedge fund losses following crowded AI trade unwinds signal growing volatility in tech-heavy portfolios.",
+   "Post-midterm political shifts and uncertainty surrounding upcoming tech IPOs like Anthropic add macro risk to equities.",
+   "Retail investors holding concentrated AI stocks risk sudden drawdowns over the next few months as institutional sentiment sours."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds"
+ },
  {
   "date": "2026-11-10",
   "source": "Up First",
@@ -2145,29 +2181,5 @@
    "Oil importers and consumers lose as prolonged Strait of Hormuz closures drive up energy costs and inflation over the coming months."
   ],
   "url": "https://www.npr.org/2026/08/11/nx-s1-5927991/progressives-in-midwest-primaries-trump-and-iran-stalemate-columbia-earthquake"
- },
- {
-  "date": "2026-08-10",
-  "source": "Up First",
-  "title": "Iran Negotiations Drag, New Inflation Report, Sexual Abuse at Elite School",
-  "verdict": "RISK",
-  "bullets": [
-   "Inflation reports indicate the cost of living continues to rise faster than ordinary wages.",
-   "Stalled negotiations regarding the Strait of Hormuz threaten to impact global energy supply stability.",
-   "Consumers and wage-earners lose purchasing power as inflation outpaces income growth over the coming months."
-  ],
-  "url": "https://www.npr.org/2026/08/10/nx-s1-5927040/iran-negotiations-drag-new-inflation-report-sexual-abuse-at-elite-school"
- },
- {
-  "date": "2026-08-10",
-  "source": "Odd Lots",
-  "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
-  "verdict": "THEME",
-  "bullets": [
-   "The New York Times successfully adapts its business model through digital subscriptions, acquisitions like The Athletic, and strategic video expansion.",
-   "Media companies are balancing the internal adoption of AI tools for investigative reporting with aggressive legal battles against AI search and model developers.",
-   "Publishers with strong proprietary content and bundle strategies stand to capture long-term licensing revenue as AI firms seek legal training data over the next few years."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai"
  }
 ]
