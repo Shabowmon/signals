@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-12 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-13 — 183 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-13",
+  "source": "Up First",
+  "title": "Nvidia's Future, Trump's Ties to Huang, US Mediates Russia-Ukraine Talks",
+  "verdict": "RISK",
+  "bullets": [
+   "Nvidia CEO Jensen Huang exits abruptly amid scandal, introducing sudden leadership uncertainty for the dominant AI chipmaker.",
+   "Scrutiny over Huang's ties to the Trump administration threatens to alter favorable U.S. chip policies toward China.",
+   "Retail and institutional investors holding Nvidia shares face heightened volatility and potential valuation corrections over the next one to six months."
+  ],
+  "url": "https://www.npr.org/2026/11/13/nx-s1-6039811/nvidias-future-trumps-ties-to-huang-us-mediates-russia-ukraine-talks"
+ },
+ {
+  "date": "2026-11-13",
+  "source": "Odd Lots",
+  "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+  "verdict": "RISK",
+  "bullets": [
+   "A major legal firm collapsed rapidly due to a partner run, highlighting the structural fragility of partner-led business models.",
+   "The integration of AI threatens to further disrupt traditional law firm operations and profitability structures.",
+   "Partners and high-income earners in professional services face sudden employment and income risks if firm stability collapses over the next few years."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/why-a-2-billion-law-firm-suddenly-collapsed"
+ },
  {
   "date": "2026-11-12",
   "source": "Up First",
@@ -2169,41 +2193,5 @@
    "Logistics companies and consumers will pay higher shipping costs over the next 12 to 18 months, squeezing retail margins and feeding goods inflation."
   ],
   "url": "https://omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it"
- },
- {
-  "date": "2026-08-12",
-  "source": "Planet Money",
-  "title": "Currency Chaos in Argentina (Summer School)",
-  "verdict": "RISK",
-  "bullets": [
-   "Argentina's chronic inflation and currency volatility force everyday citizens to develop extreme financial adaptability just to preserve basic purchasing power.",
-   "Government interventions like capital controls and artificial exchange rates frequently backfire, creating severe economic distortions and high transaction costs.",
-   "Savers and local business owners lose wealth rapidly when local currency collapses, underscoring the risk of hyperinflationary environments over multi-year horizons."
-  ],
-  "url": "https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility"
- },
- {
-  "date": "2026-08-12",
-  "source": "Up First",
-  "title": "Primary Race Results, Trump's Plane Swap Ruse, Disarming Iraq's Iran-Backed Militias",
-  "verdict": "NONE",
-  "bullets": [
-   "Primary election results shed light on the balance between progressive and moderate Democrats ahead of upcoming midterms.",
-   "President Trump confirmed he secretly swapped planes when leaving a NATO summit in Turkey last month.",
-   "Geopolitical news coverage of domestic politics, international security, and general news contains no actionable personal finance angle."
-  ],
-  "url": "https://www.npr.org/2026/08/12/nx-s1-5929049/primary-race-results-trumps-plane-swap-ruse-disarming-iraqs-iran-backed-militias"
- },
- {
-  "date": "2026-08-12",
-  "source": "Planet Money",
-  "title": "Currency Chaos in Argentina",
-  "verdict": "THEME",
-  "bullets": [
-   "A century of populist spending → inflation → austerity → default cycles; 2022: ~100% inflation, 12+ special exchange rates, dollars in shoeboxes.",
-   "Milei's austerity: inflation down to ~30%/yr (low for Argentina) after a deeper recession; 7–8% unemployment.",
-   "Money angle: capital controls breed arbitrage and corruption; 'volatility is bad, flexibility is good' — a warning for US deficits."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5914841"
  }
 ]
