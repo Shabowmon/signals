@@ -1,5 +1,41 @@
-// Signals data — generated 2026-11-13 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-11-14 — 183 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-14",
+  "source": "Up First",
+  "title": "Air Travel Ground Stop, Starship Rocket Launch, ExxonMobil Eyes Return to Venezuela",
+  "verdict": "OPPORTUNITY",
+  "bullets": [
+   "ExxonMobil is exploring a potential return to Venezuela amid shifting U.S. presidential trade promises.",
+   "Lifting sanctions or opening up Venezuelan oil fields could alter global energy supply and pricing dynamics.",
+   "Energy investors and shareholders stand to gain or lose as regional oil concessions develop over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/11/14/nx-s1-6040235/air-travel-ground-stop-starship-rocket-launch-exxonmobil-eyes-return-to-venezuela"
+ },
+ {
+  "date": "2026-11-14",
+  "source": "Odd Lots",
+  "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+  "verdict": "RISK",
+  "bullets": [
+   "Nvidia faces a cloudy outlook and potential stock downgrades following Jensen Huang's unexpected resignation as CEO.",
+   "Uncertainty around future leadership and potential government crackdowns threaten to spill over into the wider AI ecosystem.",
+   "Retail investors and tech portfolios heavily exposed to Nvidia face potential capital losses if leadership transition falters over the next year."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era"
+ },
+ {
+  "date": "2026-11-13",
+  "source": "Planet Money",
+  "title": "Are wildfires making the future uninsurable?",
+  "verdict": "RISK",
+  "bullets": [
+   "Catastrophic wildfires are disrupting property insurance markets, causing skyrocketing premiums and widespread coverage cancellations in high-risk zones.",
+   "Communities and state regulators are scrambling to find new models to maintain housing liquidity and prevent market collapse.",
+   "Homeowners in wildfire-prone regions face severe threats to property values and permanent wealth loss through surging insurance costs over the next decade."
+  ],
+  "url": "https://www.npr.org/2026/11/13/nx-s1-6040434/california-wildfires-home-insurance"
+ },
  {
   "date": "2026-11-13",
   "source": "Up First",
@@ -2157,41 +2193,5 @@
    "Money angle: a market built on information asymmetry (clients told $20k for policies worth $300k) — financial plumbing, not a personal trade."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5885879"
- },
- {
-  "date": "2026-08-13",
-  "source": "Up First",
-  "title": "Democrat Ro Khanna’s 2028 pitch: tax the rich, regulate tech | NPR's Newsmakers",
-  "verdict": "THEME",
-  "bullets": [
-   "Representative Ro Khanna is weighing a 2028 presidential run centered on progressive economic realignment and heavier taxation.",
-   "Proposed policies include a wealth tax and aggressive tech regulation aimed at shifting capital away from billionaires.",
-   "High-net-worth individuals and major tech shareholders face rising regulatory and tax risks ahead of the 2028 election cycle."
-  ],
-  "url": "db30db03-6f9c-4eac-9907-e0dbf82af370"
- },
- {
-  "date": "2026-08-13",
-  "source": "Up First",
-  "title": "Democratic Party Divide, Lettuce is Saving You Green, Colombia Rescue Efforts",
-  "verdict": "OPPORTUNITY",
-  "bullets": [
-   "New inflation reports highlight falling lettuce prices, offering a brief respite for household grocery budgets.",
-   "Declining vegetable costs help lower overall consumer food expenses in the near term.",
-   "Ordinary consumers gain immediate monthly savings on grocery bills as volatile fresh produce prices dip, easing short-term cost-of-living pressures."
-  ],
-  "url": "https://www.npr.org/2026/08/13/nx-s1-5930137/democratic-party-divide-lettuce-is-saving-you-green-colombia-rescue-efforts"
- },
- {
-  "date": "2026-08-13",
-  "source": "Odd Lots",
-  "title": "Trucking Is Booming Again, And Drivers Aren't Happy About It",
-  "verdict": "RISK",
-  "bullets": [
-   "Freight volumes and billing are rebounding, driven by growing demand and stricter enforcement on driver eligibility.",
-   "Supreme Court rulings and regulatory crackdowns threaten to further constrain trucking capacity and push operating costs higher.",
-   "Logistics companies and consumers will pay higher shipping costs over the next 12 to 18 months, squeezing retail margins and feeding goods inflation."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it"
  }
 ]
