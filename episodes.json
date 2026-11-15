@@ -1,5 +1,17 @@
-// Signals data — generated 2026-11-14 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-11-15 — 181 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-15",
+  "source": "Up First",
+  "title": "What universal free childcare is costing New Mexico",
+  "verdict": "RISK",
+  "bullets": [
+   "New Mexico's universal free childcare program faces severe supply shortages and long waitlists.",
+   "Soaring demand is outpacing state budget capacity and available provider infrastructure.",
+   "State taxpayers and enrolled families risk funding gaps or service disruptions as the ambitious policy strains public finances over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/11/15/nx-s1-6040239/what-universal-free-childcare-is-costing-new-mexico"
+ },
  {
   "date": "2026-11-14",
   "source": "Up First",
@@ -2157,41 +2169,5 @@
    "Everyday consumers and retail sector businesses lose purchasing power and revenue as inflation outpaces wage growth throughout 2026."
   ],
   "url": "https://www.npr.org/2026/08/15/nx-s1-5931445/retail-sales-drop-u-s-warships-in-distress-accurately-polling-the-electorate"
- },
- {
-  "date": "2026-08-14",
-  "source": "Up First",
-  "title": "Poor Conditions on USS Lincoln, Economic Warfare on Iran, Ukraine's Drone Campaign",
-  "verdict": "RISK",
-  "bullets": [
-   "The Trump administration is escalating economic warfare against Iran, exacerbating severe inflation for ordinary citizens.",
-   "Geopolitical tensions and sanctions risk driving global energy supply volatility and broader macroeconomic instability.",
-   "Global energy consumers and investors face potential oil price spikes and supply disruptions over the medium term."
-  ],
-  "url": "https://www.npr.org/2026/08/14/nx-s1-5931213/poor-conditions-on-uss-lincoln-economic-warfare-on-iran-ukraines-drone-campaign"
- },
- {
-  "date": "2026-08-14",
-  "source": "Odd Lots",
-  "title": "A Historic El Niño Is Coming That Could Cost the World Trillions",
-  "verdict": "RISK",
-  "bullets": [
-   "A historic El Niño is forecasted for 2026, threatening to cause severe droughts, flooding, and global catastrophes.",
-   "Severe weather disruptions could devastate agricultural yields and spark sudden, widespread spikes in global food and energy prices.",
-   "Consumers and insurers face higher costs as weather disasters unfold, while agricultural commodity traders could see volatility-driven gains over the next year."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/a-historic-el-ni-o-is-coming-that-could-cost-the-world-trillions"
- },
- {
-  "date": "2026-08-14",
-  "source": "Planet Money",
-  "title": "You bet your life insurance",
-  "verdict": "THEME",
-  "bullets": [
-   "Life settlements: sell life insurance for $0.10–$0.70 on the dollar; one seller turned ~$20k in premiums into a $470k payout (~20x).",
-   "Post-2008, Wall Street bought settlements as uncorrelated assets, bundling portfolios; even insurers now invest to hedge lapse assumptions.",
-   "Money angle: a market built on information asymmetry (clients told $20k for policies worth $300k) — financial plumbing, not a personal trade."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5885879"
  }
 ]
