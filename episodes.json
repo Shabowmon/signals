@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-15 — 181 episodes (rolling 3 months)
+// Signals data — generated 2026-11-16 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-16",
+  "source": "Up First",
+  "title": "FAA Ground Stop Update, Democratic Leadership Contest, Trump's Travels To Asia",
+  "verdict": "RISK",
+  "bullets": [
+   "A nationwide FAA ground stop highlights severe vulnerabilities in aging U.S. air traffic control infrastructure.",
+   "The failure occurred right before the Thanksgiving travel rush, signaling potential disruptions for the holiday travel economy.",
+   "Airlines, travelers, and tourism-dependent businesses face potential financial losses if infrastructure failures recur during peak travel seasons over the next year."
+  ],
+  "url": "https://www.npr.org/2026/11/16/nx-s1-6042207/faa-ground-stop-update-democratic-leadership-contest-trumps-travels-to-asia"
+ },
+ {
+  "date": "2026-11-16",
+  "source": "Odd Lots",
+  "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
+  "verdict": "RISK",
+  "bullets": [
+   "The US-China AI rivalry creates an impossible trilemma forcing a choice between defense, social spending, and sound money.",
+   "Aggressive geopolitical competition and supply constraints threaten macroeconomic stability and fuel inflationary pressures.",
+   "Bondholders and taxpayers lose purchasing power over the next decade as governments prioritize military and tech dominance over fiscal discipline."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis"
+ },
  {
   "date": "2026-11-15",
   "source": "Up First",
@@ -2157,17 +2181,5 @@
    "No direct personal finance impact, investment angle, or financial risk is discussed."
   ],
   "url": "https://www.npr.org/2026/08/16/nx-s1-5931477/beavers-britain-climate-change-flooding-dams"
- },
- {
-  "date": "2026-08-15",
-  "source": "Up First",
-  "title": "Retail Sales Drop, U.S. Warships in Distress, Accurately Polling the Electorate",
-  "verdict": "RISK",
-  "bullets": [
-   "Retail sales have dropped as stagnant paychecks fail to keep pace with persistent rising prices.",
-   "Households are facing a significant financial squeeze, increasing pressure on consumer discretionary spending.",
-   "Everyday consumers and retail sector businesses lose purchasing power and revenue as inflation outpaces wage growth throughout 2026."
-  ],
-  "url": "https://www.npr.org/2026/08/15/nx-s1-5931445/retail-sales-drop-u-s-warships-in-distress-accurately-polling-the-electorate"
  }
 ]
