@@ -1,5 +1,17 @@
-// Signals data — generated 2026-11-16 — 182 episodes (rolling 3 months)
+// Signals data — generated 2026-11-17 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-17",
+  "source": "Up First",
+  "title": "FAA Tech Upgrade Update, Trump Asia Agenda, Petition To Reinstate Huang At Nvidia",
+  "verdict": "RISK",
+  "bullets": [
+   "United Airlines flights disrupted by ongoing technical problems, highlighting broader vulnerabilities in the outdated national air traffic control system.",
+   "Silicon Valley leaders petitioning to reinstate Jensen Huang at Nvidia, raising uncertainty over the chipmaker's future governance and scandal fallout.",
+   "Investors face potential volatility in tech holdings and travel stocks over the next few months as FAA spending debates and Nvidia leadership struggles unfold."
+  ],
+  "url": "https://www.npr.org/2026/11/17/nx-s1-6043667/faa-tech-upgrade-update-trump-asia-agenda-petition-to-reinstate-huang-at-nvidia"
+ },
  {
   "date": "2026-11-16",
   "source": "Up First",
@@ -2169,17 +2181,5 @@
    "AI developers and infrastructure providers risk sudden operational shutdowns, while audit and cybersecurity firms gain demand as enterprises seek mandatory safety verification over the next 1-3 years."
   ],
   "url": "https://omny.fm/shows/odd-lots/what-the-openai-hugging-face-hack-really-tells-us-about-ai-danger"
- },
- {
-  "date": "2026-08-16",
-  "source": "Up First",
-  "title": "Hot Dam: Why beavers are Britain’s new climate heroes",
-  "verdict": "NONE",
-  "bullets": [
-   "Britain is reintroducing native beavers to restore local ecosystems and natural landscapes.",
-   "The rewilding effort has sparked mixed reactions among local residents and land managers.",
-   "No direct personal finance impact, investment angle, or financial risk is discussed."
-  ],
-  "url": "https://www.npr.org/2026/08/16/nx-s1-5931477/beavers-britain-climate-change-flooding-dams"
  }
 ]
