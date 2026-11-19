@@ -1,5 +1,41 @@
-// Signals data — generated 2026-11-18 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-11-19 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-19",
+  "source": "Up First",
+  "title": "Ben Shapiro reassesses the president he campaigned for | Newsmakers",
+  "verdict": "NONE",
+  "bullets": [
+   "Conservative commentator Ben Shapiro expresses disappointment with the Trump administration's tariffs, foreign policy, and ethics.",
+   "Shapiro notes that controversies like the Trump family's crypto venture contributed to Republican midterm losses.",
+   "This political analysis focuses on party dynamics and candidate prospects for 2028 rather than providing actionable money-making insights for ordinary individuals."
+  ],
+  "url": "e924f1b3-7876-468d-936a-176487ce137f"
+ },
+ {
+  "date": "2026-11-19",
+  "source": "Up First",
+  "title": "Trump Trilateral Summit In China, House Democratic Leadership, Anthropic IPO",
+  "verdict": "RISK",
+  "bullets": [
+   "Anthropic has launched the largest IPO in history, marking a major milestone for public market AI exposure.",
+   "The massive offering serves as a critical test for investor appetite amid growing concerns of an AI market bubble.",
+   "Retail and institutional investors face potential losses if AI valuations correct, which could happen immediately following the public listing."
+  ],
+  "url": "https://www.npr.org/2026/11/19/nx-s1-6047056/trump-trilateral-summit-in-china-house-democratic-leadership-anthropic-ipo"
+ },
+ {
+  "date": "2026-11-19",
+  "source": "Odd Lots",
+  "title": "This Is The Problem With AI's Most Bullish Chart",
+  "verdict": "RISK",
+  "bullets": [
+   "Growing credit market fragilities and complex financing models threaten the sustainability of the massive AI infrastructure buildout.",
+   "Rising local opposition to data centers is emerging as a potent political issue for newly empowered lawmakers.",
+   "Bondholders and tech equity investors risk losses if GPU rental rates and capex returns fail to justify current valuations over the next 12 to 24 months."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart"
+ },
  {
   "date": "2026-11-18",
   "source": "Planet Money",
@@ -2181,17 +2217,5 @@
    "Money angle: industrial-policy design; the 'flying geese' ladder as a development template; the US lesson — pair subsidies with export discipline."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5936481"
- },
- {
-  "date": "2026-08-18",
-  "source": "Up First",
-  "title": "Kushner Netanyahu Gaza Meeting, Iran War Depleting US Military, FL, AK, WY Primaries",
-  "verdict": "RISK",
-  "bullets": [
-   "Protracted Middle East conflicts are severely depleting U.S. military stockpiles, including critical interceptor missiles and naval warships.",
-   "A stretched defense apparatus threatens global security stability and signals heavy future government expenditures for defense replenishment.",
-   "Taxpayers and defense contractors will feel the fiscal impact through increased federal spending and potential supply chain bottlenecks over the next one to three years."
-  ],
-  "url": "https://www.npr.org/2026/08/18/nx-s1-5936106/kushner-netanyahu-gaza-meeting-iran-war-depleting-us-military-fl-ak-wy-primaries"
  }
 ]
