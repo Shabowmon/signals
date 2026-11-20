@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-19 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-11-20 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-20",
+  "source": "Up First",
+  "title": "Government Funding Pressure On Iran War, National Security & Tech, Iowa Detonation",
+  "verdict": "RISK",
+  "bullets": [
+   "The Trump administration approved advanced US chip sales to Chinese firms linked to the military, raising geopolitical tensions.",
+   "Congressional Democrats are weighing government funding deadlines to potentially defund military action against Iran, threatening market stability.",
+   "Semiconductor investors and defense contractors face regulatory volatility as national security export controls and government funding debates intensify over the next year."
+  ],
+  "url": "https://www.npr.org/2026/11/20/nx-s1-6048392/government-funding-pressure-on-iran-war-national-security-tech-iowa-detonation"
+ },
+ {
+  "date": "2026-11-20",
+  "source": "Odd Lots",
+  "title": "How an American AI Company Uses Chinese Open-Weight Models",
+  "verdict": "RISK",
+  "bullets": [
+   "The Trump administration is weighing mandatory public disclosures for US companies utilizing Chinese AI models.",
+   "Potential restrictions could disrupt businesses relying on cheaper Chinese open-source tech over expensive US alternatives.",
+   "US tech investors and firms utilizing hybrid open-weight models face regulatory compliance costs and sudden margin compression if rules pass soon."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models"
+ },
  {
   "date": "2026-11-19",
   "source": "Up First",
@@ -2181,41 +2205,5 @@
    "Investors and workers face long-term structural shifts in labor demand and productivity over the coming decades as AI capabilities expand."
   ],
   "url": "https://omny.fm/shows/odd-lots/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems"
- },
- {
-  "date": "2026-08-19",
-  "source": "Planet Money",
-  "title": "Getting entrepreneurial in Korea (Summer School)",
-  "verdict": "THEME",
-  "bullets": [
-   "South Korea transformed from poverty to an economic powerhouse driven by industrial textile manufacturing and global exports.",
-   "North Korea features underground capitalist markets and an emerging entrepreneurial class known as the Donju.",
-   "Investors and observers gain insight into how grassroots commerce survives in restrictive socialist states over decades."
-  ],
-  "url": "https://www.npr.org/2026/08/19/nx-s1-5936481/korea-summer-school-entrepreneurial"
- },
- {
-  "date": "2026-08-19",
-  "source": "Up First",
-  "title": "Florida Primary Results, US-Canada Tariffs, Meta Trial Begins",
-  "verdict": "RISK",
-  "bullets": [
-   "President Trump delayed new US-Canada tariffs by three days amid discussions over restarting a controversial oil pipeline.",
-   "A major antitrust and safety trial against Meta began in California regarding addictive platform designs for young users.",
-   "Importers and energy consumers face potential cost spikes over the next few months if US-Canada trade negotiations fail and tariffs take effect."
-  ],
-  "url": "https://www.npr.org/2026/08/19/nx-s1-5937387/florida-primary-results-us-canada-tariffs-meta-trial-begins"
- },
- {
-  "date": "2026-08-19",
-  "source": "Planet Money",
-  "title": "Getting entrepreneurial in Korea",
-  "verdict": "THEME",
-  "bullets": [
-   "Korea's rise: land reform + industrial policy + 'export discipline' (reward top exporters, force global competition).",
-   "The Desh Garments story: 128 Bangladeshis trained in Korea → 4,000+ factories in 30 years; Bangladesh is now the world's #2 clothing exporter.",
-   "Money angle: industrial-policy design; the 'flying geese' ladder as a development template; the US lesson — pair subsidies with export discipline."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5936481"
  }
 ]
