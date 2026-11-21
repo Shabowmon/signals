@@ -1,5 +1,41 @@
-// Signals data — generated 2026-11-20 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-21 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-21",
+  "source": "Up First",
+  "title": "AI Stocks Tumble, Permitting Reform Bill Clears Senate, Confusion Over Medicaid Cuts",
+  "verdict": "RISK",
+  "bullets": [
+   "Tech investors face growing volatility as market concerns intensify over a potential artificial intelligence market bubble.",
+   "Healthcare beneficiaries risk losing coverage due to upcoming Medicaid work requirement rules taking effect in January.",
+   "Tech investors and Medicaid recipients face direct financial headwinds from market corrections and policy shifts starting early next year."
+  ],
+  "url": "https://www.npr.org/2026/11/21/nx-s1-6048721/ai-stocks-tumble-permitting-reform-bill-clears-senate-confusion-over-medicaid-cuts"
+ },
+ {
+  "date": "2026-11-21",
+  "source": "Odd Lots",
+  "title": "How AI Is Forcing China to Reshape Industrial Policy",
+  "verdict": "THEME",
+  "bullets": [
+   "China is aggressively reshaping its industrial policy around AI, robotics, and semiconductors to achieve technological self-reliance.",
+   "Despite rapid technological advances, structural tensions and state intervention mean Chinese tech success does not reliably translate to strong stock returns.",
+   "Retail investors should note that state-driven innovation in China may create high industry output while yielding poor shareholder value over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/how-ai-is-forcing-china-to-reshape-industrial-policy"
+ },
+ {
+  "date": "2026-11-20",
+  "source": "Planet Money",
+  "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+  "verdict": "THEME",
+  "bullets": [
+   "The U.S. government is reviving ancient \"prize law\" to quickly sell off seized oil tankers and cargo.",
+   "This legal shift aims to eliminate the massive daily maintenance costs of holding captured vessels indefinitely.",
+   "Investors in maritime shipping and sanctioned energy logistics face growing regulatory volatility over the next 1-3 years."
+  ],
+  "url": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court"
+ },
  {
   "date": "2026-11-20",
   "source": "Up First",
@@ -2181,29 +2217,5 @@
    "Money angle: retail buyer mechanics; licensing economics (3–7% of net revenue); manufacturing risk sits with the maker."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5940897"
- },
- {
-  "date": "2026-08-20",
-  "source": "Up First",
-  "title": "Trump Warns Economic Warfare For Aiding Iran, Federal Debt Grows, Venezuela Oil Deals",
-  "verdict": "RISK",
-  "bullets": [
-   "U.S. national debt has surpassed $40 trillion, causing government interest payments to exceed defense spending.",
-   "High national borrowing is driving up interest rates and increasing the cost of mortgages and small business loans.",
-   "Borrowers and taxpayers lose as persistently high interest rates and government borrowing increase the cost of credit over the next few years."
-  ],
-  "url": "https://www.npr.org/2026/08/20/nx-s1-5939306/trump-warns-economic-warfare-for-aiding-iran-federal-debt-grows-venezuela-oil-deals"
- },
- {
-  "date": "2026-08-20",
-  "source": "Odd Lots",
-  "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
-  "verdict": "THEME",
-  "bullets": [
-   "Philosopher Nick Bostrom discusses potential societal impacts if artificial intelligence successfully automates all human labor and problem-solving.",
-   "The conversation explores existential questions about human purpose, meaning, and economic structure in a fully automated future.",
-   "Investors and workers face long-term structural shifts in labor demand and productivity over the coming decades as AI capabilities expand."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems"
  }
 ]
