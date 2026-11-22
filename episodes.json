@@ -1,5 +1,17 @@
-// Signals data — generated 2026-11-21 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-11-22 — 182 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-22",
+  "source": "Up First",
+  "title": "The booming cash advance industry trapping America’s small businesses",
+  "verdict": "RISK",
+  "bullets": [
+   "Merchant cash advances are growing rapidly as a largely unregulated source of high-interest funding for struggling small businesses.",
+   "Borrowers face aggressive daily payments that can quickly spiral into catastrophic debt and business failure.",
+   "Small business owners seeking fast capital risk losing everything through predatory lending structures over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/11/22/nx-s1-6048657/the-booming-cash-advance-industry-trapping-americas-small-businesses"
+ },
  {
   "date": "2026-11-21",
   "source": "Up First",
@@ -2169,53 +2181,5 @@
    "Importers, cross-border businesses, and taxpayers face higher costs and growing fiscal instability over the next few years."
   ],
   "url": "https://www.npr.org/2026/08/22/nx-s1-5938071/indycar-in-dc-fresh-tariffs-on-canadian-goods-national-debt-hits-40-trillion"
- },
- {
-  "date": "2026-08-21",
-  "source": "Planet Money",
-  "title": "Who decides what big box sells? Our GAME got us answers",
-  "verdict": "NONE",
-  "bullets": [
-   "The episode explores the behind-the-scenes process of how products get selected for big box store shelves.",
-   "It follows the hosts as they pitch their own custom board game to retail buyers.",
-   "There is no actionable financial advice, wealth risk, or macro trend for individual investors."
-  ],
-  "url": "https://www.npr.org/2026/08/21/nx-s1-5940897/buyer-boardgame-bigbox-target-walmart"
- },
- {
-  "date": "2026-08-21",
-  "source": "Up First",
-  "title": "Economic Warfare On Iran, White House Ballroom, Bond Market Warning Signs",
-  "verdict": "RISK",
-  "bullets": [
-   "Treasury Secretary Scott Bessent is preparing new economic sanctions against Iran and any nations providing it financial lifelines.",
-   "Government bond yields have hit their highest level in nearly two decades amid simultaneous sell-offs in stocks and bonds.",
-   "Bond investors and fixed-income holders lose purchasing power as rising yields depress existing bond prices, pressuring portfolios over the coming months."
-  ],
-  "url": "https://www.npr.org/2026/08/21/nx-s1-5940545/economic-warfare-on-iran-white-house-ballroom-bond-market-warning-signs"
- },
- {
-  "date": "2026-08-21",
-  "source": "Odd Lots",
-  "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
-  "verdict": "RISK",
-  "bullets": [
-   "Public backlash against massive AI data center construction is surging across local U.S. communities.",
-   "Municipalities and states are reversing historical tax incentives and enacting new limits on data center projects.",
-   "Real estate investors and lenders face rising delays, regulatory hurdles, and potential project cancellations over the next 1-3 years."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash"
- },
- {
-  "date": "2026-08-21",
-  "source": "Planet Money",
-  "title": "Who decides what big box sells?",
-  "verdict": "THEME",
-  "bullets": [
-   "81% of US retail is still brick-and-mortar; twice-yearly 'line reviews' filter ~100 pitches to 3–6 shelf slots — 'retail Tetris.'",
-   "Planet Money × Exploding Kittens' Sasquatch game: a 3–5 min pitch, accepted chain-wide, ~100k units in first orders.",
-   "Money angle: retail buyer mechanics; licensing economics (3–7% of net revenue); manufacturing risk sits with the maker."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5940897"
  }
 ]
