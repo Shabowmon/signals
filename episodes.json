@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-22 — 182 episodes (rolling 3 months)
+// Signals data — generated 2026-11-24 — 183 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-23",
+  "source": "Up First",
+  "title": "AI Impact On Economy, Russia-Ukraine War Spills Into Poland, No Deal At COP31",
+  "verdict": "RISK",
+  "bullets": [
+   "Massive artificial intelligence infrastructure investments are driving up overall prices and adding renewed pressure to economy-wide inflation.",
+   "Geopolitical escalation in Eastern Europe increases broader economic uncertainty and market volatility.",
+   "Everyday consumers and bondholders lose purchasing power over the next year as inflation pressures persist from infrastructure costs."
+  ],
+  "url": "https://www.npr.org/2026/11/23/nx-s1-6050781/ai-impact-on-economy-russia-ukraine-war-spills-into-poland-no-deal-at-cop31"
+ },
+ {
+  "date": "2026-11-23",
+  "source": "Odd Lots",
+  "title": "What a Town Full of Vibecoders Says About the Chinese Economy",
+  "verdict": "THEME",
+  "bullets": [
+   "China exhibits significantly higher consumer and grassroots optimism toward artificial intelligence compared to the United States.",
+   "Everyday adoption in China spans diverse demographics, including older generations and content creators utilizing AI tools for microdramas.",
+   "Tech adoption trends in China signal a massive structural shift in digital consumption over the next decade, without an immediate direct trade for individual investors."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/what-a-town-full-of-vibecoders-says-about-the-chinese-economy"
+ },
  {
   "date": "2026-11-22",
   "source": "Up First",
@@ -2169,17 +2193,5 @@
    "Commercial fishing businesses could increase revenues starting within the next year as new permits and access rules are finalized."
   ],
   "url": "https://www.npr.org/2026/08/23/nx-s1-5940802/http-npr-org-2026-08-23-nx-s1-5940802-a-visit-to-the-remote-pacific-island-ecosystem-losing-protections"
- },
- {
-  "date": "2026-08-22",
-  "source": "Up First",
-  "title": "IndyCar in DC; Fresh Tariffs on Canadian Goods; National Debt Hits $40 Trillion",
-  "verdict": "RISK",
-  "bullets": [
-   "Canada suspended trade talks and imposed new 50 percent tariffs on various U.S. imports.",
-   "The U.S. national debt officially surpassed the $40 trillion threshold this week.",
-   "Importers, cross-border businesses, and taxpayers face higher costs and growing fiscal instability over the next few years."
-  ],
-  "url": "https://www.npr.org/2026/08/22/nx-s1-5938071/indycar-in-dc-fresh-tariffs-on-canadian-goods-national-debt-hits-40-trillion"
  }
 ]
