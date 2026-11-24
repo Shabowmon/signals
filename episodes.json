@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-24 — 183 episodes (rolling 3 months)
+// Signals data — generated 2026-11-24 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-24",
+  "source": "Up First",
+  "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening",
+  "verdict": "RISK",
+  "bullets": [
+   "President Trump's direct intervention in Nvidia's leadership raises concerns about corporate governance and government overreach in private enterprise.",
+   "The AI economy's extreme dependence on a single company and CEO creates a massive systemic vulnerability for tech portfolios.",
+   "Investors tied to tech indexes risk severe losses if key personnel or geopolitical tensions destabilize Nvidia's market dominance over the next few years."
+  ],
+  "url": "https://www.npr.org/2026/11/24/nx-s1-6052075/trumps-push-to-reinstate-huang-market-reacts-to-nvidia-russia-ukraine-war-widening"
+ },
+ {
+  "date": "2026-11-24",
+  "source": "Odd Lots",
+  "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+  "verdict": "RISK",
+  "bullets": [
+   "Nvidia CEO Jensen Huang's abrupt reinstatement triggered a massive relief rally in chip stocks following severe market wobbles.",
+   "Despite the market surge, structural concerns regarding AI revenue sustainability and heavy infrastructure financing remain entirely unresolved.",
+   "Long-term retail investors face severe volatility risk as government intervention props up tech valuations disconnected from fundamental revenue timelines."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/what-jensen-huangs-stunning-return-means-for-the-ai-trade"
+ },
  {
   "date": "2026-11-23",
   "source": "Up First",
@@ -2181,17 +2205,5 @@
    "Emerging market investors gain potential long-term portfolio growth as African industrialization and major IPOs advance over the next decade."
   ],
   "url": "https://omny.fm/shows/odd-lots/the-nigerian-industrial-behemoth-that-could-reshape-the-african-economy"
- },
- {
-  "date": "2026-08-23",
-  "source": "Up First",
-  "title": "A visit to the remote Pacific island ecosystem losing protections",
-  "verdict": "OPPORTUNITY",
-  "bullets": [
-   "The Trump administration is pursuing deregulation to open protected Pacific waters near Palmyra Atoll to commercial fishing.",
-   "Commercial fishing operators gain access to previously restricted, highly productive marine zones with potentially rich fish stocks.",
-   "Commercial fishing businesses could increase revenues starting within the next year as new permits and access rules are finalized."
-  ],
-  "url": "https://www.npr.org/2026/08/23/nx-s1-5940802/http-npr-org-2026-08-23-nx-s1-5940802-a-visit-to-the-remote-pacific-island-ecosystem-losing-protections"
  }
 ]
