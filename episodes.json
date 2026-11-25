@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-24 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-25 — 184 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-25",
+  "source": "Planet Money",
+  "title": "How to steal a truckload of bourbon and not get caught",
+  "verdict": "RISK",
+  "bullets": [
+   "Sophisticated cargo theft rings are targeting high-value goods like bourbon, seafood, and data center equipment on a massive scale.",
+   "Supply chain vulnerabilities and decentralized freight networks make stolen goods difficult for law enforcement to track.",
+   "Consumers and businesses ultimately absorb these losses through higher retail prices and increased shipping insurance costs over the next year."
+  ],
+  "url": "https://www.npr.org/2026/11/25/nx-s1-6053008/cargo-theft-groceries-fbi-cyber"
+ },
+ {
+  "date": "2026-11-25",
+  "source": "Up First",
+  "title": "Army Explosives Detonation In Iowa, Abrego Garcia Leaves The US, Congress And Nvidia",
+  "verdict": "RISK",
+  "bullets": [
+   "Lawmakers from both parties are pushing for tighter restrictions on Nvidia chip sales to China following national security concerns.",
+   "Potential new export controls threaten to disrupt the semiconductor supply chain and impact tech sector valuations.",
+   "Semiconductor investors and tech shareholders risk facing lower revenue growth and regulatory shocks as US-China trade tensions escalate over the coming months."
+  ],
+  "url": "https://www.npr.org/2026/11/25/nx-s1-6053785/army-explosives-detonation-in-iowa-abrego-garcia-leaves-the-us-congress-and-nvidia"
+ },
  {
   "date": "2026-11-24",
   "source": "Up First",
@@ -2181,29 +2205,5 @@
    "Oil-importing economies and energy consumers face higher fuel costs immediately if China and regional neighbors alter their purchasing habits under U.S. pressure."
   ],
   "url": "https://www.npr.org/2026/08/25/nx-s1-5944083/trumps-economic-d-day-for-iran-gulf-allies-react-to-us-plan-scotus-mail-in-voting"
- },
- {
-  "date": "2026-08-24",
-  "source": "Up First",
-  "title": "New Economic Pressure On Iran, Iran Warns Neighbors, Tariff War With Canada",
-  "verdict": "RISK",
-  "bullets": [
-   "The U.S. is launching severe economic pressure and a 50% tariff on Canada, escalating international trade tensions.",
-   "Iran's threats to disrupt regional oil supplies risk driving up global energy prices and inflation.",
-   "Energy consumers and businesses reliant on Canadian imports face higher near-term costs due to tariffs and potential oil shocks."
-  ],
-  "url": "https://www.npr.org/2026/08/24/nx-s1-5942844/new-economic-pressure-on-iran-iran-warns-neighbors-tariff-war-with-canada"
- },
- {
-  "date": "2026-08-24",
-  "source": "Odd Lots",
-  "title": "The Nigerian Industrial Behemoth That Could Reshape the African Economy",
-  "verdict": "THEME",
-  "bullets": [
-   "Nigeria's Dangote Refinery secured a $1 billion underwriting for what is set to become Africa's largest stock market IPO.",
-   "Economic growth across the African continent is projected to reach 4.0% in 2026, driven by infrastructure and resources.",
-   "Emerging market investors gain potential long-term portfolio growth as African industrialization and major IPOs advance over the next decade."
-  ],
-  "url": "https://omny.fm/shows/odd-lots/the-nigerian-industrial-behemoth-that-could-reshape-the-african-economy"
  }
 ]
