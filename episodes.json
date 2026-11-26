@@ -1,5 +1,29 @@
-// Signals data — generated 2026-11-25 — 184 episodes (rolling 3 months)
+// Signals data — generated 2026-11-26 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-26",
+  "source": "Up First",
+  "title": "Storm Postpones Thanksgiving Day Parade, Trump's New Tariffs, Iowa Post-Detonation",
+  "verdict": "RISK",
+  "bullets": [
+   "The Trump administration has proposed new tariffs on goods from fourteen major trading partners, potentially triggering legal battles and trade tensions.",
+   "New trade barriers risk increasing costs for imported consumer goods, putting upward pressure on inflation and household expenses.",
+   "Importers, retailers, and everyday consumers face potential price hikes and supply chain disruptions starting as early as the tariff implementation dates."
+  ],
+  "url": "https://www.npr.org/2026/11/26/nx-s1-6054761/storm-postpones-thanksgiving-day-parade-trumps-new-tariffs-iowa-post-detonation"
+ },
+ {
+  "date": "2026-11-26",
+  "source": "Odd Lots",
+  "title": "Marc Levinson on How UPS Created Modern Logistics",
+  "verdict": "NONE",
+  "bullets": [
+   "Discusses the historical origins and logistics innovations of UPS through the biography of its founder.",
+   "Explores how scientific management principles shaped early parcel delivery and the last-mile problem.",
+   "This historical profile lacks any actionable financial opportunity, wealth risk, or forward-looking structural money trend for investors."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/marc-levinson-on-how-ups-created-modern-logistics"
+ },
  {
   "date": "2026-11-25",
   "source": "Planet Money",
@@ -2193,17 +2217,5 @@
    "Money angle: externality-pricing and coordination mechanisms as policy technology."
   ],
   "url": "https://www.npr.org/transcripts/nx-s1-5943609"
- },
- {
-  "date": "2026-08-25",
-  "source": "Up First",
-  "title": "Trump's Economic D-Day For Iran, Gulf Allies React To US Plan, SCOTUS Mail-in Voting",
-  "verdict": "RISK",
-  "bullets": [
-   "The Trump administration launched a major economic offensive against Iran, targeting 60 entities and warning global partners to cut ties.",
-   "Escalating U.S. sanctions and Gulf trade disruptions threaten to drive up global energy prices and create volatility in commodity markets.",
-   "Oil-importing economies and energy consumers face higher fuel costs immediately if China and regional neighbors alter their purchasing habits under U.S. pressure."
-  ],
-  "url": "https://www.npr.org/2026/08/25/nx-s1-5944083/trumps-economic-d-day-for-iran-gulf-allies-react-to-us-plan-scotus-mail-in-voting"
  }
 ]
