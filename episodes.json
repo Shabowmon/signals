@@ -1,5 +1,41 @@
-// Signals data — generated 2026-11-26 — 185 episodes (rolling 3 months)
+// Signals data — generated 2026-11-27 — 185 episodes (rolling 3 months)
 [
+ {
+  "date": "2026-11-27",
+  "source": "Planet Money",
+  "title": "The economics of podcasting and NPR+",
+  "verdict": "NONE",
+  "bullets": [
+   "Planet Money examines the internal mechanics of the NPR+ subscription model and podcast economics.",
+   "The episode explains the strategic decision to wind down single-show subscriptions in favor of bundled offerings.",
+   "No direct investment opportunity, financial risk, or broad economic trend is presented for listeners."
+  ],
+  "url": "https://www.npr.org/2026/11/27/nx-s1-6053171/the-economics-of-podcasting-and-npr"
+ },
+ {
+  "date": "2026-11-27",
+  "source": "Up First",
+  "title": "Thanksgiving Storm Aftermath, Black Friday Economy, Eisenkot's Coalition Talks",
+  "verdict": "RISK",
+  "bullets": [
+   "Holiday travel disruptions caused by severe weather are impacting millions of Americans over the Thanksgiving weekend.",
+   "Record holiday spending continues despite persistent inflation forcing consumers to sacrifice non-essential expenses for gifts.",
+   "Retailers and consumers face squeezed budgets this holiday shopping season as inflation strains household finances heading into year-end."
+  ],
+  "url": "https://www.npr.org/2026/11/27/nx-s1-6055516/thanksgiving-storm-aftermath-black-friday-economy-eisenkots-coalition-talks"
+ },
+ {
+  "date": "2026-11-27",
+  "source": "Odd Lots",
+  "title": "Isabella Weber's Vision for an Affordability Agenda",
+  "verdict": "THEME",
+  "bullets": [
+   "Economist Isabella Weber argues that modern inflation is driven by specific bottlenecks in essentials like food, housing, and energy rather than broad monetary expansion.",
+   "The discussion highlights how governments may increasingly turn toward targeted price controls and state intervention to manage affordability crises.",
+   "Policymakers and voters face ongoing pressure over high living costs, signaling a structural shift toward state-managed pricing that could disrupt heavily regulated sectors over the next decade."
+  ],
+  "url": "https://omny.fm/shows/odd-lots/isabella-webers-vision-for-an-affordability-agenda"
+ },
  {
   "date": "2026-11-26",
   "source": "Up First",
@@ -2181,41 +2217,5 @@
    "Bondholders and mortgage borrowers face continued interest rate volatility over the next year."
   ],
   "url": "https://omny.fm/shows/odd-lots/kansas-city-fed-president-jeffrey-schmid-on-the-first-jackson-hole-of-the-warsh-era"
- },
- {
-  "date": "2026-08-26",
-  "source": "Planet Money",
-  "title": "The continent nobody owns & everyone benefits from (Summer School)",
-  "verdict": "NONE",
-  "bullets": [
-   "This episode explores the history, living conditions, and theoretical economic valuation of Antarctica.",
-   "It features archival reporting from NPR's early days and listener-submitted economic ideas for the future.",
-   "There is no direct money angle, actionable investment opportunity, financial risk, or structural trend affecting personal wealth."
-  ],
-  "url": "https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica"
- },
- {
-  "date": "2026-08-26",
-  "source": "Up First",
-  "title": "Dolly Parton Remembered, Canada Hits US With Tariffs, US Visa Revocations",
-  "verdict": "RISK",
-  "bullets": [
-   "Canada has announced retaliatory tariffs on $20 billion worth of American goods, taking effect September 8.",
-   "This escalating trade friction introduces supply chain disruptions and potential cost increases for businesses and consumers.",
-   "Exporters to Canada and manufacturing sectors face margin compression and reduced demand starting immediately in September 2026."
-  ],
-  "url": "https://www.npr.org/2026/08/26/nx-s1-5944801/dolly-parton-remembered-canada-hits-us-with-tariffs-us-visa-revocations"
- },
- {
-  "date": "2026-08-26",
-  "source": "Planet Money",
-  "title": "The continent nobody owns & everyone benefits from",
-  "verdict": "THEME",
-  "bullets": [
-   "The Southern Ocean is valued ~$180B/yr (tourism, fisheries, climate services); the Antarctic Treaty runs on trust, not ownership.",
-   "Listener ideas: Tokyo's proof-of-parking rule; Vienna's nonprofit housing (10% more nonprofit stock cuts for-profit rents 5%); Brazil's consorcio group self-financing.",
-   "Money angle: externality-pricing and coordination mechanisms as policy technology."
-  ],
-  "url": "https://www.npr.org/transcripts/nx-s1-5943609"
  }
 ]
